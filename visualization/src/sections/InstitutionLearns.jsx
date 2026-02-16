@@ -70,8 +70,8 @@ export default function InstitutionLearns({ amendments }) {
 
   // Amendments that have "typed in" so far
   const typed = amendments?.slice(0, visibleCount) || [];
-  // Which ones to actually show (collapsed or expanded)
-  const displayed = showAll ? typed : typed.slice(0, PREVIEW_COUNT);
+  // Always-visible first N amendments
+  const displayed = typed.slice(0, PREVIEW_COUNT);
   const hiddenCount = typed.length - PREVIEW_COUNT;
 
   return (
