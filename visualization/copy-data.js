@@ -32,6 +32,12 @@ let missing = 0;
 for (const [src, dst] of copies) {
   const srcPath = resolve(root, src);
   const dstPath = resolve(dest, dst);
+  // Don't overwrite curated static data with shared runtime files
+  if (existsSync(dstPath)) {
+    console.log(`  Skipping ${dst} (already exists)`);
+    copied++;
+    continue;
+  }
   if (existsSync(srcPath)) {
     cpSync(srcPath, dstPath);
     copied++;
