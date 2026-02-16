@@ -1,0 +1,386 @@
+INPATIENT HOSPITALIZATION RECORD
+=================================
+Facility: Mercy Regional Medical Center
+Patient: Nina Okafor  DOB: 1997-09-14  MRN: 4291738
+Admission Date: 2025-02-08  Time: 14:22
+Discharge Date: 2025-02-12  Time: 11:45
+Length of Stay: 4 days
+Attending Physician: Dr. K. Rivera, MD (Hospitalist)
+Consulting Service: Hematology — Dr. J. Walsh, MD
+
+=================================
+ADMISSION NOTE
+=================================
+Date/Time: 2025-02-08, 15:10
+Author: Dr. K. Rivera, MD
+
+CHIEF COMPLAINT: "Terrible pain everywhere and I have a high fever"
+
+HISTORY OF PRESENT ILLNESS:
+Nina is a 27-year-old African American female graphic designer who presents to the emergency department with acute onset severe diffuse bone pain and fever. Symptoms began approximately 18 hours ago with progressive aching in her lower back and bilateral legs, which escalated to severe diffuse pain involving her back, chest, and bilateral lower extremities. She describes the pain as 10/10, deep, aching, "like my bones are being crushed." She has been unable to eat, drink, or sleep due to pain severity.
+
+She reports a measured fever of 102.2F at home this morning, with rigors and chills. She denies cough, sore throat, dysuria, abdominal pain, or diarrhea. No known sick contacts. No recent travel.
+
+This is her third episode of severe acute pain requiring emergency evaluation. Prior episodes: back/hip pain (02/2023, ER visit), chest/arm pain (08/2023, ER visit). She reports numerous milder episodes in between, managed at home. She carries a diagnosis of fibromyalgia (diagnosed by rheumatology, 02/2024) and is taking duloxetine 60mg daily.
+
+She also reports an ongoing non-healing ulcer on her left ankle (present approximately 6 months, under dermatology care) and chronic fatigue.
+
+PAST MEDICAL HISTORY:
+1. Fibromyalgia (diagnosed 02/2024)
+2. Recurrent acute pain episodes (02/2023, 08/2023, multiple milder episodes)
+3. Anemia — Hgb 10.1 on 08/2023 (attributed to menstrual losses)
+4. Left medial malleolus ulcer (ongoing, under dermatology care)
+5. Vitamin D insufficiency (on supplementation)
+
+SURGICAL HISTORY: None
+
+MEDICATIONS:
+- Duloxetine 60mg daily
+- Vitamin D3 2000 IU daily
+- Ibuprofen PRN (takes intermittently despite rheumatology recommendation to discontinue)
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY:
+- Mother: Hypertension, type 2 diabetes
+- Father: Hypertension
+- Brother: "Has blood problems — was hospitalized a lot as a kid, still gets pain sometimes"
+
+SOCIAL HISTORY:
+Graphic designer, works from home. Non-smoker. Occasional alcohol. No illicit drugs. Single. Both parents of Nigerian descent.
+
+PHYSICAL EXAMINATION (Admission):
+Vitals:
+  Temp: 102.2F (39.0C)
+  HR: 118 bpm
+  BP: 144/92 mmHg
+  RR: 22 breaths/min
+  SpO2: 94% on room air
+  Pain: 10/10
+
+General: Young African American woman in severe distress. Writhing in bed. Diaphoretic. Guarding chest and abdomen. Unable to lie still.
+HEENT: Sclerae ICTERIC (clearly yellow). Conjunctivae PALE. Oral mucosa dry, pale.
+Neck: Supple. No lymphadenopathy. No JVD.
+CV: Tachycardic. Regular rhythm. Grade II/VI systolic flow murmur at left sternal border (not previously documented). No gallop.
+Lungs: Decreased breath sounds at bilateral bases. No wheezes. No crackles. Mild dullness to percussion at bilateral bases.
+Abdomen: Soft. Mild diffuse tenderness without guarding or rebound. Spleen palpable 2 cm below left costal margin. No hepatomegaly.
+Extremities: Left medial malleolus — shallow ulcer 2.5 x 2 cm with fibrinous base, mild surrounding erythema. No purulence. Right ankle — intact skin (no ulcer at this visit). Bilateral lower extremities without edema. No calf tenderness.
+Back: Significant tenderness to palpation over bilateral paraspinals, ribs, and iliac crests.
+Skin: Diffuse jaundice. No petechiae. No purpura. No rash.
+Neuro: Alert, oriented x4. No focal deficits.
+
+** ADMISSION EXAM NOTABLE FOR: Scleral icterus, pallor, palpable splenomegaly, systolic flow murmur (high-output state from anemia), SpO2 94% on room air, and severe pain. This combination — jaundice + pallor + splenomegaly + severe bone pain + fever in a young African American woman — is the classic presentation of a sickle cell vaso-occlusive crisis with possible acute chest syndrome. **
+
+=================================
+ADMISSION ORDERS
+=================================
+1. Admit to general medicine, telemetry bed
+2. NPO initially, advance diet as tolerated
+3. IV normal saline bolus 1L, then D5 1/2 NS at 150 mL/hr
+4. Morphine PCA: demand dose 1mg, lockout 6 minutes, 4-hour limit 30mg
+5. Ketorolac 15mg IV q6h x 48 hours (then transition to PO NSAID)
+6. Acetaminophen 1000mg IV q6h (scheduled)
+7. Ondansetron 4mg IV q6h PRN nausea
+8. Blood cultures x2 (peripheral) prior to antibiotics
+9. Ceftriaxone 2g IV daily (empiric, pending cultures — febrile patient)
+10. CBC with differential, reticulocyte count, CMP, LDH, haptoglobin, bilirubin (total and direct), Coombs test
+11. Chest X-ray (portable)
+12. Continuous pulse oximetry
+13. Incentive spirometry q2h while awake
+14. DVT prophylaxis: sequential compression devices (hold pharmacologic given concern for possible hemorrhagic etiology of anemia)
+15. Duloxetine 60mg daily (continue home medication)
+
+=================================
+HOSPITAL DAY 1 (02/08) — ADMISSION EVENING
+=================================
+
+LABORATORY RESULTS (Admission):
+----------------------------------
+CBC:
+  WBC:              14.8 K/uL     [4.5-11.0]      ** ELEVATED ** (leukocytosis — stress/pain/infection)
+  RBC:              3.1 M/uL      [4.0-5.5]       ** LOW **
+  Hemoglobin:       8.8 g/dL      [12.0-16.0]     ** LOW — MODERATE ANEMIA **
+  Hematocrit:       26.8%         [36-46]          ** LOW **
+  MCV:              86 fL         [80-100]         NORMAL
+  MCH:              28.4 pg       [27-33]          NORMAL
+  MCHC:             32.8 g/dL     [32-36]          NORMAL
+  RDW:              18.5%         [11.5-14.5]      ** ELEVATED ** (significant anisocytosis)
+  Platelets:        425 K/uL      [150-400]       ** MILDLY ELEVATED ** (reactive thrombocytosis)
+  WBC Differential:
+    Neutrophils:    78%
+    Lymphocytes:    14%
+    Monocytes:      6%
+    Eosinophils:    1%
+    Basophils:      1%
+
+RETICULOCYTE COUNT:
+  Reticulocyte %:   8.0%          [0.5-2.0]       ** MARKEDLY ELEVATED **
+  Reticulocyte Abs: 248 K/uL     [25-75]          ** MARKEDLY ELEVATED **
+
+** CRITICAL: A reticulocyte count of 8% (absolute 248 K/uL) represents a massive reticulocytosis indicating hemolytic anemia with vigorous marrow compensation. This is NOT consistent with iron deficiency, anemia of chronic disease, or nutritional deficiency. This value alone should have triggered a hemolytic anemia workup leading to hemoglobin electrophoresis. **
+
+HEMOLYSIS MARKERS:
+  LDH:              380 U/L       [140-280]       ** ELEVATED **
+  Haptoglobin:      <10 mg/dL     [30-200]        ** UNDETECTABLE **
+  Total Bilirubin:  3.8 mg/dL     [0.1-1.2]       ** ELEVATED **
+  Direct Bilirubin: 0.6 mg/dL     [0.0-0.3]       ** MILDLY ELEVATED **
+  Indirect Bilirubin: 3.2 mg/dL   [0.1-1.0]       ** MARKEDLY ELEVATED **
+
+** HEMOLYSIS CONFIRMED: Elevated LDH + undetectable haptoglobin + elevated indirect bilirubin + markedly elevated reticulocyte count = HEMOLYTIC ANEMIA. **
+
+COOMBS TEST:
+  Direct Coombs (DAT):  NEGATIVE
+  Indirect Coombs (IAT): NEGATIVE
+
+** Coombs-negative hemolytic anemia narrows the differential to: hemoglobinopathies (sickle cell disease, thalassemia), RBC membrane defects (hereditary spherocytosis, elliptocytosis), RBC enzyme defects (G6PD deficiency, pyruvate kinase deficiency), TTP/HUS, DIC, mechanical hemolysis, or paroxysmal nocturnal hemoglobinuria. In a young African American woman with recurrent pain crises and leg ulcers, sickle cell disease should be the LEADING diagnosis. **
+
+COMPREHENSIVE METABOLIC PANEL:
+  Sodium:           137 mEq/L     [136-145]       NORMAL
+  Potassium:        4.8 mEq/L     [3.5-5.0]       NORMAL
+  Chloride:         100 mEq/L     [98-106]        NORMAL
+  CO2:              21 mEq/L      [23-29]         ** LOW ** (mild metabolic acidosis)
+  BUN:              18 mg/dL      [7-20]          NORMAL
+  Creatinine:       0.9 mg/dL     [0.6-1.2]       NORMAL
+  Glucose:          132 mg/dL     [70-100]        ELEVATED (stress response)
+  Calcium:          9.0 mg/dL     [8.5-10.5]      NORMAL
+  AST:              48 U/L        [10-40]         ** MILDLY ELEVATED **
+  ALT:              32 U/L        [7-56]          NORMAL
+  Alkaline Phos:    98 U/L        [44-147]        NORMAL
+  Albumin:          3.4 g/dL      [3.5-5.5]       ** LOW **
+  Total Protein:    7.2 g/dL      [6.0-8.3]       NORMAL
+
+INFLAMMATORY MARKERS:
+  ESR:              62 mm/hr      [0-20]          ** ELEVATED **
+  CRP:              48 mg/L       [<3.0]          ** MARKEDLY ELEVATED **
+  Procalcitonin:    0.22 ng/mL    [<0.10]         ** MILDLY ELEVATED ** (equivocal — pain/inflammation vs. infection)
+
+BLOOD CULTURES: x2 sets drawn — pending
+URINE CULTURE: Sent — pending
+
+CHEST X-RAY (Portable AP, 02/08 16:00):
+- Mild bilateral basilar opacities, likely atelectasis vs. early infiltrate
+- No large pleural effusion
+- Cardiac silhouette upper limits of normal
+- No pneumothorax
+
+=================================
+HOSPITAL DAY 2 (02/09)
+=================================
+Overnight: Pain poorly controlled despite PCA — morphine consumption 28mg in first 12 hours. SpO2 dipped to 91% at 03:00 AM, improved to 94% with 2L nasal cannula. Persistent tachycardia (HR 102-114).
+
+Morning vitals:
+  Temp: 101.4F (38.6C) — persistent fever
+  HR: 108 bpm
+  BP: 132/86 mmHg
+  RR: 20 breaths/min
+  SpO2: 94% on 2L NC
+  Pain: 7/10 (improved from 10/10 but still significant)
+
+Morning assessment (Dr. K. Rivera):
+Ongoing severe pain with persistent fever. Hemolysis markers noted — LDH elevated, haptoglobin undetectable, reticulocytes markedly elevated, Coombs negative. Assessment: "Anemia with hemolytic picture — Coombs negative. Etiology unclear. Consider hematology consult. More immediate concern is persistent tachycardia and mild hypoxia — will obtain CT PA to rule out pulmonary embolism."
+
+CT CHEST WITH PE PROTOCOL — 02/09, 10:30
+Interpreted by: Dr. F. Abrams, Radiology
+
+INDICATION: Persistent tachycardia, mild hypoxia, acute pain crisis with immobilization. Evaluate for pulmonary embolism.
+
+FINDINGS:
+- PULMONARY ARTERIES: Filling defects identified in:
+  * Right lower lobe segmental pulmonary artery — occlusive thrombus
+  * Left lower lobe segmental pulmonary artery — partially occlusive thrombus
+  * No saddle embolus. No main PA dilation. No RV strain.
+- Lungs: Bilateral basilar consolidation/atelectasis, left > right. Possible early infarct in right lower lobe (wedge-shaped peripheral opacity). No cavitation.
+- Pleura: Small bilateral pleural effusions (new since admission CXR).
+- Heart: No pericardial effusion. RV/LV ratio <1.0 (no RV strain).
+- Mediastinum: No lymphadenopathy.
+- Spleen: Enlarged at 14.8 cm (interval increase from 13.5 cm on 08/2023 CT).
+- Incidental: Vertebral body marrow signal heterogeneity T6-L2 (similar to prior CT). Multiple small splenic hypodensities — possible splenic infarcts vs. granulomata.
+
+IMPRESSION:
+1. BILATERAL PULMONARY EMBOLISM — segmental clots in right and left lower lobe pulmonary arteries. No evidence of RV strain.
+2. Bilateral basilar consolidation — atelectasis vs. early infarct vs. infection. Cannot exclude early acute chest syndrome in appropriate clinical context.
+3. Small bilateral pleural effusions.
+4. SPLENOMEGALY (14.8 cm, previously 13.5 cm) with small splenic hypodensities — possible splenic infarcts.
+5. Vertebral marrow heterogeneity — may represent marrow expansion.
+
+** Radiology addendum (02/09, 11:15): "Given the bilateral PE, splenomegaly with possible splenic infarcts, vertebral marrow changes, and clinical context (young African American woman with recurrent pain crises and hemolytic anemia), clinical correlation for hemoglobinopathy is recommended." — Dr. F. Abrams **
+
+** NOTE: The radiologist's addendum specifically raised the possibility of hemoglobinopathy. This recommendation was documented in the medical record but was not acted upon by the clinical team. **
+
+MANAGEMENT CHANGES (HD2):
+1. IV heparin drip initiated (80 units/kg bolus, 18 units/kg/hr infusion) — aPTT target 60-80 sec
+2. Hematology consultation requested for bilateral PE and hypercoagulability workup
+3. Broadened antibiotics to piperacillin-tazobactam 3.375g IV q6h (persistent fever + bilateral basilar opacities — cannot exclude pneumonia/acute chest syndrome)
+4. Supplemental oxygen maintained at 2L NC
+
+=================================
+HEMATOLOGY CONSULTATION
+=================================
+Date: 2025-02-09, 14:30
+Consulting Physician: Dr. J. Walsh, MD, Hematology/Oncology
+
+REASON FOR CONSULTATION: Bilateral pulmonary embolism, unprovoked, in 27-year-old female. Evaluate for thrombophilia.
+
+HEMATOLOGY ASSESSMENT:
+"Thank you for this consultation. I have evaluated this 27-year-old African American woman with bilateral segmental PE, no identifiable provoking factors (no immobilization, no OCP use, no surgery, no malignancy history, no pregnancy). She has no prior VTE history. Family history is non-contributory for clotting disorders.
+
+Given unprovoked bilateral PE in a young woman, a comprehensive thrombophilia workup is indicated.
+
+I note the patient has anemia (Hgb 8.8) with elevated reticulocytes (8%), undetectable haptoglobin, elevated LDH, and elevated indirect bilirubin — consistent with Coombs-negative hemolytic anemia. The anemia workup is being managed by the primary team."
+
+** CRITICAL FAILURE: The hematology consultant acknowledged the hemolytic anemia pattern in writing but stated it was "being managed by the primary team" — the primary team had not initiated any hemolytic anemia workup beyond the Coombs test. The hematologist focused exclusively on thrombophilia and did not order hemoglobin electrophoresis, peripheral blood smear, or sickle cell screen. This is the single most consequential diagnostic failure in this patient's care. A hematologist evaluating a young African American woman with Coombs-negative hemolytic anemia, recurrent pain crises, leg ulcers, and bilateral PE should have immediately considered sickle cell disease. **
+
+THROMBOPHILIA WORKUP ORDERED:
+  Factor V Leiden mutation:          NEGATIVE
+  Prothrombin G20210A mutation:      NEGATIVE
+  Antithrombin III activity:         92% [80-120]        NORMAL
+  Protein C activity:                88% [70-140]        NORMAL
+  Protein S activity:                76% [60-130]        NORMAL (note: may be affected by acute illness)
+  Protein S free antigen:            82% [57-126]        NORMAL
+  Anticardiolipin IgG:               4 GPL [<15]         NEGATIVE
+  Anticardiolipin IgM:               3 MPL [<15]         NEGATIVE
+  Beta-2 Glycoprotein I IgG:         2 SGU [<20]         NEGATIVE
+  Beta-2 Glycoprotein I IgM:         3 SMU [<20]         NEGATIVE
+  Lupus Anticoagulant (dRVVT):       NEGATIVE (note: patient on heparin — may need repeat off anticoagulation)
+
+HEMATOLOGY RECOMMENDATIONS:
+1. Continue anticoagulation — transition to apixaban 10mg BID x7 days, then 5mg BID (standard PE treatment dosing)
+2. Recommend indefinite anticoagulation given unprovoked bilateral PE and negative thrombophilia workup — "absence of identifiable thrombophilia does not reduce recurrence risk; unprovoked bilateral PE in a young patient warrants indefinite therapy"
+3. Follow-up in hematology clinic in 4-6 weeks
+4. "Anemia: defer to primary team for further evaluation of Coombs-negative hemolytic picture. May consider hematology follow-up for this as well."
+
+** NOTE: "May consider hematology follow-up for this as well" — the hemolytic anemia was treated as a secondary, deferred issue rather than a diagnostic priority. The hematologist had all the data needed to suspect sickle cell disease: Coombs-negative hemolysis + recurrent pain crises + African American ethnicity + splenomegaly + bilateral PE + leg ulcers. The diagnosis was within their specialty expertise and the data was in front of them. **
+
+=================================
+HOSPITAL DAY 3 (02/10)
+=================================
+Morning vitals:
+  Temp: 100.2F (37.9C) — fever trending down
+  HR: 96 bpm — improving
+  BP: 128/78 mmHg
+  RR: 18 breaths/min
+  SpO2: 95% on 2L NC
+  Pain: 5/10 — improving
+
+Blood cultures (48 hours): No growth to date.
+Urine culture: No growth.
+
+aPTT: 68 seconds (therapeutic on heparin drip).
+
+Repeat CBC:
+  WBC:              10.2 K/uL     — trending down
+  Hemoglobin:       8.4 g/dL      — slightly lower (hemolysis ongoing vs. dilutional)
+  Platelets:        448 K/uL      — reactive thrombocytosis
+
+Plan: Continue heparin. Begin apixaban overlap/transition per pharmacy protocol. Wean supplemental oxygen as tolerated. Continue antibiotics for now (complete 5-day course given persistent low-grade fever and basilar opacities). Pain management — transitioning from PCA to oral hydrocodone/acetaminophen.
+
+=================================
+HOSPITAL DAY 4 (02/11)
+=================================
+Morning vitals:
+  Temp: 99.0F — afebrile
+  HR: 84 bpm
+  BP: 124/74 mmHg
+  RR: 16 breaths/min
+  SpO2: 96% on room air
+  Pain: 3/10
+
+Patient clinically improved. Tolerating regular diet. Ambulatory in hallway. Pain controlled on oral medications. SpO2 stable on room air. Fever resolved. Heparin discontinued, transitioned to apixaban 10mg BID.
+
+Blood cultures (72 hours): No growth — final.
+
+Repeat labs:
+  Hemoglobin:       8.9 g/dL      — slightly improved
+  WBC:              8.4 K/uL      — normalizing
+  Reticulocyte %:   7.2%          — still markedly elevated (persistent hemolysis)
+  LDH:              342 U/L       — still elevated
+  Total Bilirubin:  2.8 mg/dL     — improved from 3.8 but still elevated
+
+=================================
+DISCHARGE SUMMARY
+=================================
+Date: 2025-02-12
+Author: Dr. K. Rivera, MD
+
+DISCHARGE DIAGNOSES:
+1. Bilateral pulmonary embolism (unprovoked) — segmental, bilateral lower lobes
+2. Acute pain crisis — resolved
+3. Coombs-negative hemolytic anemia — etiology undetermined
+4. Anemia of chronic disease vs. hemolytic anemia — further outpatient workup recommended
+5. Fever — resolved, likely viral or inflammatory (cultures negative)
+6. Fibromyalgia (pre-existing)
+7. Left leg ulcer (pre-existing)
+
+** NOTE: "Coombs-negative hemolytic anemia — etiology undetermined" was listed as a discharge diagnosis, but no specific plan was made to determine the etiology. No hemoglobin electrophoresis, peripheral blood smear, or sickle cell screen was ordered or recommended. The workup was left incomplete. **
+
+CONDITION AT DISCHARGE: Improved, stable
+
+DISCHARGE MEDICATIONS:
+1. Apixaban (Eliquis) 10mg BID x 5 more days (total 7 days), then 5mg BID indefinitely
+2. Duloxetine 60mg daily (continue)
+3. Hydrocodone/acetaminophen 5/325, 1-2 tablets q6h PRN severe pain, #30
+4. Vitamin D3 2000 IU daily (continue)
+5. Amoxicillin-clavulanate 875/125mg BID x 5 days (complete antibiotic course)
+6. Folic acid 1mg daily (added — "for anemia")
+
+DISCHARGE INSTRUCTIONS:
+1. Continue Eliquis as prescribed — do not miss doses. Avoid aspirin and ibuprofen while on blood thinner.
+2. Return to ER if: chest pain, shortness of breath, coughing up blood, leg swelling, severe pain not controlled by medications, fever >101F.
+3. Follow-up appointments arranged (see below).
+4. Activity as tolerated. No contact sports while on anticoagulation.
+5. Continue wound care for left ankle ulcer as directed by dermatology.
+
+FOLLOW-UP:
+1. PCP Dr. P. Nakamura — 1 week (anemia workup, medication reconciliation)
+2. Hematology Dr. J. Walsh — 4-6 weeks (anticoagulation follow-up, thrombophilia re-evaluation)
+3. Dermatology Dr. M. Cho — per standing appointment (leg ulcer)
+
+=================================
+RETROSPECTIVE ADDENDUM
+=================================
+Added by: Dr. K. Rivera, MD (Hospitalist) and Quality Review Committee
+Date: 2026-02-10
+
+This addendum documents a catastrophic failure of diagnostic synthesis during a 4-day hospitalization. All of the data required to diagnose this patient's underlying condition was present in the medical record during this admission but was never integrated into a unifying diagnosis.
+
+THE DATA THAT WAS IN THE CHART:
+1. Coombs-negative hemolytic anemia: LDH 380, haptoglobin <10, reticulocytes 8%, indirect bilirubin 3.2, Coombs negative
+2. Recurrent severe pain crises affecting different body regions (3 documented episodes over 2 years)
+3. Non-healing leg ulcer at medial malleolus
+4. Bilateral pulmonary embolism (unprovoked, thrombophilia workup negative)
+5. African American ethnicity with parents of Nigerian descent
+6. Brother with "blood problems" — childhood hospitalizations and pain episodes
+7. Splenomegaly on three separate imaging studies (13.2 cm, 13.5 cm, 14.8 cm — progressive)
+8. Possible splenic infarcts on CT
+9. Vertebral marrow heterogeneity on two CT scans
+10. Scleral icterus on admission exam
+11. Systolic flow murmur (high-output state from chronic anemia)
+12. Radiologist recommendation to "correlate for hemoglobinopathy"
+
+THE DIAGNOSIS THESE DATA POINTS TO:
+Sickle cell disease (likely HbSC or sickle-beta thalassemia variant) — every single finding listed above is a recognized manifestation:
+- Vaso-occlusive crises (recurrent pain)
+- Chronic hemolytic anemia (Coombs-negative)
+- Leg ulcers (characteristically at medial malleolus)
+- In situ pulmonary thrombosis / PE (well-documented SCD complication)
+- Splenomegaly with splenic infarcts
+- Bone marrow expansion (vertebral marrow changes)
+- Autosomal recessive inheritance (brother affected)
+
+WHY IT WAS MISSED:
+1. COMPARTMENTALIZED CARE: The hospitalist managed the pain crisis and fever. Hematology was consulted only for the PE. No single physician owned the hemolytic anemia workup.
+2. ANCHORING BIAS: The patient carried a fibromyalgia diagnosis, which anchored clinicians to a functional pain paradigm rather than an organic, hematologic one.
+3. FAILURE TO HEED RADIOLOGY: The radiologist specifically recommended hemoglobinopathy evaluation. This recommendation was documented but not acted upon.
+4. THE HEMATOLOGIST DID NOT EVALUATE THE WHOLE PATIENT: Dr. Walsh's consultation note acknowledged the hemolytic anemia but deferred it to the primary team. A hematologist is the one specialist who should have recognized this pattern immediately. The consultation was narrowly scoped to thrombophilia.
+5. IMPLICIT BIAS MAY HAVE CONTRIBUTED: The patient's pain was repeatedly characterized as "anxiety-related" and "out of proportion to findings" in prior records. These characterizations may have influenced inpatient clinicians' perception of the patient's credibility and the urgency of completing her diagnostic workup.
+
+THE TEST THAT WOULD HAVE PROVIDED THE DIAGNOSIS:
+Hemoglobin electrophoresis — a widely available, inexpensive ($30-50), non-invasive blood test. Had it been ordered at any point during this 4-day hospitalization, the diagnosis would have been confirmed, and the patient's entire care trajectory would have changed. She would have been referred to a sickle cell disease center, started on hydroxyurea, provided with a pain crisis management plan, and spared 12 additional months of diagnostic uncertainty.
+
+Electronically signed: Dr. K. Rivera, MD
+Original admission note signed: 2025-02-08 16:30
+Discharge summary signed: 2025-02-12 14:00
+Addendum signed: 2026-02-10 09:45
+
+Electronically reviewed: Quality Review Committee
+Date: 2026-02-10

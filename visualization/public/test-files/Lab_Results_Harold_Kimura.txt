@@ -1,0 +1,359 @@
+LABORATORY RESULTS — CHRONOLOGICAL COMPILATION
+================================================
+Patient: Harold Kimura  DOB: 1973-04-22  MRN: 5938274
+Compiled by: Clearwater Rural Health Clinic
+Compilation date: 2026-02-10
+
+Note: Results compiled from multiple facilities (Clearwater Rural Health Clinic, Tri-Valley Neurology, Valley Digestive Care Specialists). Reference ranges may vary slightly between laboratories. All reference ranges listed are for adult males unless otherwise specified.
+
+================================================================
+DATE: 2024-04-15 — PCP Visit 1 (Clearwater Rural Health Lab)
+================================================================
+INDICATION: Cognitive decline evaluation, depression screening, routine DM2/HTN monitoring
+
+THYROID:
+  TSH:              2.8 mIU/L          [0.4-4.0]       NORMAL
+
+NUTRITIONAL / INFECTIOUS:
+  Vitamin B12:      488 pg/mL          [200-900]       NORMAL
+  Folate:           12.4 ng/mL         [3.0-17.0]      NORMAL
+  RPR:              Non-reactive                        NEGATIVE
+
+CBC:
+  WBC:              6.4 K/uL           [4.5-11.0]      NORMAL
+  RBC:              4.8 M/uL           [4.5-5.5]       NORMAL
+  Hemoglobin:       13.2 g/dL          [13.5-17.5]     LOW-NORMAL
+  Hematocrit:       40.1%              [38.3-48.6]     NORMAL
+  MCV:              82 fL              [80-100]         NORMAL (low-normal)
+  MCH:              27.5 pg            [27-33]          NORMAL (low-normal)
+  MCHC:             32.9 g/dL          [32-36]          NORMAL
+  RDW:              13.8%              [11.5-14.5]     NORMAL
+  Platelets:        212 K/uL           [150-400]       NORMAL
+  Reticulocyte:     Not ordered
+
+BASIC METABOLIC PANEL:
+  Sodium:           141 mEq/L          [136-145]       NORMAL
+  Potassium:        4.2 mEq/L          [3.5-5.0]       NORMAL
+  Chloride:         104 mEq/L          [98-106]        NORMAL
+  CO2:              26 mEq/L           [23-29]         NORMAL
+  BUN:              16 mg/dL           [7-20]          NORMAL
+  Creatinine:       1.0 mg/dL          [0.7-1.3]       NORMAL
+  eGFR:             82 mL/min/1.73m2   [>60]           NORMAL
+  Glucose (fasting): 108 mg/dL         [70-100]        ** MILDLY ELEVATED ** (DM2)
+  Calcium:          9.6 mg/dL          [8.5-10.5]      NORMAL
+
+DIABETES:
+  HbA1c:            6.4%               [<7.0 target]   AT GOAL
+
+LIPIDS:
+  Total Cholesterol: 198 mg/dL         [<200]          NORMAL
+  LDL:              118 mg/dL          [<100]          MILDLY ELEVATED
+  HDL:              44 mg/dL           [>40]           LOW-NORMAL
+  Triglycerides:    180 mg/dL          [<150]          ** MILDLY ELEVATED **
+
+================================================================
+DATE: 2025-01-28 — PCP Pre-GI Referral Labs (Clearwater Rural Health Lab)
+================================================================
+INDICATION: Chronic abdominal pain, constipation, weight loss — pre-GI workup
+
+CBC:
+  WBC:              5.6 K/uL           [4.5-11.0]      NORMAL
+  RBC:              4.5 M/uL           [4.5-5.5]       LOW-NORMAL (was 4.8)
+  Hemoglobin:       12.4 g/dL          [13.5-17.5]     ** LOW ** (was 13.2)
+  Hematocrit:       37.8%              [38.3-48.6]     ** LOW **
+  MCV:              78 fL              [80-100]         ** LOW ** (was 82, declining)
+  MCH:              26.2 pg            [27-33]          ** LOW **
+  MCHC:             32.8 g/dL          [32-36]          NORMAL
+  RDW:              15.2%              [11.5-14.5]     ** ELEVATED ** (was 13.8)
+  Platelets:        196 K/uL           [150-400]       NORMAL
+  Reticulocyte:     Not ordered
+
+COMPREHENSIVE METABOLIC PANEL:
+  Sodium:           140 mEq/L          [136-145]       NORMAL
+  Potassium:        4.4 mEq/L          [3.5-5.0]       NORMAL
+  Chloride:         103 mEq/L          [98-106]        NORMAL
+  CO2:              25 mEq/L           [23-29]         NORMAL
+  BUN:              22 mg/dL           [7-20]          ** MILDLY ELEVATED ** (was 16)
+  Creatinine:       1.2 mg/dL          [0.7-1.3]       HIGH-NORMAL (was 1.0, trending up)
+  eGFR:             68 mL/min/1.73m2   [>60]           LOW-NORMAL (was 82, declining)
+  Glucose:          112 mg/dL          [70-100]        ** ELEVATED **
+  Calcium:          9.4 mg/dL          [8.5-10.5]      NORMAL
+  AST:              34 U/L             [10-40]         NORMAL
+  ALT:              42 U/L             [7-56]          NORMAL (high-normal)
+  Alkaline Phos:    112 U/L            [44-147]        NORMAL
+  Total Bilirubin:  1.3 mg/dL          [0.1-1.2]       ** MILDLY ELEVATED **
+  Direct Bilirubin: 0.4 mg/dL          [0.0-0.3]       ** MILDLY ELEVATED **
+  Albumin:          3.6 g/dL           [3.5-5.5]       LOW-NORMAL
+  Total Protein:    6.8 g/dL           [6.0-8.3]       NORMAL
+
+DIABETES:
+  HbA1c:            6.3%               [<7.0 target]   AT GOAL
+
+OTHER:
+  ESR:              24 mm/hr           [0-15]          ** ELEVATED **
+  Uric Acid:        8.2 mg/dL          [3.5-7.2]       ** ELEVATED **
+
+** NOTE: The combination of microcytic anemia (MCV 78), elevated RDW (15.2%), rising creatinine (1.0 to 1.2), elevated bilirubin, elevated ESR, and elevated uric acid was not recognized as a pattern suggestive of chronic lead exposure. Each abnormality was addressed individually rather than collectively. **
+
+================================================================
+DATE: 2025-02-10 — GI Consult Labs (Valley Digestive Care Lab)
+================================================================
+INDICATION: Chronic abdominal pain, constipation, weight loss — GI evaluation
+
+GI-SPECIFIC:
+  Lipase:           42 U/L             [0-160]         NORMAL
+  Amylase:          78 U/L             [25-125]        NORMAL
+  Celiac Panel (tTG-IgA): 2.8 U/mL   [<20]           NEGATIVE
+  Total IgA:        198 mg/dL          [70-400]        NORMAL
+  H. pylori IgG:    POSITIVE
+  Stool Calprotectin: 38 mcg/g        [<50]           NORMAL
+  Stool Culture:    No pathogens
+  C. difficile:     NEGATIVE
+  Stool O&P:        NEGATIVE
+  Stool Elastase:   >500 mcg/g         [>200]          NORMAL
+  LDH:              248 U/L            [140-280]       NORMAL (high-normal)
+
+HEPATITIS PANEL:
+  Hepatitis B sAg:  Non-reactive
+  Hepatitis C Ab:   Non-reactive
+
+INFLAMMATORY:
+  CRP:              4.2 mg/L           [<3.0]          ** MILDLY ELEVATED **
+  ESR:              26 mm/hr           [0-15]          ** ELEVATED **
+
+================================================================
+DATE: 2025-06-16 — PCP Visit 3 (Clearwater Rural Health Lab)
+================================================================
+INDICATION: Progressive decline, weight loss, new motor symptoms
+
+CBC:
+  WBC:              5.2 K/uL           [4.5-11.0]      NORMAL
+  RBC:              4.2 M/uL           [4.5-5.5]       ** LOW ** (was 4.5)
+  Hemoglobin:       11.8 g/dL          [13.5-17.5]     ** LOW ** (was 12.4)
+  Hematocrit:       35.4%              [38.3-48.6]     ** LOW **
+  MCV:              76 fL              [80-100]         ** LOW ** (was 78, declining)
+  MCH:              25.1 pg            [27-33]          ** LOW **
+  MCHC:             33.3 g/dL          [32-36]          NORMAL
+  RDW:              16.8%              [11.5-14.5]     ** ELEVATED ** (was 15.2, rising)
+  Platelets:        188 K/uL           [150-400]       NORMAL
+  Reticulocyte Count: 2.8%            [0.5-2.0]       ** ELEVATED **
+  Reticulocyte Absolute: 117.6 K/uL   [25-75]         ** ELEVATED **
+
+** NOTE: Microcytic anemia with ELEVATED reticulocyte count is a critical finding. In iron deficiency anemia, the reticulocyte count is typically LOW (inadequate production). An elevated reticulocyte count with microcytic anemia suggests HEMOLYSIS or LEAD POISONING — both of which cause microcytic anemia with increased red cell turnover. This finding was not recognized as diagnostically significant. Iron supplementation was started without further investigation. **
+
+IRON STUDIES:
+  Serum Iron:       38 mcg/dL          [65-175]        ** LOW **
+  TIBC:             425 mcg/dL         [250-400]       ** ELEVATED **
+  Transferrin Sat:  8.9%               [20-50]         ** LOW **
+  Ferritin:         22 ng/mL           [20-250]        LOW-NORMAL
+
+** NOTE: The iron studies appear consistent with iron deficiency. However, in lead poisoning, lead inhibits enzymes in the heme synthesis pathway (delta-aminolevulinic acid dehydratase and ferrochelatase), resulting in impaired iron utilization despite available iron stores. Ferritin was NOT low (22 ng/mL) — this is borderline, not depleted. True iron deficiency severe enough to cause Hgb 11.8 and MCV 76 would typically show ferritin <12 ng/mL. The discordance between the degree of microcytic anemia and the ferritin level should have prompted further investigation. **
+
+COMPREHENSIVE METABOLIC PANEL:
+  Sodium:           139 mEq/L          [136-145]       NORMAL
+  Potassium:        4.6 mEq/L          [3.5-5.0]       NORMAL
+  Chloride:         102 mEq/L          [98-106]        NORMAL
+  CO2:              24 mEq/L           [23-29]         NORMAL
+  BUN:              26 mg/dL           [7-20]          ** ELEVATED ** (was 22, rising)
+  Creatinine:       1.4 mg/dL          [0.7-1.3]       ** ELEVATED ** (was 1.2, rising)
+  eGFR:             58 mL/min/1.73m2   [>60]           ** LOW — STAGE 3a CKD ** (was 68)
+  Glucose:          106 mg/dL          [70-100]        ** ELEVATED **
+  Calcium:          9.2 mg/dL          [8.5-10.5]      NORMAL
+  AST:              38 U/L             [10-40]         NORMAL (high-normal, trending up)
+  ALT:              48 U/L             [7-56]          NORMAL (high-normal, trending up)
+  Alkaline Phos:    118 U/L            [44-147]        NORMAL
+  Total Bilirubin:  1.5 mg/dL          [0.1-1.2]       ** ELEVATED ** (was 1.3, rising)
+  Direct Bilirubin: 0.5 mg/dL          [0.0-0.3]       ** ELEVATED **
+  Albumin:          3.4 g/dL           [3.5-5.5]       ** LOW ** (was 3.6)
+  Total Protein:    6.6 g/dL           [6.0-8.3]       NORMAL
+
+DIABETES:
+  HbA1c:            6.3%               [<7.0 target]   AT GOAL
+
+OTHER:
+  Uric Acid:        8.6 mg/dL          [3.5-7.2]       ** ELEVATED ** (was 8.2, rising)
+  ESR:              28 mm/hr           [0-15]          ** ELEVATED ** (was 24, rising)
+  CRP:              5.1 mg/L           [<3.0]          ** ELEVATED ** (was 4.2)
+  Phosphorus:       2.4 mg/dL          [2.5-4.5]       ** LOW **
+
+URINALYSIS:
+  Color:            Yellow
+  Specific Gravity: 1.018              [1.005-1.030]   NORMAL
+  pH:               5.5                [5.0-8.0]       NORMAL
+  Protein:          Trace                               ** MILDLY ABNORMAL **
+  Blood:            Negative
+  Glucose:          Negative
+  Ketones:          Negative
+  Leukocyte Est:    Negative
+  Nitrite:          Negative
+  Bilirubin:        Trace                               ** ABNORMAL **
+
+================================================================
+DATE: 2025-08-12 — PCP Follow-up Labs (Clearwater Rural Health Lab)
+================================================================
+INDICATION: Monitoring anemia response to iron supplementation, renal function
+
+CBC:
+  WBC:              4.8 K/uL           [4.5-11.0]      LOW-NORMAL
+  RBC:              4.0 M/uL           [4.5-5.5]       ** LOW ** (was 4.2)
+  Hemoglobin:       11.4 g/dL          [13.5-17.5]     ** LOW ** (was 11.8 — DECLINING despite iron)
+  Hematocrit:       34.4%              [38.3-48.6]     ** LOW **
+  MCV:              75 fL              [80-100]         ** LOW ** (was 76 — NOT improving)
+  MCH:              24.6 pg            [27-33]          ** LOW **
+  MCHC:             33.1 g/dL          [32-36]          NORMAL
+  RDW:              17.4%              [11.5-14.5]     ** ELEVATED ** (was 16.8, rising)
+  Platelets:        178 K/uL           [150-400]       NORMAL (declining — was 188)
+  Reticulocyte Count: 3.1%            [0.5-2.0]       ** ELEVATED ** (was 2.8, rising)
+
+** CRITICAL NOTE: Hemoglobin has DECLINED from 11.8 to 11.4 despite 8 weeks of oral iron supplementation (ferrous sulfate 325mg BID). MCV has not improved. Reticulocyte count has INCREASED. This pattern — iron-refractory microcytic anemia with rising reticulocytes — is NOT consistent with iron deficiency anemia responding to treatment. This should have prompted: (a) peripheral blood smear review, (b) hemoglobin electrophoresis, (c) lead level, (d) reticulocyte production index calculation, (e) haptoglobin/LDH to assess for hemolysis. None of these were ordered. **
+
+COMPREHENSIVE METABOLIC PANEL:
+  BUN:              28 mg/dL           [7-20]          ** ELEVATED ** (was 26)
+  Creatinine:       1.5 mg/dL          [0.7-1.3]       ** ELEVATED ** (was 1.4, rising)
+  eGFR:             54 mL/min/1.73m2   [>60]           ** LOW — STAGE 3a CKD ** (was 58, declining)
+  AST:              42 U/L             [10-40]         ** MILDLY ELEVATED **
+  ALT:              52 U/L             [7-56]          HIGH-NORMAL (trending up)
+  Total Bilirubin:  1.6 mg/dL          [0.1-1.2]       ** ELEVATED ** (was 1.5, rising)
+  Albumin:          3.2 g/dL           [3.5-5.5]       ** LOW ** (was 3.4, declining)
+
+OTHER:
+  Uric Acid:        9.0 mg/dL          [3.5-7.2]       ** ELEVATED ** (was 8.6, rising)
+  ESR:              32 mm/hr           [0-15]          ** ELEVATED ** (was 28, rising)
+
+================================================================
+TREND ANALYSIS — KEY PARAMETERS OVER 16 MONTHS
+================================================================
+
+HEMOGLOBIN (g/dL) [Normal: 13.5-17.5]:
+  04/2024:  13.2  |========================================          | low-normal
+  01/2025:  12.4  |====================================              | ** declining **
+  06/2025:  11.8  |=================================                 | ** anemia **
+  08/2025:  11.4  |================================                  | ** worsening despite iron **
+
+MCV (fL) [Normal: 80-100]:
+  04/2024:  82    |========================================          | low-normal
+  01/2025:  78    |====================================              | ** microcytic **
+  06/2025:  76    |==================================                | ** declining **
+  08/2025:  75    |=================================                 | ** not responding to iron **
+
+RDW (%) [Normal: 11.5-14.5]:
+  04/2024:  13.8  |==========================                        | normal
+  01/2025:  15.2  |===============================                   | ** elevated **
+  06/2025:  16.8  |====================================              | ** rising **
+  08/2025:  17.4  |======================================            | ** anisocytosis worsening **
+
+RETICULOCYTE COUNT (%) [Normal: 0.5-2.0]:
+  04/2024:  ---   | not ordered                                      |
+  01/2025:  ---   | not ordered                                      |
+  06/2025:  2.8   |========================================          | ** elevated **
+  08/2025:  3.1   |=============================================     | ** rising — hemolytic picture **
+
+CREATININE (mg/dL) [Normal: 0.7-1.3]:
+  04/2024:  1.0   |====================                              | normal
+  01/2025:  1.2   |========================                          | high-normal
+  06/2025:  1.4   |============================                      | ** elevated **
+  08/2025:  1.5   |==============================                    | ** progressive renal decline **
+
+eGFR (mL/min/1.73m2) [Normal: >90, >60 adequate]:
+  04/2024:  82    |========================================          | normal
+  01/2025:  68    |=================================                 | low-normal
+  06/2025:  58    |============================                      | ** Stage 3a CKD **
+  08/2025:  54    |==========================                        | ** declining **
+
+TOTAL BILIRUBIN (mg/dL) [Normal: 0.1-1.2]:
+  04/2024:  ---   | not ordered                                      |
+  01/2025:  1.3   |========================================          | ** elevated **
+  06/2025:  1.5   |==============================================    | ** rising **
+  08/2025:  1.6   |================================================  | ** hemolytic? **
+
+URIC ACID (mg/dL) [Normal: 3.5-7.2]:
+  01/2025:  8.2   |========================================          | ** elevated **
+  06/2025:  8.6   |==========================================        | ** rising **
+  08/2025:  9.0   |============================================      | ** saturnine gout risk **
+
+ESR (mm/hr) [Normal: 0-15]:
+  01/2025:  24    |========================================          | ** elevated **
+  02/2025:  26    |==========================================        | ** rising **
+  06/2025:  28    |============================================      | ** chronic inflammation **
+  08/2025:  32    |================================================  | ** continued rise **
+
+ALBUMIN (g/dL) [Normal: 3.5-5.5]:
+  01/2025:  3.6   | low-normal                                       |
+  06/2025:  3.4   | ** below normal **                               |
+  08/2025:  3.2   | ** declining — nutritional/hepatic compromise ** |
+
+AST/ALT (U/L) [Normal: 10-40 / 7-56]:
+  01/2025:  34/42 | normal / high-normal                             |
+  06/2025:  38/48 | high-normal / high-normal (trending up)          |
+  08/2025:  42/52 | ** mildly elevated / high (hepatic stress) **    |
+
+WEIGHT (lbs):
+  04/2024:  194   |========================================          |
+  01/2025:  176   |=================================                 | -18 lbs
+  06/2025:  168   |==============================                    | -26 lbs
+  08/2025:  164   |============================                      | -30 lbs ** continued wasting **
+
+================================================================
+PATTERN ANALYSIS — DIAGNOSTIC SIGNIFICANCE
+================================================================
+
+The following multi-system laboratory trend pattern is present:
+
+HEMATOLOGIC:
+- Progressive microcytic anemia (Hgb 13.2 → 11.4, MCV 82 → 75)
+- REFRACTORY TO IRON SUPPLEMENTATION (8 weeks, no improvement)
+- Elevated reticulocyte count (2.8% → 3.1%) — suggests hemolysis or ineffective erythropoiesis
+- Rising RDW (13.8% → 17.4%) — marked anisocytosis
+- Mildly elevated bilirubin (1.3 → 1.6) — consistent with low-grade hemolysis
+- ** Peripheral blood smear NEVER ORDERED — would have shown basophilic stippling of RBCs, pathognomonic for lead poisoning **
+
+RENAL:
+- Progressive decline in renal function (Cr 1.0 → 1.5, eGFR 82 → 54)
+- Disproportionate to DM2 control (HbA1c consistently 6.3-6.4%)
+- BP marginally elevated but controlled
+- Trace proteinuria — tubular injury pattern
+- Lead nephropathy (chronic tubulointerstitial nephritis) is a well-recognized cause of progressive CKD
+
+METABOLIC:
+- Elevated uric acid (8.2 → 9.0) — "saturnine gout" is a classic association with lead poisoning; lead impairs renal urate excretion
+- Low phosphorus (2.4) — proximal tubular dysfunction (Fanconi-like)
+- Rising BUN disproportionate to creatinine — catabolic state
+
+HEPATIC:
+- Trending up AST/ALT (34/42 → 42/52)
+- Rising bilirubin (1.3 → 1.6) — mixed hepatic/hemolytic contribution
+- Declining albumin (3.6 → 3.2) — hepatic synthetic impairment
+- Hepatomegaly documented on CT and physical exam
+
+INFLAMMATORY:
+- Rising ESR (24 → 32) — chronic systemic inflammation
+- Rising CRP (4.2 → 5.1)
+
+================================================================
+TESTS NEVER ORDERED
+================================================================
+
+** No heavy metal panel (blood lead level, urine mercury, urine arsenic, zinc protoporphyrin, free erythrocyte protoporphyrin, delta-aminolevulinic acid) was ordered at any point over 16 months of progressive multisystem decline despite the following occupational and environmental exposures (elicited only upon second-opinion evaluation):
+
+  1. 30 years of farming with pesticide/herbicide application without consistent use of respiratory protection or gloves
+  2. Regular scraping and repainting of a 1940s-era barn with peeling lead paint — without respiratory protection
+  3. Drinking water from a 60-year-old well downstream from a former industrial site — well water described as having a "metallic taste" — never tested
+
+Additionally, the following basic laboratory tests that would have immediately raised suspicion for lead poisoning were NEVER ordered:
+
+  - Peripheral blood smear (would show basophilic stippling — pathognomonic for lead)
+  - Haptoglobin (would be low, confirming hemolysis)
+  - Free erythrocyte protoporphyrin (elevated in lead poisoning — simple screening test)
+  - Reticulocyte production index (would confirm inadequate marrow response relative to degree of anemia)
+  - Urine delta-aminolevulinic acid (markedly elevated in lead poisoning)
+
+A blood lead level is a simple, widely available, inexpensive test ($15-30 at most commercial labs). Had it been ordered at ANY point during this patient's 16-month evaluation, it would have returned a result of approximately 78 mcg/dL (subsequently obtained by second-opinion provider) — a level more than 20 times the CDC reference value of <3.5 mcg/dL for adults, confirming severe chronic lead poisoning and immediately redirecting all diagnostic and therapeutic efforts. **
+
+================================================================
+SUMMARY
+================================================================
+Harold Kimura's laboratory trajectory demonstrates progressive, multisystem deterioration: worsening microcytic anemia refractory to iron therapy, declining renal function (Stage 3a CKD), rising bilirubin and uric acid, hepatic transaminase elevation, hypoalbuminemia, and chronic inflammation. The combination of iron-refractory microcytic anemia + elevated reticulocyte count + elevated bilirubin + progressive nephropathy + hyperuricemia + hepatic injury in a 52-year-old farmer with occupational chemical exposures and contaminated well water is a classic laboratory profile of chronic lead poisoning (plumbism). No provider across 5 specialties recognized the pattern or ordered the single test (blood lead level) that would have been diagnostic.
+
+Compiled by: Medical Records Department
+Reviewed by: Dr. R. Thornton, MD, FAAFP
+Date: 2026-02-10

@@ -1,0 +1,67 @@
+RADIOLOGY REPORT — NECK ULTRASOUND
+===================================
+Facility: St. Margaret's Regional Medical Center
+Date: 2026-01-28
+Patient: Sofia Chen  DOB: 2008-09-14  MRN: 4471892
+Ordering Physician: Dr. R. Kapoor, Emergency Medicine
+Radiologist: Dr. A. Whitfield, MD
+
+CLINICAL INDICATION:
+17yo F with suppressed TSH, elevated Free T4/T3, hypercalcemia. Evaluate thyroid and parathyroid glands.
+
+TECHNIQUE:
+High-resolution ultrasonography of the neck was performed using a 12-5 MHz linear transducer. Gray-scale and color Doppler images obtained in transverse and longitudinal planes.
+
+FINDINGS:
+
+THYROID GLAND:
+- Right lobe: 5.2 x 2.1 x 1.8 cm (mildly enlarged)
+- Left lobe: 4.8 x 1.9 x 1.6 cm (upper normal)
+- Isthmus: 4mm (normal)
+- Echotexture: Heterogeneous with diffusely increased vascularity bilaterally on Doppler ("thyroid inferno" pattern), consistent with Graves' disease or thyroiditis.
+
+RIGHT THYROID NODULE:
+- Location: Mid-to-lower pole, right lobe
+- Size: 1.2 x 0.9 x 0.8 cm
+- Characteristics: Solid, hypoechoic, taller-than-wide orientation
+- Margins: Irregular, with one area of possible microlobulation
+- Calcifications: Punctate echogenic foci present (suspicious for microcalcifications)
+- Vascularity: Moderate internal vascularity
+- ** TI-RADS Score: 5 (Highly Suspicious) **
+- ** RECOMMENDATION: FNA biopsy indicated **
+
+LEFT THYROID:
+- No discrete nodules identified
+- Heterogeneous echogenicity consistent with diffuse thyroid disease
+
+PARATHYROID GLANDS:
+- Right superior: Not visualized (normal)
+- Right inferior: ** 0.8 x 0.6 x 0.5 cm hypoechoic ovoid lesion posterior to the right inferior thyroid pole. Demonstrates a characteristic polar feeding vessel on color Doppler. Appearance is classic for a PARATHYROID ADENOMA. **
+- Left superior: Not visualized (normal)
+- Left inferior: Not visualized (normal)
+
+CERVICAL LYMPH NODES:
+- Multiple small lymph nodes in bilateral levels II-IV, largest 0.9cm in left level III
+- Morphology: Preserved fatty hila, benign-appearing
+- No suspicious lymphadenopathy identified
+
+IMPRESSION:
+1. DIFFUSE THYROID DISEASE with "thyroid inferno" Doppler pattern — consistent with Graves' disease in the setting of known thyrotoxicosis (suppressed TSH, elevated FT4/FT3).
+
+2. RIGHT THYROID NODULE, 1.2 cm, TI-RADS 5 (HIGHLY SUSPICIOUS) — solid, hypoechoic, taller-than-wide, punctate echogenic foci (microcalcifications), irregular margins. In a 17-year-old with thyrotoxicosis, this raises concern for THYROID CARCINOMA, particularly papillary thyroid carcinoma. FNA biopsy is strongly recommended.
+
+3. RIGHT INFERIOR PARATHYROID ADENOMA, 0.8 cm — classic ultrasound appearance with polar feeding vessel. Correlates with patient's hypercalcemia (Ca 12.4) and hypophosphatemia (Phos 1.8). Consistent with PRIMARY HYPERPARATHYROIDISM.
+
+4. ** CLINICAL CORRELATION: The concurrent presence of a suspicious thyroid nodule (possible carcinoma), diffuse thyroid disease (Graves'), and a parathyroid adenoma in a 17-year-old patient is HIGHLY UNUSUAL and should raise strong suspicion for MULTIPLE ENDOCRINE NEOPLASIA TYPE 2A (MEN2A) or possibly MEN1. Genetic testing (RET proto-oncogene for MEN2A, MEN1 gene) is urgently recommended. **
+
+5. No suspicious cervical lymphadenopathy.
+
+RECOMMENDATION:
+- Urgent endocrinology consultation
+- FNA biopsy of right thyroid nodule
+- Sestamibi scan for parathyroid adenoma confirmation
+- ** Genetic testing for MEN syndromes given age and concurrent pathology **
+- PTH level correlation
+
+Electronically signed: Dr. A. Whitfield, MD
+Date signed: 2026-01-28 17:15

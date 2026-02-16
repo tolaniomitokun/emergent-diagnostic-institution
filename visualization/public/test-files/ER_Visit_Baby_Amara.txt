@@ -1,0 +1,232 @@
+EMERGENCY DEPARTMENT VISIT REPORT
+===================================
+Facility: Community Children's Hospital — Emergency Department
+Date: 2026-01-14  Time of Arrival: 19:42  Time of Disposition: 00:28 (01/15)
+Patient: Amara Okafor  DOB: 2025-09-28  MRN: 5592847
+Age: 3 months, 17 days
+Sex: Female
+Attending Physician: Dr. A. Reyes, MD, FACEP
+Resident: Dr. N. Adebayo, PGY-2 (Pediatrics)
+Nursing: J. Kowalski, RN, BSN
+
+===================================
+TRIAGE
+===================================
+Triage Time: 19:42
+Triage Nurse: M. Hernandez, RN
+Chief Complaint: "She's breathing hard and won't eat. We think she has a cold."
+Brought by: Both parents (mother Adesola Okafor, father Emmanuel Okafor)
+ESI Level: 3 (Urgent)
+
+Triage Vitals:
+  HR: 158 bpm (tachycardic for age — normal infant resting HR 100-150)
+  BP: Not obtained at triage (deferred in infant)
+  RR: 62 breaths/min (tachypneic — normal for age 30-50)
+  SpO2: 95% on room air
+  Temp: 37.4C (99.3F) rectal — low-grade
+  Weight: 4.15 kg (obtained at triage)
+  Pain Assessment: FLACC score 3 (mild distress)
+
+Triage Notes: 3.5-month-old female infant presented by parents with 2 days of increased respiratory effort and decreased oral intake. Parents report baby has been breathing harder than usual and feeding very poorly — only taking small amounts before tiring out. Low-grade temperature measured at home (99.1F). No cough reported by parents. No rhinorrhea. No vomiting. No diarrhea. No rash. No sick contacts known. No recent travel. History of "failure to thrive — being worked up by pediatrician" per mother. No known medical conditions. Born full-term, normal delivery. Up to date on immunizations. No known allergies. Placed on continuous cardiorespiratory monitor and pulse oximetry. Nasal aspirate collected for respiratory viral panel.
+
+===================================
+EMERGENCY PHYSICIAN EVALUATION
+===================================
+Time: 20:08
+
+HISTORY OF PRESENT ILLNESS:
+Amara is a 3.5-month-old female infant brought in by both parents for 2 days of worsened breathing and decreased feeding. Mother reports that the baby has always been "a hard feeder" and has been followed by her pediatrician (Dr. Nakamura, Bright Start Pediatrics) for failure to thrive. However, over the past 2 days, the breathing has worsened significantly and the baby is barely eating. Mother estimates the baby has taken only 200-250 mL in the past 24 hours (normally takes approximately 400-500 mL, which mother acknowledges is already below normal for age).
+
+Parents note a low-grade fever measured at home yesterday (99.1F) but no other acute infectious symptoms — no cough, no nasal discharge, no vomiting, no diarrhea. No rash. Mother states the baby has been "more sleepy than usual" and harder to wake for feeds. Father reports the baby "breathes fast all the time, but this is worse than usual."
+
+I asked specifically about any color changes. Mother states she has noticed the area around the baby's mouth sometimes looks "darker" during feeds but attributed this to the baby straining to eat. She denies any episodes of the baby turning blue or purple.
+
+No sick contacts in the household. No daycare attendance. No recent travel. No exposure to tobacco smoke.
+
+PAST MEDICAL HISTORY:
+- Born full-term, 39+2 weeks, NVD, 7 lbs 2 oz
+- Newborn screen normal
+- Failure to thrive — under investigation by PCP
+- Seen by lactation consultant — reportedly told "not a feeding problem"
+- No prior hospitalizations
+- No surgeries
+
+MEDICATIONS: Vitamin D drops 400 IU daily
+ALLERGIES: No known drug allergies
+IMMUNIZATIONS: Up to date per parents
+FEEDING: Combination breastfeeding and expressed breast milk via bottle, recently started formula supplementation (Similac, 24 kcal/oz per PCP instructions)
+
+FAMILY HISTORY:
+- Mother: healthy, age 28
+- Father: healthy, age 31
+- Maternal grandmother: hypertension, type 2 diabetes
+- Paternal uncle: "heart problem as a child, had surgery" (parents unsure of specifics)
+** Note: Family history of congenital heart disease in paternal uncle was elicited but its significance was not appreciated in the clinical context. **
+
+PHYSICAL EXAMINATION:
+General: Small, thin-appearing infant. Appears fatigued but arousable. Weak cry. Mild nasal flaring present intermittently. No apparent acute distress at rest but becomes visibly tachypneic with any handling or stimulation.
+HEENT: Anterior fontanelle soft, slightly sunken (mild dehydration). Eyes clear, no discharge. Ears — TMs visualized bilaterally, no erythema, no bulging. Nares: minimal clear rhinorrhea bilaterally. Oropharynx: clear, no erythema, no exudate, mucous membranes slightly dry and pale.
+Neck: Supple, no lymphadenopathy.
+CV: Tachycardic at 158, rhythm regular. S1 normal. S2 — noted to be slightly prominent but interpreted as normal variant. No definite murmur appreciated (exam performed while infant was fussy and tachycardic). No gallop. Femoral pulses present bilaterally, 2+. Capillary refill 2-3 seconds.
+Lungs: Tachypnea with RR 62. Mild subcostal retractions. No intercostal retractions. No suprasternal retractions. Bilateral breath sounds present and equal. No focal wheezes. No stridor. Possible mild crackles at bilateral bases — difficult to fully assess in a moving infant. No areas of consolidation appreciated.
+Abdomen: Soft, mildly rounded. Bowel sounds present. ** Liver edge palpable approximately 3 cm below the right costal margin. ** Spleen not palpated. No masses. No tenderness to palpation.
+Extremities: Warm centrally but cool peripherally (hands and feet). No edema. No cyanosis of extremities. No clubbing.
+Skin: Mild pallor. No rash. No petechiae. No bruising. Mottling noted on lower extremities intermittently.
+Neuro: Alert, arousable. Moves all extremities symmetrically. Moro reflex present. Suck reflex present but weak. Tone mildly decreased but symmetric.
+
+** HEPATOMEGALY NOTE: Liver palpated 3 cm below RCM. I documented this finding but attributed it to examiner variation and the thin body habitus of this small infant. In many infants, the liver edge is palpable 1-2 cm below the costal margin as a normal finding. I considered 3 cm to be at the upper limit of normal variation rather than pathologic. See retrospective addendum. **
+
+===================================
+DIAGNOSTIC WORKUP
+===================================
+
+LABORATORY RESULTS:
+----------------------------------
+Respiratory Viral Panel (nasopharyngeal swab):
+  RSV: NEGATIVE
+  Influenza A: NEGATIVE
+  Influenza B: NEGATIVE
+  Parainfluenza 1/2/3: NEGATIVE
+  Adenovirus: NEGATIVE
+  Human Metapneumovirus: NEGATIVE
+  ** All respiratory viruses NEGATIVE **
+
+CBC:
+  WBC: 8.7 K/uL [6.0-17.5 for age]    Normal
+  Hemoglobin: 10.5 g/dL [10.0-14.0 for age]    Low-normal
+  Hematocrit: 31.8% [30-42 for age]    Low-normal
+  Platelets: 312 K/uL [150-400]    Normal
+  Differential: Neutrophils 35%, Lymphocytes 55%, Monocytes 8%, Eosinophils 2%
+  ** No left shift. No bandemia. **
+
+BMP:
+  Sodium: 137 mEq/L [135-145]    Normal
+  Potassium: 5.0 mEq/L [3.5-6.0 for age]    Normal
+  Chloride: 101 mEq/L [98-106]    Normal
+  CO2: 19 mEq/L [20-28]    ** MILDLY LOW **
+  BUN: 10 mg/dL [2-18]    Normal
+  Creatinine: 0.2 mg/dL [0.1-0.4 for age]    Normal
+  Glucose: 68 mg/dL [60-100]    Low-normal
+
+CRP: 4.2 mg/L [<10]    Normal (argues against significant bacterial infection)
+
+Blood Culture: x1 set drawn — pending
+
+Urinalysis (catheterized specimen):
+  Clear, yellow. pH 6.0. Specific gravity 1.018. Negative for leukocyte esterase, nitrites, blood, protein. No WBCs, no bacteria. Normal.
+
+IMAGING:
+----------------------------------
+CHEST X-RAY (AP and Lateral) — 20:35
+Interpreted by: Dr. T. Chambers, Radiology (on-call, reading remotely)
+
+FINDINGS:
+- ** Cardiac silhouette appears enlarged. Cardiothoracic ratio approximately 0.56-0.58 on AP view. **
+- ** Pulmonary vascular markings appear increased bilaterally, with prominence of both hilar vasculature. **
+- ** Perihilar haziness present bilaterally, left slightly greater than right. **
+- No focal consolidation to suggest lobar pneumonia.
+- No pleural effusion.
+- No pneumothorax.
+- Thymus appears normal for age.
+- No bony abnormalities.
+- Nasogastric tube not present. No lines or tubes.
+
+IMPRESSION:
+1. Cardiomegaly (CTR approximately 0.56-0.58). Note: cardiothoracic ratio is normally up to 0.55 in infants; this is borderline to mildly enlarged.
+2. Increased pulmonary vascular markings with perihilar haziness — differential includes viral lower respiratory process, early atelectasis, or less likely pulmonary edema.
+3. No focal consolidation to suggest bacterial pneumonia.
+
+** Radiologist's phone call to ER at 20:52: "CXR shows borderline cardiomegaly and some perihilar haziness. Could be a viral process or mild atelectasis. If clinical concern for cardiac disease, would recommend echocardiogram for further evaluation." **
+
+===================================
+CLINICAL COURSE
+===================================
+Patient observed in ED for approximately 4.5 hours. Respiratory status remained stable with persistent tachypnea (RR 58-64) but no acute desaturation events during observation. SpO2 ranged 94-96% on room air. HR remained tachycardic at 150-162 throughout stay. Temperature remained low-grade (37.2-37.4C). One feeding attempt by mother during observation: infant took approximately 40 mL of expressed breast milk via bottle over 20 minutes, with visible tachypnea and diaphoresis during feeding. No frank cyanosis witnessed by nursing or physician during observation, though pallor was persistently noted.
+
+IV access was not obtained (deferred given clinical assessment of viral process and adequate hydration status). Nasal saline drops administered for mild rhinorrhea. No medications administered in the ED.
+
+At 23:30, infant was reassessed by Dr. Reyes. Infant was sleeping, RR 54 (lower than triage), SpO2 96%. Decision made to discharge with close follow-up.
+
+===================================
+ASSESSMENT AND MEDICAL DECISION MAKING
+===================================
+3.5-month-old female with known failure to thrive presenting with 2 days of increased respiratory effort and decreased oral intake. Low-grade temperature but no definitive fever.
+
+DIFFERENTIAL CONSIDERED:
+1. Viral upper respiratory infection — MOST LIKELY DIAGNOSIS given age, season (January), low-grade temperature, and mild rhinorrhea. Even though respiratory viral panel is negative, these panels do not capture all viral pathogens (rhinovirus, coronavirus, bocavirus, etc.).
+2. Viral lower respiratory infection (bronchiolitis) — possible given age and respiratory findings, but no wheezing and RSV/flu negative.
+3. Bacterial pneumonia — unlikely given normal WBC, no bandemia, normal CRP, no focal consolidation on CXR.
+4. Urinary tract infection — ruled out by normal urinalysis.
+5. Dehydration — mild, contributing to decreased intake but not primary etiology.
+6. Worsening of underlying failure to thrive — ongoing, but acute component attributed to viral illness.
+7. Congenital heart disease — not actively considered (see retrospective addendum).
+
+** CXR findings: Borderline cardiomegaly and increased pulmonary vascular markings were noted. Given the clinical impression of a viral respiratory process, these findings were attributed to a combination of thymic shadow, AP film projection (which can exaggerate cardiac silhouette), and viral-associated peribronchial thickening/atelectasis. Echocardiogram was not ordered. **
+
+** Hepatomegaly: Liver 3cm below RCM was documented but not incorporated into the clinical decision-making as a potentially pathologic finding. **
+
+PRIMARY DIAGNOSIS: Viral upper respiratory infection (most likely rhinovirus or other non-panel virus)
+
+SECONDARY DIAGNOSES:
+- Failure to thrive (pre-existing, under investigation by PCP)
+- Mild dehydration
+- Tachypnea — attributed to viral process superimposed on baseline (per parental report of chronic fast breathing)
+
+===================================
+DISPOSITION
+===================================
+Time: 00:28 (01/15/2026)
+Disposition: Discharge to home with parents
+Condition: Stable
+
+DISCHARGE INSTRUCTIONS:
+1. Viral URI — expected to last 7-10 days. Worsening is possible in the first 3-5 days before improvement.
+2. Maintain hydration — frequent small feeds, may need to offer breast/bottle more frequently. Aim for at least 400 mL per day (we discussed that this is likely below normal for age but is a minimum target given current intake).
+3. Nasal saline drops as needed for congestion, suction with bulb syringe before feeds.
+4. Tylenol (acetaminophen) 2.5 mL (160mg/5mL concentration) every 4-6 hours if temperature > 100.4F.
+5. ** Amoxicillin 125mg/5mL, 2.5 mL PO twice daily x 10 days — prescribed as prophylactic coverage given failure to thrive and marginal immune/nutritional status. **
+6. Follow up with pediatrician (Dr. Nakamura) within 3-5 days.
+7. Return to ER IMMEDIATELY if:
+   - Temperature > 100.4F (38C) rectally
+   - Refusal to eat entirely
+   - Decreased wet diapers (< 4 in 24 hours)
+   - Difficulty breathing worsens — fast breathing, grunting, chest pulling in
+   - Color changes — blue or gray color of lips or skin
+   - Lethargy — unable to wake for feeds, limp, not responding normally
+   - Vomiting — unable to keep down fluids
+
+PRESCRIPTIONS:
+- Amoxicillin 125mg/5mL suspension, 2.5 mL PO BID x 10 days
+- Acetaminophen 160mg/5mL, 2.5 mL PO q4-6h PRN fever
+
+FOLLOW-UP: PCP Dr. P. Nakamura within 3-5 days
+
+===================================
+RETROSPECTIVE ADDENDUM
+===================================
+Added by: Dr. A. Reyes, MD, FACEP
+Date: 2026-02-10
+
+Upon learning that this infant was subsequently diagnosed with a large perimembranous ventricular septal defect (8mm) with congestive heart failure, pulmonary hypertension, and failure to thrive at age 4 months, I am documenting the following retrospective analysis of this ER encounter:
+
+1. CXR FINDINGS WERE MORE CONSISTENT WITH CHF THAN VIRAL PROCESS: The combination of cardiomegaly (CTR 0.56-0.58), increased pulmonary vascular markings, and bilateral perihilar haziness is a classic radiographic pattern of congestive heart failure with pulmonary overcirculation and early pulmonary edema — not a viral respiratory process. Viral bronchiolitis typically shows hyperinflation with peribronchial thickening, not increased pulmonary vascularity and perihilar haziness. I attributed the CXR findings to the chief complaint rather than allowing the imaging to challenge my clinical impression. Furthermore, the radiologist specifically mentioned that if there was clinical concern for cardiac disease, an echocardiogram should be obtained — I did not act on this suggestion because cardiac disease was not on my differential.
+
+2. HEPATOMEGALY IN AN INFANT WITH TACHYPNEA AND FAILURE TO THRIVE: I documented a liver 3cm below the right costal margin and dismissed it as examiner variation. While the liver edge can be palpable in thin infants, 3cm below the RCM is abnormal at any age and should be considered hepatomegaly until proven otherwise. In the context of an infant with tachypnea, tachycardia, failure to thrive, and cardiomegaly on CXR, hepatomegaly should have immediately raised concern for congestive heart failure with right-sided venous congestion. This was a critical failure to synthesize findings.
+
+3. SpO2 OF 95% IN A 3.5-MONTH-OLD: While 95% is often cited as the lower limit of normal, healthy infants typically saturate 97-100% on room air. An SpO2 of 95% in an infant with tachypnea, tachycardia, and feeding difficulty warrants further investigation, not acceptance as reassuringly normal. In the context of CHF with pulmonary overcirculation and early edema, mild desaturation reflects the severity of the cardiopulmonary compromise.
+
+4. NEGATIVE VIRAL PANEL SHOULD HAVE PROMPTED RECONSIDERATION: The comprehensive respiratory viral panel was entirely negative. While I correctly noted that not all viruses are captured on the panel, a negative result in a patient whose symptoms were attributed entirely to a viral process should have prompted reconsideration of the diagnosis — especially in the presence of CXR findings that did not fit a typical viral pattern.
+
+5. FAMILY HISTORY NOT ADEQUATELY EXPLORED: The parents mentioned a paternal uncle with a "heart problem as a child who had surgery." This family history of possible congenital heart disease should have heightened my suspicion. I documented it but did not incorporate it into my clinical reasoning.
+
+6. CHRONIC SYMPTOMS MISFRAMED AS ACUTE: The parents reported that the baby "breathes fast all the time" and has had chronic feeding difficulty. Rather than treating this as a chronic problem with acute worsening (which should prompt concern for decompensation of an underlying condition), I focused exclusively on the acute presentation and attributed the chronic symptoms to the failure to thrive being managed by the PCP. The acute-on-chronic nature of the presentation was a clue that was not appreciated.
+
+7. ANTIBIOTIC PRESCRIPTION WAS INAPPROPRIATE: I prescribed amoxicillin for a viral process without evidence of bacterial superinfection. This reflects cognitive bias — prescribing antibiotics may have been driven by discomfort with sending home a sick-appearing infant without a clear intervention, rather than evidence-based practice.
+
+Had I ordered an echocardiogram during this ER visit — or even a simple BNP level — the diagnosis of a large VSD with CHF would have been made 2 weeks earlier. More importantly, if I had synthesized the CXR findings (cardiomegaly + increased pulmonary vascularity), hepatomegaly, persistent tachycardia/tachypnea, failure to thrive, and negative viral panel into a coherent clinical picture, the diagnosis was readily available.
+
+This case will be presented at our ER department's quality improvement conference as an example of anchoring bias (anchoring to the chief complaint of "respiratory infection") and failure to synthesize multiple abnormal findings into a unifying diagnosis.
+
+Electronically signed: Dr. A. Reyes, MD, FACEP
+Original note signed: 2026-01-15 01:05
+Addendum signed: 2026-02-10 14:20

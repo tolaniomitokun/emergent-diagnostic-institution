@@ -1,0 +1,73 @@
+CARDIOLOGY CONSULTATION REPORT
+==============================
+Facility: Pacific Coast Children's Cardiology Associates
+Date: 2025-12-18
+Patient: Sofia Chen  DOB: 2008-09-14  MRN: 4471892
+Referring Physician: Dr. L. Abrams, Pediatrics
+Consulting Cardiologist: Dr. M. Fernandez, MD, FACC
+
+REASON FOR REFERRAL:
+17-year-old female varsity soccer player with recurrent near-syncope and palpitations x4 months. One episode of syncope with LOC during soccer game. Referred for cardiac evaluation.
+
+HISTORY OF PRESENT ILLNESS:
+Sofia is a previously healthy 17yo female who presents with a 4-month history of progressive exercise intolerance, palpitations, and one syncopal episode. She reports palpitations are worst at night and with minimal exertion. She previously trained 5 days/week for varsity soccer but is now unable to complete a practice session. She denies chest pain. She reports occasional "skipped beats." She has lost approximately 12 pounds over the past 4 months.
+
+Recent ER visit for syncope during soccer game showed Potassium 3.1 and Calcium 11.8 — discharged as "vasovagal syncope."
+
+PAST MEDICAL HISTORY: Previously healthy. No prior cardiac history.
+MEDICATIONS: None
+ALLERGIES: NKDA
+FAMILY HISTORY: Maternal grandmother — thyroid surgery age 52. Father — hypertension. No known family history of sudden cardiac death, cardiomyopathy, or arrhythmias.
+SOCIAL HISTORY: Junior in high school. Varsity soccer. No tobacco, alcohol, or drug use.
+
+PHYSICAL EXAMINATION:
+- VS: HR 106 (resting), BP 128/68, RR 16, SpO2 99% RA, Temp 37.2C
+- General: Thin, anxious-appearing female. Appears older than stated age.
+- HEENT: ** Fine tremor of outstretched hands noted. ** Mild proptosis questionable. No lid lag. Thyroid not palpated (exam limited by body habitus).
+- CV: Tachycardic, regular rhythm. Grade II/VI systolic click-murmur at apex, consistent with mitral valve prolapse. No S3/S4. No rub.
+- Lungs: Clear bilaterally.
+- Extremities: No edema. ** Warm, moist skin noted. ** Brisk deep tendon reflexes (3+).
+- Neuro: Appropriate. Fine resting tremor bilateral hands.
+
+ELECTROCARDIOGRAM:
+- Sinus tachycardia at 106 bpm
+- Normal axis
+- Normal intervals (PR 148ms, QRS 86ms, QTc 412ms)
+- No ST-T wave abnormalities
+- No evidence of pre-excitation (WPW)
+- No evidence of Brugada pattern
+
+ECHOCARDIOGRAM:
+- Normal LV size and systolic function (EF 62%)
+- Mild mitral valve prolapse (posterior leaflet, 3mm displacement)
+- Trace mitral regurgitation
+- Normal RV size and function
+- No pericardial effusion
+- Normal aortic root dimensions
+
+24-HOUR HOLTER MONITOR:
+- Average HR 98 bpm (range 72-142)
+- Sinus tachycardia throughout, inappropriate for activity level
+- 847 PACs in 24 hours (elevated)
+- 12 brief runs of SVT (longest 6 beats)
+- No ventricular ectopy
+
+ASSESSMENT:
+1. Inappropriate sinus tachycardia — resting HR consistently >100
+2. Mild mitral valve prolapse with trace MR — hemodynamically insignificant
+3. Frequent PACs with brief SVT runs — likely secondary to above
+4. ** SIGNIFICANT CONCERN: The combination of resting tachycardia, weight loss, tremor, warm moist skin, and hyperreflexia is NOT a primary cardiac presentation. This is highly suspicious for THYROTOXICOSIS. I am requesting thyroid function testing urgently. **
+
+PLAN:
+1. Start metoprolol 25mg BID for symptomatic tachycardia and PAC suppression
+2. ** URGENT: TSH, Free T4, Free T3 — ordered today **
+3. ** Recommend endocrinology referral if thyroid labs abnormal **
+4. Recheck ER labs: the Potassium 3.1 and Calcium 11.8 from prior ER visit are concerning and should NOT have been dismissed. Hypokalemia + hypercalcemia in a young patient warrants metabolic workup.
+5. Restrict from competitive athletics until etiology clarified
+6. Follow-up in 2 weeks or sooner if thyroid labs abnormal
+
+NOTE TO REFERRING PHYSICIAN:
+Dr. Abrams — I want to flag that Sofia's presentation is almost certainly NOT primarily cardiac. The mitral valve prolapse is incidental. Her tachycardia, weight loss, tremor, hyperreflexia, and warm skin form a classic thyrotoxicosis picture. The electrolyte derangements from her ER visit (hypokalemia, hypercalcemia) were inappropriately dismissed. Please ensure thyroid labs and a metabolic panel are followed urgently. I am also concerned about the hypercalcemia — this should prompt a PTH level and consideration of parathyroid pathology.
+
+Electronically signed: Dr. M. Fernandez, MD, FACC
+Date signed: 2025-12-18 16:45

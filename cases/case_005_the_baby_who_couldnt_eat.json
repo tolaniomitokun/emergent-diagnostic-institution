@@ -1,0 +1,132 @@
+{
+  "case_id": "CASE-005",
+  "title": "The Baby Who Couldn't Eat",
+  "description": "A 4-month-old female infant with poor feeding, failure to thrive, tachypnea, and perioral cyanosis. Undiagnosed large ventricular septal defect causing congestive heart failure. 5 visits over 4 months before cardiac evaluation.",
+  "patient": {
+    "age_months": 4,
+    "sex": "female",
+    "chief_complaint": "Poor feeding, excessive sweating during feeds, and failure to thrive",
+    "history_of_present_illness": "4-month-old female infant brought to pediatrician for poor feeding, excessive sweating during feeds, and failure to thrive. Birth history: Full-term, normal vaginal delivery, birth weight 7 lbs 2 oz (3.23 kg). Newborn screen normal. Passed hearing screen. No abnormalities noted at birth. At 2-week visit, weight gain was appropriate. Parents noted she seemed to breathe fast but were told 'newborns breathe differently.' At 1-month visit, weight gain was slowing. Pediatrician noted mild tachypnea (RR 55) but attributed to 'just finished crying.' Advised to supplement with formula if breastfeeding insufficient. At 2-month visit, weight dropped from 50th percentile to 15th percentile. Parents report she gets sweaty and tired after only 2-3 minutes of feeding, then falls asleep. Has to be woken to finish feeds. Pediatrician diagnosed 'poor latch' and referred to lactation consultant. At 3-month visit, now below 5th percentile for weight. Lactation consultant confirmed adequate milk supply and latch. Referred back to pediatrician with note: 'This baby fatigues abnormally during feeds. Please evaluate cardiopulmonary.' Pediatrician ordered chest X-ray — read as 'mild cardiomegaly, possibly normal variant in infant.' No follow-up ordered. At 3.5 months: ER visit for 'respiratory infection.' RSV negative. Flu negative. Noted hepatomegaly on exam but attributed to 'examiner variation.' Discharged with 'viral URI.' Current presentation at 4 months: Weight now below 3rd percentile. Parents describe episodes where she turns slightly blue around the lips during feeds. Persistent tachypnea (RR 60-70 at rest). Excessive sweating on forehead during feeds. Pediatrician hears a murmur for the first time — 'soft systolic murmur, grade II/VI, left sternal border.' Orders echocardiogram.",
+    "past_medical_history": [
+      "Full-term infant, normal vaginal delivery",
+      "Birth weight 7 lbs 2 oz (50th percentile)",
+      "Newborn screen normal",
+      "No NICU stay"
+    ],
+    "medications": [
+      "Vitamin D drops 400 IU daily",
+      "Iron-fortified formula supplement (started at 1 month per pediatrician recommendation)"
+    ],
+    "allergies": [],
+    "social_history": "Lives with both parents. First child. Mother is 28, father is 31. No family history of congenital heart disease. No consanguinity. Mother denies alcohol, tobacco, or drug use during pregnancy. Prenatal care started at 8 weeks, all prenatal visits attended, normal anatomy scan at 20 weeks.",
+    "family_history": "No known congenital heart disease in family. No genetic syndromes. Maternal grandmother has hypertension. Paternal grandfather has type 2 diabetes. No family history of sudden cardiac death or arrhythmias."
+  },
+  "vitals": {
+    "heart_rate": 165,
+    "blood_pressure": "N/A (infant)",
+    "respiratory_rate": 64,
+    "temperature": 37.2,
+    "oxygen_saturation": 94,
+    "weight_kg": 4.1,
+    "weight_percentile": "<3rd",
+    "length_cm": 60,
+    "length_percentile": "25th",
+    "head_circumference_cm": 40.5,
+    "head_circumference_percentile": "50th"
+  },
+  "labs": {
+    "CBC": {
+      "WBC": "9.8 K/uL [6.0-17.5]",
+      "Hemoglobin": "10.2 g/dL [10.0-13.0] low-normal",
+      "Hematocrit": "31%",
+      "Platelets": "285 K/uL [150-400]"
+    },
+    "CMP": {
+      "Sodium": "136 mEq/L [135-145]",
+      "Potassium": "5.1 mEq/L [3.5-6.0]",
+      "Chloride": "102 mEq/L [98-106]",
+      "CO2": "20 mEq/L [20-28] low end",
+      "BUN": "12 mg/dL [5-18]",
+      "Creatinine": "0.3 mg/dL [0.2-0.4]",
+      "Glucose": "78 mg/dL [60-100]",
+      "Calcium": "10.2 mg/dL [8.8-11.2]",
+      "AST": "42 U/L [20-60]",
+      "ALT": "28 U/L [10-55]"
+    },
+    "BNP": "485 pg/mL [<100] **MARKEDLY ELEVATED — consistent with heart failure**",
+    "Prealbumin": "12 mg/dL [17-34] **LOW — protein-calorie malnutrition**",
+    "note": "BNP was not ordered until the current 4-month visit. Had it been ordered at any prior visit, the markedly elevated value would have immediately directed evaluation toward cardiac pathology."
+  },
+  "imaging": {
+    "Chest_Xray_3months": "PA and lateral views. Heart appears mildly enlarged — cardiothoracic ratio approximately 0.58 (upper limit of normal for infants ~0.55). Pulmonary vascularity appears mildly increased. No focal consolidation. No pleural effusions. Thymic shadow normal. Radiologist impression: 'Mild cardiomegaly, possibly normal variant in infant. Correlation with clinical examination recommended.'",
+    "Echocardiogram_4months": "Comprehensive 2D, M-mode, and Doppler echocardiogram. FINDINGS: Large perimembranous ventricular septal defect measuring 8mm with predominant left-to-right shunt by color flow Doppler. Left atrial dilation (LA:Ao ratio 2.1, normal <1.5). Left ventricular dilation with preserved systolic function (EF 58%). Right ventricular systolic pressure estimated at 45 mmHg by tricuspid regurgitation jet velocity (elevated, suggesting pulmonary hypertension). Moderate mitral regurgitation secondary to annular dilation from left ventricular volume overload. No aortic arch abnormalities. Normal systemic and pulmonary venous return. IMPRESSION: Large perimembranous VSD with hemodynamically significant left-to-right shunt. Volume overload of left atrium and left ventricle. Moderate pulmonary hypertension. Moderate secondary mitral regurgitation. Findings consistent with congestive heart failure physiology."
+  },
+  "clinical_exam_findings": {
+    "General": "Small for age, thin, wasted appearance. Alert but not vigorous. Subcostal retractions at rest. Diaphoretic during brief feeding attempt.",
+    "HEENT": "Anterior fontanelle open, flat. No dysmorphic features. No cleft palate.",
+    "Cardiovascular": "Tachycardic (HR 165). Hyperactive precordium with visible and palpable left ventricular impulse. Grade II/VI holosystolic murmur best heard at left lower sternal border with radiation to the right. Thrill palpable at LLSB. S2 accentuated (loud P2). No S3 or S4 appreciated. Bounding peripheral pulses. Capillary refill 2 seconds.",
+    "Respiratory": "Tachypneic (RR 64). Mild intercostal and subcostal retractions. No grunting. No nasal flaring at rest, mild nasal flaring with feeding. Lungs: scattered fine crackles at bilateral bases.",
+    "Abdomen": "Soft. Liver palpable 3 cm below right costal margin (hepatomegaly). Spleen not palpable. No masses.",
+    "Extremities": "No edema. No clubbing. No cyanosis at rest. Mild perioral cyanosis observed during feeding attempt.",
+    "Skin": "Pale. No rashes. No petechiae. Mottled appearance of extremities.",
+    "Growth": "Weight 4.1 kg (<3rd percentile, expected ~6.4 kg at 4 months). Length 60 cm (25th percentile). Head circumference 40.5 cm (50th percentile). Weight-for-length severely depressed."
+  },
+  "timeline": [
+    {
+      "date": "2025-10-15",
+      "age": "Birth",
+      "event": "Normal delivery",
+      "provider": "Dr. J. Washington, OB/GYN — Riverside Community Hospital",
+      "details": "Full-term, normal vaginal delivery. Birth weight 7 lbs 2 oz (3.23 kg, 50th percentile). APGAR 8 at 1 min, 9 at 5 min. Newborn exam documented as 'normal.' No murmur noted. Newborn screen normal. Passed hearing screen. Pulse oximetry screening not documented (pre-discharge screening may not have been performed at this facility)."
+    },
+    {
+      "date": "2025-10-29",
+      "age": "2 weeks",
+      "event": "Well-child visit — weight appropriate",
+      "provider": "Dr. P. Nakamura, Pediatrics — Bright Start Pediatrics",
+      "details": "Weight 7 lbs 14 oz (3.57 kg) — appropriate gain. Parents mention 'she breathes really fast sometimes, especially when feeding.' Pediatrician states 'newborns have irregular breathing patterns, this is normal.' Respiratory rate not documented. Heart auscultation documented as 'regular rate, no murmur.' Feeding 'going well per parents.'"
+    },
+    {
+      "date": "2025-11-15",
+      "age": "1 month",
+      "event": "Well-child visit — growth slowing",
+      "provider": "Dr. P. Nakamura, Pediatrics",
+      "details": "Weight 8 lbs 6 oz (3.80 kg) — gained only 230g in 2 weeks (expected ~200g/week = 400g). Mild tachypnea noted (RR 55) but attributed to 'just finished crying.' Heart: 'regular, no murmur.' Parents report she tires during feeds. Advised to supplement with formula. No further evaluation."
+    },
+    {
+      "date": "2025-12-15",
+      "age": "2 months",
+      "event": "Well-child visit — percentile drop",
+      "provider": "Dr. P. Nakamura, Pediatrics",
+      "details": "Weight 9 lbs 4 oz (4.20 kg) — dropped from 50th percentile at birth to 15th percentile. Parents report she gets sweaty and tired after 2-3 minutes of feeding, falls asleep, must be woken to complete feeds. Taking 45-60 min per feeding session. Pediatrician diagnoses 'poor latch / feeding difficulty.' Refers to lactation consultant. Heart: 'regular, no murmur appreciated.' Vaccinations given."
+    },
+    {
+      "date": "2026-01-05",
+      "age": "2.5 months",
+      "event": "Lactation consultation",
+      "provider": "Sarah Mitchell, IBCLC — Riverside Lactation Center",
+      "details": "Weighted feed: infant transferred 85mL in 25 minutes (adequate volume but prolonged duration). Milk supply confirmed adequate (mother pumped 120mL from one breast). Latch assessed as 'good, adequate seal, effective suck-swallow pattern initially but rapid fatigue with tachypnea and diaphoresis after 2-3 minutes.' Note to pediatrician: 'This baby fatigues abnormally during feeds. The pattern of tachypnea, diaphoresis, and rapid fatigue is not consistent with a feeding or supply problem. Please evaluate cardiopulmonary causes of feeding difficulty.'"
+    },
+    {
+      "date": "2026-01-15",
+      "age": "3 months",
+      "event": "Well-child visit — CXR ordered",
+      "provider": "Dr. P. Nakamura, Pediatrics",
+      "details": "Weight 9 lbs 8 oz (4.31 kg) — now below 5th percentile. Received lactation consultant note. Ordered chest X-ray. CXR result: 'Mild cardiomegaly, possibly normal variant in infant. Increased pulmonary vascularity.' Pediatrician reviewed X-ray, noted 'possible normal variant' and documented plan as 'continue monitoring weight, return in 2 weeks.' No echocardiogram ordered. No cardiology referral. Heart: 'no murmur appreciated.'"
+    },
+    {
+      "date": "2026-01-28",
+      "age": "3.5 months",
+      "event": "ER visit — respiratory symptoms",
+      "provider": "Dr. A. Reyes, Emergency Medicine — Riverside Community Hospital",
+      "details": "Parents brought infant in for 'fast breathing and congestion.' RR 62, HR 158, Temp 37.4, SpO2 95%. RSV rapid: negative. Influenza rapid: negative. CXR: 'cardiomegaly with increased pulmonary vascular markings and mild perihilar haziness — differential includes viral process vs. early pneumonia vs. cardiac etiology.' ER physician noted 'liver edge palpable below costal margin' but documented as 'likely examiner variation in infant, liver position variable.' No murmur documented. Discharge diagnosis: 'Viral URI.' Treated with nasal suctioning, supportive care. No follow-up with cardiology recommended. Parents given return precautions."
+    },
+    {
+      "date": "2026-02-10",
+      "age": "4 months",
+      "event": "Current presentation — murmur heard, echo ordered",
+      "provider": "Dr. P. Nakamura, Pediatrics",
+      "details": "Weight 9 lbs 1 oz (4.1 kg) — actually LOST weight since last well visit. Below 3rd percentile. Parents report perioral cyanosis during feeds. Persistent tachypnea at rest (RR 64). Excessive sweating. Pediatrician hears murmur for first time: 'soft systolic murmur, grade II/VI, LLSB.' Orders STAT echocardiogram. Echo reveals large 8mm perimembranous VSD with hemodynamically significant left-to-right shunt, LV dilation, elevated PA pressures (45mmHg), moderate MR. STAT pediatric cardiology referral placed."
+    }
+  ]
+}

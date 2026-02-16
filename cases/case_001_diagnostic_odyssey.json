@@ -1,0 +1,101 @@
+{
+  "case_id": "case_001_diagnostic_odyssey",
+  "case_title": "14 Years of 'We Don't Know'",
+  "narrative_context": "Inspired by real patterns documented by NORD, the NIH Undiagnosed Diseases Network, and rare disease family advocacy organizations. Composite case — no single real patient.",
+  "full_records_path": "../visualization/public/data/case_001_full_records.txt",
+
+  "patient": {
+    "name": "Eli Reeves",
+    "age_at_presentation": 14,
+    "sex": "Male",
+    "ethnicity": "Mixed race (Black/White)",
+    "presenting_context": "Mother brings 14-year-old son to a new developmental pediatrics clinic after relocating. She carries a thick binder of records from 8 different providers across 3 states over 12 years. She says: 'Nobody has ever looked at all of this together.'"
+  },
+
+  "chief_complaint": "Progressive developmental regression, worsening movement difficulties, and intermittent episodes of confusion/staring — none of which have been explained despite 12 years of evaluations.",
+
+  "timeline": {
+    "age_0_to_2": {
+      "observations": "Born full-term, normal delivery, APGAR 8/9. Met early milestones on time (smiled at 6 weeks, sat at 6 months). By 18 months, parents noticed he wasn't progressing to walking as expected. First words appeared at 12 months but vocabulary plateaued around 20 words by age 2.",
+      "medical_contacts": ["Pediatrician — 'Boys develop slower, give it time.'"],
+      "tests": ["Hearing screen: normal"],
+      "diagnoses_given": ["None — 'developmental variation'"]
+    },
+    "age_2_to_4": {
+      "observations": "Walked at 26 months (late but achieved). Speech remained limited. Started toe-walking. Began hand-wringing movements that parents found unusual. Occasional staring spells lasting 5-10 seconds, dismissed by family as 'daydreaming.'",
+      "medical_contacts": [
+        "Pediatrician referred to developmental pediatrics — 6 month wait",
+        "Developmental pediatrician (age 3.5) — diagnosed autism spectrum disorder based on limited speech, repetitive hand movements, and social withdrawal"
+      ],
+      "tests": [
+        "MRI brain (age 3): 'Normal for age'",
+        "Basic metabolic panel: normal",
+        "Thyroid function: normal"
+      ],
+      "diagnoses_given": ["Autism Spectrum Disorder (ASD)"],
+      "critical_miss": "The hand-wringing was stereotypic, not stimming. The staring spells were likely absence seizures. No EEG was ordered. The combination of regression + stereotypic movements + possible seizures should have triggered consideration of Rett-like syndromes or neurometabolic conditions. The ASD diagnosis anchored all subsequent providers."
+    },
+    "age_4_to_7": {
+      "observations": "Started ABA therapy for autism. Made minimal progress. Teachers noted he seemed to be losing skills he'd previously had — could button his shirt at 4, couldn't at 6. Walking became increasingly unsteady. Parents reported he would occasionally 'zone out' for 15-30 seconds and seem confused afterward. Started having sleep disturbances — waking at night appearing frightened and disoriented.",
+      "medical_contacts": [
+        "ABA therapist — noted lack of progress, recommended more intensive therapy",
+        "School psychologist — 'He's on the spectrum, regression can happen'",
+        "New pediatrician (family moved to different state) — reviewed only recent records, accepted ASD diagnosis",
+        "Neurologist consult (age 6) — brief visit, noted autism diagnosis in chart, ordered MRI"
+      ],
+      "tests": [
+        "MRI brain (age 6): 'Mildly prominent ventricles, likely normal variant. No acute pathology.'",
+        "Blood lead level: normal",
+        "CBC: normal"
+      ],
+      "diagnoses_given": ["ASD with 'behavioral regression' — attributed to possible anxiety"],
+      "critical_miss": "The REGRESSION was the key red flag. True autism does not typically feature loss of previously acquired motor skills (buttoning, walking stability). The mildly prominent ventricles on MRI, combined with motor regression, should have prompted metabolic workup or genetic testing. The neurologist only had 2 years of records and accepted the prior ASD label. The night episodes could have been nocturnal seizures — no EEG was ordered."
+    },
+    "age_7_to_10": {
+      "observations": "Motor difficulties worsened significantly. Required ankle-foot orthotics (AFOs) by age 8. Developed mild scoliosis. Speech became more effortful — went from short sentences to mostly single words. Staring episodes became more frequent (2-3 per day). Parents noticed subtle jerking movements during sleep. Mother began researching online, brought concerns about seizures to doctors — was told 'children with autism can have unusual movements.'",
+      "medical_contacts": [
+        "Orthopedist — treated scoliosis and gait issues as 'neuromuscular,' recommended PT",
+        "Physical therapist — noted unusual progression pattern, wrote to pediatrician: 'This doesn't look like typical ASD motor involvement'",
+        "Pediatrician — referred back to neurology",
+        "Neurologist #2 (age 9) — ordered EEG"
+      ],
+      "tests": [
+        "EEG (age 9): 'Abnormal. Generalized spike-and-wave discharges consistent with epileptiform activity. Clinical correlation recommended.'",
+        "MRI brain (age 9): 'Progressive cerebellar atrophy compared to prior imaging. Recommend metabolic/genetic workup.'",
+        "Basic metabolic panel: normal",
+        "Lactate/pyruvate: slightly elevated lactate (2.8 mmol/L, normal <2.0)"
+      ],
+      "diagnoses_given": ["ASD + epilepsy (newly diagnosed)", "Possible neurodegenerative process — genetic workup recommended"],
+      "critical_miss": "This was the first time anyone compared the two MRI scans and noted progressive cerebellar atrophy. The 6-year-old MRI was at a different hospital and had been read as 'normal variant.' Had anyone reviewed the full imaging timeline earlier, the progressive nature would have been apparent years sooner. The elevated lactate was noted but not urgently followed up — the family was told to schedule a genetics appointment (4-month wait)."
+    },
+    "age_10_to_14": {
+      "observations": "Family moved again (military family). Records transfer was incomplete — the EEG results and the neurologist's recommendation for genetic workup were not in the transferred file. New providers started largely from scratch. Eli was now wheelchair-dependent. Seizures were occurring multiple times daily despite medication. Speech was limited to a few words. The mother's binder of records became the only complete source.",
+      "medical_contacts": [
+        "New pediatrician (3rd state) — overwhelmed by complexity, referred to neurology",
+        "Neurologist #3 — ordered new MRI, repeated some tests, unaware of prior lactate finding",
+        "Genetics referral placed at age 12 — 6-month wait, then insurance denied the panel recommended, appealed, approved at age 13",
+        "Genetic counselor (age 13) — ordered comprehensive epilepsy/neurodegeneration gene panel"
+      ],
+      "tests": [
+        "MRI brain (age 12): 'Significant cerebellar and mild cerebral atrophy. Progressive neurodegenerative process.'",
+        "Whole exome sequencing (age 13): pending for 4 months",
+        "Mitochondrial DNA panel: variant of uncertain significance identified"
+      ],
+      "diagnoses_given": ["Progressive neurodegenerative condition, etiology undetermined", "ASD diagnosis formally questioned for the first time"],
+      "critical_miss": "At age 13, twelve years after symptoms began, a geneticist finally questioned whether the original ASD diagnosis was correct at all — noting that the entire trajectory (regression, seizures, cerebellar atrophy, elevated lactate) pointed to a neurometabolic or mitochondrial disorder that was NEVER autism. Every provider since age 3.5 had anchored on the ASD label."
+    }
+  },
+
+  "complete_record_summary": {
+    "total_providers_seen": 8,
+    "states_lived_in": 3,
+    "mri_scans": 4,
+    "years_with_wrong_primary_diagnosis": 10,
+    "tests_never_ordered_that_should_have_been": [
+      "EEG (should have been ordered at age 2-3 when staring spells began)",
+      "Metabolic panel including lactate/pyruvate (should have been ordered when regression was noted at age 4-5)",
+      "Genetic testing (should have been ordered when motor regression + seizures + cerebellar changes were all present by age 9)"
+    ],
+    "records_fragmentation": "No single provider ever had access to all 4 MRI scans, the EEG, the elevated lactate, AND the full developmental timeline simultaneously. The mother's paper binder was more complete than any hospital's electronic record."
+  }
+}

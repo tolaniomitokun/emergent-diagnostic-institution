@@ -1,0 +1,251 @@
+NEUROPSYCHOLOGICAL EVALUATION REPORT
+=====================================
+Facility: Central Valley Neuropsychology Associates
+Date of Evaluation: 2024-12-09
+Patient: Harold Kimura  DOB: 1973-04-22  MRN: 5938274
+Referring Physician: Dr. M. Ashworth, Tri-Valley Neurology
+Evaluating Neuropsychologist: Dr. K. Okonkwo, PhD, ABPP-CN
+
+=====================================
+REASON FOR REFERRAL
+=====================================
+Harold Kimura is a 51-year-old right-handed male referred by Dr. Ashworth for comprehensive neuropsychological evaluation to characterize the nature and severity of reported cognitive decline and assist with differential diagnosis. The patient has been diagnosed with probable early-onset Alzheimer's disease based on 10-month history of progressive cognitive decline and mild cortical atrophy on MRI. Dr. Ashworth requests formal cognitive profiling to confirm diagnosis and establish baseline for monitoring treatment response to donepezil.
+
+=====================================
+BACKGROUND INFORMATION
+=====================================
+Information obtained from clinical interview with patient and his wife (primary informant), review of medical records from Dr. Thornton (PCP) and Dr. Ashworth (Neurology).
+
+History of Present Illness:
+Harold's wife reports the onset of cognitive difficulties approximately 14 months ago, initially manifesting as repetitive questioning and misplacing tools on the farm. Symptoms have progressively worsened to include difficulty with familiar driving routes, inability to manage farm finances, errors in operating farm equipment, and poor judgment (e.g., selling cattle below market value). She describes significant personality changes: increased irritability, emotional outbursts, social withdrawal from church and community, decreased initiative, and episodes of crying without clear precipitant. She notes onset of bilateral hand tremor approximately 8 months ago. Abdominal pain, constipation, and nausea have been present for approximately 8 months.
+
+Premorbid Functioning:
+Harold graduated from high school (1991) and completed a 2-year agricultural management program at the state community college. He has operated the family farm (240 acres, mixed crop and cattle) independently for 30 years, managing all aspects including crop planning, equipment maintenance, livestock management, financial record-keeping, and regulatory compliance. His wife describes him as "sharp with numbers" and "always organized." He served on the county agricultural board for 12 years, requiring public speaking and committee work. Premorbid intellectual functioning is estimated at average to high-average based on educational and occupational history.
+
+Medical History: DM2 (5 years, well-controlled), HTN, HLD. Current medications include donepezil 5mg, metformin, lisinopril, atorvastatin, sertraline, aspirin.
+
+Psychiatric History: No prior psychiatric history before current episode. Started sertraline 8 months ago for depression (PHQ-9: 14). Wife denies prior episodes of depression, anxiety, or behavioral disturbance.
+
+Substance Use: No tobacco. Rare alcohol (1-2 beers monthly). No history of heavy drinking. No recreational drugs.
+
+Sleep: Poor — 5-6 hours nightly with frequent awakenings. Wife reports occasional nocturnal wandering (2-3 episodes over past 2 months).
+
+=====================================
+BEHAVIORAL OBSERVATIONS
+=====================================
+Harold presented as a thin, casually dressed male who appeared his stated age. He was accompanied by his wife, who provided substantial collateral information. He was cooperative throughout testing but fatigued easily, requiring two 15-minute breaks during the 4-hour evaluation.
+
+He was alert and attentive for brief periods but demonstrated fluctuating attention — he would lose focus during longer tasks and require redirection. He was oriented to person and place but not to date (stated November 2023, actual December 2024). His speech was fluent but occasionally tangential, and he required redirection to the question at hand on multiple occasions.
+
+** Bilateral intention tremor was observed throughout testing, significantly affecting his ability to complete graphomotor tasks (writing, drawing). ** He held the pencil with a modified grip and pressed heavily. His handwriting was irregular and effortful compared to premorbid samples (wife brought a farm ledger from 2023 for comparison).
+
+Mood was described as "okay" though he appeared mildly dysphoric and occasionally frustrated when unable to complete tasks. He demonstrated reduced insight into his cognitive deficits — when asked why he was being evaluated, he stated "My wife worries too much" despite clearly struggling with test demands.
+
+** Additional observation: The patient's hands showed visible wasting of the thenar eminences and interosseous muscles bilaterally. He had difficulty gripping test materials. This motor finding was noted but not further investigated as part of the neuropsychological evaluation, as it was assumed to be documented by the referring neurologist. **
+
+=====================================
+TESTS ADMINISTERED
+=====================================
+- Montreal Cognitive Assessment (MoCA)
+- Wechsler Adult Intelligence Scale-IV (WAIS-IV), selected subtests
+- Wechsler Memory Scale-IV (WMS-IV), selected subtests
+- Trail Making Test Parts A and B
+- Controlled Oral Word Association Test (COWAT / FAS)
+- Category Fluency (Animals, Vegetables)
+- Boston Naming Test (BNT-60)
+- Rey Complex Figure Test (RCFT) — Copy and Delayed Recall
+- Wisconsin Card Sorting Test (WCST)
+- Stroop Color-Word Test
+- California Verbal Learning Test-III (CVLT-III)
+- Brief Visuospatial Memory Test-Revised (BVMT-R)
+- Grooved Pegboard Test
+- Finger Tapping Test
+- Beck Depression Inventory-II (BDI-II)
+- Geriatric Depression Scale (GDS)
+- Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE) — completed by wife
+
+=====================================
+TEST RESULTS
+=====================================
+Scores reported as Standard Score (SS, mean=100, SD=15), T-Score (mean=50, SD=10), Scaled Score (mean=10, SD=3), or Percentile as indicated. Age- and education-adjusted norms applied.
+
+SCREENING:
+  MoCA Total:                    18/30
+    - Visuospatial/Executive:    2/5     ** IMPAIRED **
+    - Naming:                    3/3     INTACT
+    - Attention:                 3/6     ** IMPAIRED **
+    - Language:                  2/3     LOW-NORMAL
+    - Abstraction:               1/2     LOW-NORMAL
+    - Delayed Recall:            2/5     ** IMPAIRED **
+    - Orientation:               5/6     BORDERLINE
+
+INTELLECTUAL FUNCTIONING (WAIS-IV selected subtests):
+  Vocabulary:                    SS 92   (30th %ile)    LOW-AVERAGE
+  Similarities:                  SS 85   (16th %ile)    LOW-AVERAGE
+  Matrix Reasoning:              SS 78   (7th %ile)     ** BORDERLINE **
+  Block Design:                  SS 72   (3rd %ile)     ** IMPAIRED **
+  Digit Span:                    SS 75   (5th %ile)     ** BORDERLINE **
+  Arithmetic:                    SS 70   (2nd %ile)     ** IMPAIRED **
+  Coding:                        SS 65   (1st %ile)     ** IMPAIRED **
+  Symbol Search:                 SS 68   (2nd %ile)     ** IMPAIRED **
+
+  ** NOTE: Processing speed (Coding, Symbol Search) scores may be partially depressed by motor tremor affecting graphomotor speed. However, the deficit magnitude exceeds what would be expected from motor impairment alone. **
+
+EXECUTIVE FUNCTIONING:
+  Trail Making Test A:           T=32    (4th %ile)     ** IMPAIRED **
+    - Time: 68 sec (0 errors)
+  Trail Making Test B:           T=22    (<1st %ile)    ** SEVERELY IMPAIRED **
+    - Time: 248 sec (4 errors, did not complete)
+  COWAT (FAS):                   T=28    (2nd %ile)     ** IMPAIRED **
+    - Total words: 18 (F=7, A=6, S=5)
+  Category Fluency — Animals:    T=30    (3rd %ile)     ** IMPAIRED **
+    - Total: 9 words/minute
+  Category Fluency — Vegetables: T=32    (4th %ile)     ** IMPAIRED **
+    - Total: 6 words/minute
+  Wisconsin Card Sorting Test:
+    - Categories completed:      2/6                     ** IMPAIRED **
+    - Perseverative errors:      38      (>98th %ile)   ** SEVERELY ELEVATED **
+    - Failure to maintain set:   4                       ** ELEVATED **
+  Stroop Color-Word:             T=25    (1st %ile)     ** SEVERELY IMPAIRED **
+    - Marked interference effect; unable to suppress automatic reading
+
+ATTENTION AND WORKING MEMORY:
+  Digit Span Forward:            Scaled=6  (9th %ile)   ** LOW **
+    - Longest span: 5 digits (normal >=7)
+  Digit Span Backward:           Scaled=4  (2nd %ile)   ** IMPAIRED **
+    - Longest span: 3 digits (normal >=5)
+  Digit Span Sequencing:         Scaled=4  (2nd %ile)   ** IMPAIRED **
+    - Longest span: 3 digits
+
+VERBAL MEMORY (CVLT-III):
+  Total Learning (Trials 1-5):   T=34    (5th %ile)     ** IMPAIRED **
+    - Trial 1: 4, Trial 2: 5, Trial 3: 6, Trial 4: 7, Trial 5: 7
+    - Learning curve present (4 to 7) — ** suggests encoding capacity is partially preserved **
+  Short Delay Free Recall:       T=32    (4th %ile)     ** IMPAIRED **
+    - Words recalled: 4/16
+  Long Delay Free Recall:        T=30    (3rd %ile)     ** IMPAIRED **
+    - Words recalled: 3/16
+  Long Delay Cued Recall:        T=38    (12th %ile)    LOW-AVERAGE
+    - Words recalled: 6/16
+    - ** NOTABLE: Significant improvement with cueing (3 → 6), suggesting RETRIEVAL deficit rather than consolidation/storage failure **
+  Recognition Discriminability:  T=40    (16th %ile)    LOW-AVERAGE
+    - Hits: 13/16, False positives: 3
+    - ** Recognition substantially better than free recall — further supports retrieval-based deficit pattern **
+  Intrusions:                    3 (mildly elevated)
+  Perseverations:                5 (elevated)
+
+VISUAL MEMORY (BVMT-R):
+  Total Learning:                T=30    (3rd %ile)     ** IMPAIRED **
+  Delayed Recall:                T=28    (2nd %ile)     ** IMPAIRED **
+  Recognition:                   T=36    (8th %ile)     LOW
+    - Again, recognition > free recall
+
+REY COMPLEX FIGURE TEST:
+  Copy:                          T=25    (1st %ile)     ** SEVERELY IMPAIRED **
+    - Score: 18/36
+    - Copy was disorganized with poor planning — piecemeal approach rather than configural strategy. Tremor contributed to line quality but organizational deficit was primary.
+  Delayed Recall (30 min):       T=22    (<1st %ile)    ** SEVERELY IMPAIRED **
+    - Score: 5/36
+
+LANGUAGE:
+  Boston Naming Test (BNT-60):   T=42    (21st %ile)    LOW-AVERAGE
+    - Correct: 48/60. Errors primarily on low-frequency items.
+    - Phonemic cueing helped on 5 items — INTACT phonological access
+
+MOTOR:
+  Grooved Pegboard (Dominant R):  T=20   (<1st %ile)    ** SEVERELY IMPAIRED **
+  Grooved Pegboard (Non-dom L):   T=22   (<1st %ile)    ** SEVERELY IMPAIRED **
+  Finger Tapping (Dominant R):    T=28   (2nd %ile)     ** IMPAIRED **
+  Finger Tapping (Non-dom L):     T=25   (1st %ile)     ** SEVERELY IMPAIRED **
+  ** Motor performance severely impaired bilaterally, consistent with tremor and distal motor weakness. Left hand worse than right on tapping despite right-handedness — unusual lateralization. **
+
+MOOD:
+  Beck Depression Inventory-II:   Score: 18 (Mild depression)
+  Geriatric Depression Scale:     Score: 8/15 (Suggestive of mild depression)
+
+INFORMANT REPORT:
+  IQCODE (wife):                  4.6/5.0 (significant decline from premorbid baseline across all domains)
+
+=====================================
+INTERPRETATION AND DIAGNOSTIC FORMULATION
+=====================================
+
+COGNITIVE PROFILE SUMMARY:
+Harold Kimura demonstrates a pattern of moderate-to-severe cognitive impairment across multiple domains. The profile is characterized by:
+
+1. ** EXECUTIVE DYSFUNCTION — MOST PROMINENT DEFICIT **
+   Severely impaired on all measures of executive function (Trails B, WCST, Stroop, verbal fluency). Perseverative errors on WCST are markedly elevated, indicating profound difficulty with cognitive flexibility and set-shifting. This is the most severely affected domain and represents the primary cognitive disability.
+
+2. ** ATTENTION AND WORKING MEMORY — SEVERELY IMPAIRED **
+   Digit span forward reduced (max 5), backward and sequencing severely impaired (max 3). Fluctuating attention observed clinically throughout testing.
+
+3. ** MEMORY — IMPAIRED BUT WITH RETRIEVAL-BASED PATTERN **
+   Verbal and visual memory are impaired on free recall measures. However, CRITICAL distinction: cueing and recognition significantly improve performance (CVLT-III long delay free recall T=30 vs. cued recall T=38 vs. recognition T=40). This pattern indicates that ENCODING AND STORAGE ARE RELATIVELY PRESERVED, but RETRIEVAL IS IMPAIRED. This is a subcortical/executive pattern of memory impairment, NOT the consolidation-storage failure pattern typically seen in Alzheimer's disease where cueing and recognition do NOT improve performance.
+
+4. ** VISUOSPATIAL/CONSTRUCTIONAL — SEVERELY IMPAIRED **
+   Rey Figure copy severely impaired due to organizational/planning deficits (executive contribution) superimposed on motor tremor.
+
+5. ** LANGUAGE — RELATIVELY PRESERVED **
+   Naming mildly reduced but substantially better than other domains. No aphasia. This is inconsistent with typical AD, where language decline (particularly naming) usually parallels memory decline.
+
+6. ** MOTOR — SEVERELY IMPAIRED **
+   Bilateral motor deficits on grooved pegboard and finger tapping, consistent with observed tremor and distal weakness. Unusual left-worse-than-right lateralization in a right-handed individual.
+
+7. ** PROCESSING SPEED — SEVERELY IMPAIRED **
+   Coding and Symbol Search at floor. Partially attributable to motor demands but also reflects cognitive slowing.
+
+DOMAIN SEVERITY RANKING (most to least impaired):
+  1. Executive function (severely impaired)
+  2. Attention/working memory (severely impaired)
+  3. Processing speed (severely impaired)
+  4. Visuospatial/constructional (severely impaired)
+  5. Memory — free recall (impaired)
+  6. Memory — recognition/cued (low-average)
+  7. Language/naming (low-average, relatively preserved)
+
+DIAGNOSTIC IMPRESSION:
+The cognitive profile is consistent with a moderate dementia syndrome involving multiple domains. The overall severity and functional impact are consistent with the referring diagnosis of early-onset neurodegenerative disease.
+
+However, I wish to note that the pattern of deficits is SOMEWHAT ATYPICAL for Alzheimer's disease in the following respects:
+
+a) The PROMINENCE OF EXECUTIVE AND ATTENTIONAL DEFICITS relative to memory is unusual for AD. In typical AD, memory (particularly encoding and consolidation) is the earliest and most severely affected domain, with executive dysfunction emerging later. In Harold's profile, executive function is the MOST impaired domain, and memory shows a retrieval pattern rather than a consolidation pattern.
+
+b) The RETRIEVAL-BASED MEMORY PROFILE (improvement with cueing and recognition) is more characteristic of subcortical dementias (e.g., vascular dementia, Parkinson's disease dementia, Huntington's disease) or secondary/reversible dementias (e.g., toxic, metabolic) than of AD, where the hippocampal-mediated consolidation deficit typically results in flat learning curves, no benefit from cueing, and poor recognition.
+
+c) Harold's learning curve (CVLT Trial 1=4 to Trial 5=7) shows continued acquisition across trials, suggesting hippocampal encoding is at least partially intact. In AD, learning curves are typically flat.
+
+d) The RELATIVE PRESERVATION OF NAMING is atypical. AD patients at this severity level usually show significant anomia.
+
+DIAGNOSIS: Cognitive profile consistent with early-onset Alzheimer's disease, though the pattern is atypical with prominent executive and attentional deficits and a retrieval-based memory profile. Alternative diagnoses that could produce this pattern include frontal variant AD, vascular dementia, or a secondary (potentially reversible) dementia such as metabolic, toxic, or inflammatory encephalopathy.
+
+RECOMMENDATIONS:
+1. Continue donepezil; consider memantine addition
+2. Repeat neuropsychological evaluation in 12 months to track trajectory
+3. AD biomarker testing (CSF amyloid/tau or amyloid PET) may help clarify diagnosis if clinical trajectory is atypical
+4. Safety evaluation for driving — recommend formal driving assessment; advise against unsupervised driving
+5. Caregiver support resources for wife
+6. Cognitive rehabilitation referral for compensatory strategy training
+
+=====================================
+RETROSPECTIVE ADDENDUM
+=====================================
+Added by: Dr. K. Okonkwo, PhD, ABPP-CN
+Date: 2026-02-10
+
+Following the diagnosis of chronic lead poisoning in Harold Kimura, I have re-examined my evaluation in the context of what is known about the neuropsychological profile of heavy metal encephalopathy.
+
+The cognitive pattern I documented — prominent executive dysfunction and attentional impairment, retrieval-based memory deficit with relatively preserved encoding, processing speed reduction, visuospatial impairment, and relatively preserved language — is in fact MORE CONSISTENT WITH TOXIC ENCEPHALOPATHY (including lead and mercury poisoning) than with Alzheimer's disease. Specifically:
+
+1. EXECUTIVE DYSFUNCTION AS THE PRIMARY DEFICIT: Lead encephalopathy characteristically produces frontal-subcortical dysfunction, manifesting as executive impairment, poor mental flexibility, and perseveration. This was Harold's most impaired domain. In AD, memory is the primary deficit.
+
+2. RETRIEVAL-BASED MEMORY PATTERN: I explicitly documented that Harold's memory profile showed a retrieval deficit rather than a consolidation deficit (cueing improved recall from 3 to 6 words; recognition substantially exceeded free recall). I noted this was "atypical for AD" and listed "toxic encephalopathy" as an alternative diagnosis. However, I did not escalate this finding sufficiently — I listed it as a parenthetical alternative rather than recommending specific workup.
+
+3. PRESERVED LEARNING CURVE: Harold's CVLT learning curve (4-5-6-7-7) showed continued acquisition, suggesting hippocampal function was at least partially intact. This is inconsistent with AD but consistent with toxic encephalopathy where subcortical circuits are preferentially affected.
+
+4. MOTOR FINDINGS: I documented severe bilateral motor impairment, hand muscle wasting, and unusual lateralization but considered these as comorbid findings rather than integrating them into the diagnostic picture. Motor findings are NOT a feature of AD but ARE a cardinal feature of lead neuropathy.
+
+I did identify the atypical features and listed "toxic or metabolic encephalopathy" as a differential consideration. My error was in not advocating more strongly for additional workup to evaluate these alternatives. I deferred to the referring neurologist's diagnosis of AD rather than recommending specific metabolic and toxicological testing based on the neuropsychological profile. In future cases with atypical cognitive profiles, I will include explicit recommendations for metabolic and toxicological screening, particularly when the pattern suggests a subcortical or frontal-subcortical process in a patient without clear genetic risk for early-onset AD.
+
+Electronically signed: Dr. K. Okonkwo, PhD, ABPP-CN
+Report signed: 2024-12-09 18:15
+Addendum signed: 2026-02-10 14:20

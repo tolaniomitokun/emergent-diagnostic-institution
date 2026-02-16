@@ -1,0 +1,182 @@
+{
+  "case_id": "CASE-006",
+  "title": "The Pain No One Believed",
+  "description": "A 28-year-old African American female graphic designer with 3-year history of episodic severe pain crises, chronic joint pain, recurrent leg ulcers, and unprovoked PE. Hemolysis markers (elevated LDH, low haptoglobin, elevated reticulocytes, elevated indirect bilirubin) were in the chart for over a year but never connected to her symptoms. 8 providers seen over 3 years. Likely sickle cell disease variant (HbSC or sickle-beta thalassemia).",
+  "patient": {
+    "age": 28,
+    "sex": "female",
+    "ethnicity": "African American",
+    "chief_complaint": "Episodic severe pain crises, chronic joint pain, and recurrent leg ulcers for 3 years",
+    "history_of_present_illness": "28-year-old African American female graphic designer presenting with 3-year history of episodic severe pain crises, chronic joint pain, and recurrent leg ulcers. First episode 3 years ago: excruciating pain in lower back and hips lasting 3 days. ER visit — given IV morphine, CT abdomen normal, discharged with 'musculoskeletal pain, possible kidney stone that passed.' No stone seen on imaging. Second episode 2.5 years ago: pain crisis affecting chest and arms. ER visit — troponin negative, ECG normal, CT chest negative for PE. Diagnosed 'costochondritis and anxiety.' Prescribed naproxen. 2 years ago: developed chronic aching in knees and ankles. Rheumatologist tested ANA (negative), RF (negative), HLA-B27 (negative). Diagnosed 'fibromyalgia.' Started duloxetine. 18 months ago: non-healing ulcer appeared on left ankle. Dermatologist performed biopsy — 'nonspecific ulceration with inflammation.' Treated with wound care. Healed after 3 months. 12 months ago: another pain crisis with fever of 102F. Hospitalized for 4 days. Blood cultures negative. CT chest showed small bilateral pulmonary emboli. Started anticoagulation with apixaban (Eliquis) for 'unprovoked PE.' Hematology workup for clotting disorders: Factor V Leiden negative, Protein C and S normal, antiphospholipid antibodies negative. 8 months ago: new ulcer on right ankle. Patient mentions her brother had similar pain episodes as a child and was told he had 'blood problems' but family doesn't discuss it further. 6 months ago: CBC reviewed — Hgb 9.2, MCV 88, reticulocyte count 8% (elevated), LDH 380 (elevated), indirect bilirubin 2.1 (elevated), haptoglobin <10 (critically low). These results were in the system from the hospitalization a year ago but were never specifically addressed or connected to her pain crises. Currently: chronic pain rated 5/10 daily with intermittent crises reaching 10/10. Two non-healing ankle ulcers. Fatigue. On duloxetine 60mg daily and apixaban 5mg BID.",
+    "past_medical_history": [
+      "Recurrent pain crises (diagnosed as musculoskeletal pain, costochondritis)",
+      "Fibromyalgia (diagnosed 2 years ago)",
+      "Unprovoked bilateral PE (12 months ago, on anticoagulation)",
+      "Recurrent leg ulcers (left ankle 18 months ago, right ankle 8 months ago)",
+      "Chronic anemia (Hgb 9.2, noted but not investigated)",
+      "Depression/anxiety (attributed to chronic pain)"
+    ],
+    "medications": [
+      "Duloxetine 60mg daily (for fibromyalgia)",
+      "Apixaban 5mg BID (for PE)",
+      "Naproxen 500mg PRN (for pain)",
+      "Acetaminophen 1000mg PRN",
+      "Iron supplement 325mg daily (started empirically for anemia)",
+      "Folic acid 1mg daily"
+    ],
+    "allergies": ["Sulfa drugs (rash)"],
+    "social_history": "Graphic designer, works from home. Single, lives alone. Non-smoker. Rare alcohol (1-2 drinks monthly). No recreational drugs. Exercises when pain allows — mostly yoga and walking. Reports significant impact on quality of life — has missed approximately 30 work days in the past year due to pain crises. Reports feeling 'dismissed' by multiple providers and describes experiences of having her pain minimized.",
+    "family_history": "Brother (age 25) had 'blood problems' as a child — frequent hospitalizations, pain episodes. Family does not discuss specifics. Mother (age 52) has chronic pain, takes pain medication. Father (age 55) reportedly healthy. Maternal grandmother died of stroke at age 60. No known family history of sickle cell disease explicitly discussed, though brother's history is highly suggestive."
+  },
+  "vitals": {
+    "heart_rate": 88,
+    "blood_pressure": "118/72",
+    "respiratory_rate": 18,
+    "temperature": 37.0,
+    "oxygen_saturation": 96,
+    "weight_kg": 62
+  },
+  "labs": {
+    "CBC": {
+      "WBC": "11.2 K/uL [4.5-11.0] **mildly elevated**",
+      "Hemoglobin": "9.2 g/dL [12.0-16.0] **LOW — chronic anemia**",
+      "Hematocrit": "28%",
+      "MCV": "88 fL [80-100] normocytic",
+      "MCH": "30 pg [27-33]",
+      "MCHC": "32.9 g/dL [31.5-35.5]",
+      "RDW": "18.5% [11.5-14.5] **HIGH — marked anisocytosis**",
+      "Platelets": "425 K/uL [150-400] **mildly elevated — reactive thrombocytosis**",
+      "Reticulocyte_count": "8% [0.5-2.0] **MARKEDLY ELEVATED — hemolytic process**",
+      "Reticulocyte_absolute": "240 K/uL [25-75] **ELEVATED**"
+    },
+    "Hemolysis_markers": {
+      "LDH": "380 U/L [120-246] **ELEVATED**",
+      "Indirect_bilirubin": "2.1 mg/dL [0.1-0.8] **ELEVATED**",
+      "Total_bilirubin": "2.8 mg/dL [0.1-1.2] **ELEVATED**",
+      "Haptoglobin": "<10 mg/dL [30-200] **CRITICALLY LOW — undetectable, confirms intravascular hemolysis**",
+      "Direct_Coombs": "Negative (tested during hospitalization)",
+      "note": "These hemolysis markers were available from hospitalization 12 months ago but were never connected to the clinical picture. The combination of elevated LDH + low haptoglobin + elevated reticulocytes + elevated indirect bilirubin is DIAGNOSTIC of hemolytic anemia. Coombs-negative hemolysis narrows the differential significantly."
+    },
+    "CMP": {
+      "Sodium": "138 mEq/L [136-145]",
+      "Potassium": "4.5 mEq/L [3.5-5.0]",
+      "Chloride": "104 mEq/L [98-106]",
+      "CO2": "22 mEq/L [23-29] **slightly low**",
+      "BUN": "14 mg/dL [7-20]",
+      "Creatinine": "0.7 mg/dL [0.6-1.2]",
+      "Glucose": "92 mg/dL [70-100]",
+      "Calcium": "9.4 mg/dL [8.5-10.5]",
+      "AST": "45 U/L [10-40] **mildly elevated**",
+      "ALT": "32 U/L [7-56]",
+      "Alk_Phos": "85 U/L [44-147]",
+      "Total_protein": "7.8 g/dL [6.0-8.3]",
+      "Albumin": "3.8 g/dL [3.5-5.5]"
+    },
+    "Iron_studies": {
+      "Serum_iron": "95 ug/dL [60-170]",
+      "TIBC": "310 ug/dL [250-370]",
+      "Ferritin": "185 ng/mL [12-150] **mildly elevated — inconsistent with iron deficiency**",
+      "note": "Iron studies are NORMAL to elevated, ruling out iron deficiency as cause of anemia. Ferritin is mildly elevated, consistent with chronic hemolysis and/or inflammation. Iron supplementation was started empirically without recognizing this."
+    },
+    "Coagulation": {
+      "PT": "12.5 sec [11-13.5]",
+      "INR": "1.1",
+      "PTT": "28 sec [25-35]",
+      "Factor_V_Leiden": "Negative",
+      "Protein_C": "Normal",
+      "Protein_S": "Normal",
+      "Antithrombin_III": "Normal",
+      "Antiphospholipid_antibodies": "Negative",
+      "note": "Full hypercoagulability workup was negative. The PE was labeled 'unprovoked.' Sickle cell disease is a well-known cause of venous thromboembolism and was never considered."
+    },
+    "Inflammatory": {
+      "ESR": "45 mm/hr [0-20] **ELEVATED**",
+      "CRP": "18 mg/L [<3.0] **ELEVATED**"
+    },
+    "Autoimmune": {
+      "ANA": "Negative",
+      "RF": "Negative",
+      "HLA-B27": "Negative",
+      "Anti-CCP": "Negative"
+    },
+    "Tests_never_ordered": {
+      "note": "The following critical tests were NEVER ordered despite hemolysis markers being present in the chart for over 12 months: (1) Hemoglobin electrophoresis — the single most important diagnostic test, would immediately identify sickle hemoglobin; (2) Peripheral blood smear — would show sickle cells, target cells, and potentially Howell-Jolly bodies indicating functional asplenia; (3) Sickle cell screen (solubility test) — rapid screening test; (4) HPLC (high-performance liquid chromatography) — gold standard for hemoglobin variant identification."
+    }
+  },
+  "imaging": {
+    "CT_abdomen_3yrs_ago": "No kidney stones identified. No hydronephrosis. No free fluid. Spleen appeared within normal limits (this was early in the disease course).",
+    "CT_chest_2_5yrs_ago": "No pulmonary embolism. No consolidation. No pleural effusions. Heart size normal. No lymphadenopathy.",
+    "CT_chest_12months_ago": "Small bilateral pulmonary emboli in segmental branches of both lower lobe pulmonary arteries. No evidence of right heart strain. Small bilateral pleural effusions (new). Spleen appears heterogeneous with possible small infarcts (not commented upon in original read).",
+    "Chest_Xray_current": "Cardiomegaly (mild). No acute pulmonary infiltrates. No pleural effusions currently. Mild bibasilar atelectasis.",
+    "Ankle_Xray_bilateral": "No fractures. No osteomyelitis. Soft tissue defects at bilateral medial malleoli consistent with ulceration. No foreign bodies."
+  },
+  "clinical_exam_findings": {
+    "General": "Thin African American female appearing older than stated age. Appears fatigued. Mild scleral icterus.",
+    "HEENT": "Mild scleral icterus bilaterally. Pale conjunctivae. Oral mucosa pale. No lymphadenopathy.",
+    "Cardiovascular": "Regular rate and rhythm. Grade II/VI systolic flow murmur at left sternal border (anemia-related). No gallops. No rubs.",
+    "Respiratory": "Clear to auscultation bilaterally. No wheezes or crackles. Normal respiratory effort.",
+    "Abdomen": "Soft, mild tenderness in left upper quadrant. No hepatomegaly. Spleen not palpable (possible auto-splenectomy). No masses.",
+    "Extremities": "Bilateral medial malleolar ulcers — left ankle: 3x2cm shallow ulcer with fibrinous base and surrounding hyperpigmentation. Right ankle: 2x1.5cm ulcer with mild erythematous border, slow granulation. No surrounding cellulitis. Bilateral ankle edema (mild). No clubbing.",
+    "Musculoskeletal": "Mild tenderness over bilateral hips and knees. Full range of motion but with pain. No joint effusions. No deformities.",
+    "Skin": "Generalized pallor. Scleral icterus. Bilateral lower extremity hyperpigmentation from prior ulcers. No petechiae or purpura. No rashes.",
+    "Neurological": "Alert, oriented x4. Cranial nerves intact. Motor 5/5 throughout. Sensation intact. Reflexes 2+ symmetric."
+  },
+  "timeline": [
+    {
+      "date": "2023-02",
+      "age": "25",
+      "event": "First pain crisis — back and hips",
+      "provider": "ER physician, City General Hospital",
+      "details": "Excruciating pain in lower back and hips lasting 3 days. IV morphine administered. CT abdomen normal — no kidney stone identified. Discharged with 'musculoskeletal pain, possible kidney stone that passed.' No stone seen. No CBC drawn. Pain resolved spontaneously after 4 days."
+    },
+    {
+      "date": "2023-08",
+      "age": "25",
+      "event": "Second pain crisis — chest and arms",
+      "provider": "ER physician, City General Hospital",
+      "details": "Pain crisis in chest and bilateral arms. Troponin negative x2. ECG: sinus tachycardia, otherwise normal. CT chest: no PE, no consolidation. Diagnosed 'costochondritis and anxiety.' Prescribed naproxen 500mg BID. CBC drawn: Hgb 10.1, MCV 87 — anemia noted but attributed to 'menstrual losses.' No further workup."
+    },
+    {
+      "date": "2024-02",
+      "age": "26",
+      "event": "Rheumatology consultation — chronic joint pain",
+      "provider": "Dr. L. Greenfield, Rheumatology",
+      "details": "Referred for chronic aching in knees and ankles. ANA negative, RF negative, HLA-B27 negative, Anti-CCP negative. ESR 42, CRP 15. X-rays of knees and ankles: no erosive changes, no inflammatory arthropathy. Diagnosed 'fibromyalgia with central sensitization.' Started duloxetine 30mg, titrated to 60mg. Documented: 'Young woman with widespread pain, normal autoimmune markers. Fibromyalgia is most likely. Pain out of proportion to exam findings is consistent with central sensitization.' Did not investigate elevated inflammatory markers further."
+    },
+    {
+      "date": "2024-08",
+      "age": "26",
+      "event": "Left ankle ulcer — dermatology consultation",
+      "provider": "Dr. M. Cho, Dermatology",
+      "details": "Non-healing ulcer on left medial malleolus, present for 2 months. Punch biopsy: 'nonspecific ulceration with mixed inflammatory infiltrate, no vasculitis, no malignancy.' ABI (ankle-brachial index) 1.0 (normal — rules out arterial insufficiency). Venous duplex: no DVT, no significant venous reflux. Diagnosed 'nonspecific ulceration, possibly traumatic.' Treated with wound care, compression, and silver sulfadiazine. Healed after 3 months. No systemic workup for causes of leg ulcers in a 26-year-old."
+    },
+    {
+      "date": "2025-02",
+      "age": "27",
+      "event": "Hospitalization — pain crisis with PE",
+      "provider": "Hospitalist Dr. K. Rivera, City General Hospital",
+      "details": "Pain crisis with fever 102F. Admitted for 4 days. Blood cultures x2: no growth. CBC: WBC 14.2, Hgb 8.8, MCV 86, Platelets 480. Reticulocyte count 8.5%. LDH 410. Total bilirubin 3.0, indirect 2.3. Haptoglobin <10. Direct Coombs negative. CT chest on day 2 for worsening dyspnea: bilateral segmental PE. Started heparin drip, transitioned to apixaban. Hematology consulted for 'unprovoked PE' — full hypercoagulability workup: Factor V Leiden negative, Protein C and S normal, Antiphospholipid antibodies negative, Antithrombin III normal. Hematology note: 'No identifiable hypercoagulable state. Recommend lifelong anticoagulation for unprovoked PE.' Discharge summary lists: 'Unprovoked bilateral PE, pain crisis of unclear etiology, chronic anemia.' The hemolysis markers (elevated LDH, low haptoglobin, elevated reticulocytes, elevated indirect bilirubin, negative Coombs) were all documented in the chart but were never synthesized into a diagnosis of hemolytic anemia, and no hemoglobin electrophoresis was ordered."
+    },
+    {
+      "date": "2025-06",
+      "age": "27",
+      "event": "New right ankle ulcer, brother's history mentioned",
+      "provider": "Dr. P. Nakamura, Primary Care",
+      "details": "New ulcer on right medial malleolus. Patient mentions her brother (age 25) had similar pain episodes as a child and was frequently hospitalized. He was told he had 'blood problems' but family doesn't discuss it. PCP documents this in social history but does not pursue further. Refers back to dermatology for ulcer management."
+    },
+    {
+      "date": "2025-08",
+      "age": "28",
+      "event": "Lab review — hemolysis markers identified but not acted upon",
+      "provider": "Dr. P. Nakamura, Primary Care",
+      "details": "During routine visit, PCP reviews labs from 6 months prior (hospitalization). Notes Hgb 9.2, reticulocyte count 8%, LDH 380, indirect bilirubin 2.1, haptoglobin <10. Documents 'chronic anemia, possibly hemolytic. Will monitor.' Starts empiric iron supplementation. Does not order hemoglobin electrophoresis or peripheral smear. Does not connect hemolysis to pain crises, leg ulcers, or PE."
+    },
+    {
+      "date": "2026-02",
+      "age": "28",
+      "event": "Current presentation — seeking answers",
+      "provider": "New provider evaluation",
+      "details": "Patient seeks second opinion, bringing complete records. Reports chronic daily pain 5/10 with crises to 10/10. Two active ankle ulcers. Fatigue. States: 'I know something is wrong with me. Every doctor tells me it's fibromyalgia or anxiety or bad luck. But I'm 28 and I have blood clots, ulcers that won't heal, and pain that feels like my bones are breaking. My brother had the same thing as a kid. Nobody will listen to me.'"
+    }
+  ]
+}

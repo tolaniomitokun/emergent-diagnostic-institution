@@ -1,0 +1,239 @@
+URGENT CARE VISIT REPORT
+=========================
+Facility: CityMed Urgent Care — Westside Location
+Date: 2026-01-10  Time of Arrival: 09:22  Time of Disposition: 12:48
+Patient: Maria Santos  DOB: 1991-06-18  MRN: 7823415 (Riverside FM)
+CityMed MRN: UC-20260110-0347
+Attending Physician: Dr. T. Brennan, MD
+
+=========================
+REGISTRATION AND INTAKE
+=========================
+Intake Time: 09:22
+Intake Nurse: M. Delgado, RN
+Chief Complaint: "Both my knees are swollen and I can barely walk."
+Walk-in. No appointment. Patient walked in using cane (borrowed from neighbor).
+Insurance: Blue Shield PPO
+
+Intake Vitals:
+  HR: 94 bpm
+  BP: 134/86 mmHg
+  RR: 18 breaths/min
+  SpO2: 97% on room air
+  Temp: 100.2F (37.9C)
+  Pain: 8/10
+  Weight: 131 lbs
+
+=========================
+PHYSICIAN EVALUATION
+=========================
+Time: 09:45
+
+HISTORY OF PRESENT ILLNESS:
+Maria is a 34-year-old female elementary school teacher presenting with 5 days of progressive bilateral knee swelling, pain, and stiffness. She reports the right knee became swollen first, followed by the left knee 2 days later. She describes the knees as "hot, puffy, and stiff." She rates pain at 8/10, worse with weight-bearing and stair climbing. She has been unable to work for the past 3 days. She reports significant morning stiffness lasting over 2 hours.
+
+She provides an extensive history of progressive symptoms over the past 18 months. She carries a folder of her medical records and recounts the following:
+- 18 months of progressive fatigue
+- 14 months of bilateral hand and wrist pain
+- 12 months of recurrent low-grade fevers
+- A facial rash after sun exposure 10 months ago (seen by dermatology, diagnosed sunburn)
+- Hair thinning for 8 months
+- Recurring mouth sores for 6 months
+- Pleuritic chest pain with bilateral pleural effusions 4 months ago (ER visit, diagnosed viral pleurisy)
+- Raynaud phenomenon for 2 months
+- ANA positive 1:640 speckled pattern (drawn 1 month ago by PCP)
+- Referred to rheumatology but earliest appointment is not until March
+
+She is tearful and states: "I know something is seriously wrong. My ANA came back really high and my doctor thinks it might be lupus, but I can't get in to see the specialist for 2 more months. Now I can't even walk."
+
+She reports her urine has appeared "foamy" for the past 2-3 weeks but she did not think it was significant until she read about lupus online.
+
+PAST MEDICAL HISTORY:
+- Suspected SLE (ANA 1:640, awaiting rheumatology)
+- Chronic anemia (on iron)
+- History of bilateral pleural effusions (10/2025)
+- No diabetes, hypertension, or kidney disease previously
+
+MEDICATIONS:
+- Ferrous sulfate 325mg daily
+- Ibuprofen 600mg TID (self-escalated from PRN in last 2 weeks)
+- Prenatal vitamin
+- Biotin 5000mcg daily
+- Triamcinolone acetonide 0.1% oral paste PRN for mouth sores
+
+ALLERGIES: Sulfa (rash)
+
+FAMILY HISTORY: Mother — type 2 DM. Father — HTN. Maternal aunt — "arthritis." No known lupus or autoimmune disease in family (though maternal aunt's arthritis type is uncharacterized).
+
+SOCIAL HISTORY: Married, one child age 4. Elementary school teacher, currently using sick days. Non-smoker. No alcohol currently. No recreational drugs. Reports significant psychosocial stress from prolonged illness and diagnostic uncertainty.
+
+PHYSICAL EXAMINATION:
+General: Alert, oriented, tearful. Appears chronically ill. Walks with antalgic gait using cane, favoring bilateral lower extremities.
+VS: As above.
+HEENT: Two shallow oral ulcerations on right buccal mucosa (~3-4mm each). One ulceration on hard palate (~5mm), with erythematous border. No pharyngeal erythema.
+Skin: No active facial rash (not recently sun-exposed). Diffuse hair thinning — most prominent at temples and frontal hairline. No discoid lesions. No livedo reticularis. No petechiae or purpura. Fingers show mild pallor but no active Raynaud changes in warm exam room.
+Lymph: Small, mobile, non-tender bilateral cervical lymph nodes. No axillary or inguinal lymphadenopathy.
+CV: Mildly tachycardic, regular rhythm. No murmurs.
+Lungs: Clear bilaterally. No pleural friction rub. No decreased breath sounds at bases.
+Abdomen: Soft, non-tender. No hepatosplenomegaly.
+MSK (detailed):
+  - Hands: Tenderness at bilateral 2nd-4th MCP joints and bilateral wrists. Mild fusiform swelling of 2nd and 3rd PIP joints bilaterally. No nodules. No ulnar deviation. Grip strength reduced bilaterally (4/5).
+  - Knees (RIGHT): Significant effusion — positive ballottement. Warm to touch. Erythematous. ROM limited: flexion to 90 degrees (normal 135). Extension limited by 10 degrees. Medial and lateral joint line tenderness. No ligamentous instability. Negative McMurray.
+  - Knees (LEFT): Moderate effusion — positive ballottement. Warm. Mildly erythematous. ROM limited: flexion to 100 degrees. Full extension. Joint line tenderness diffusely.
+  - Ankles, feet, hips, shoulders, elbows: No acute findings.
+Neuro: Alert, oriented x4. CN II-XII intact. DTRs 2+ and symmetric. No focal deficits.
+Extremities: Trace bilateral pedal edema (new per patient). No calf tenderness.
+
+=========================
+DIAGNOSTIC WORKUP
+=========================
+
+ARTHROCENTESIS — RIGHT KNEE:
+Performed by: Dr. T. Brennan
+Time: 10:15
+Technique: Sterile prep, 18-gauge needle, superolateral approach. 28mL of cloudy, yellow synovial fluid aspirated. Fluid sent for cell count, differential, crystal analysis, Gram stain, culture. Procedure tolerated well. No complications.
+
+SYNOVIAL FLUID ANALYSIS:
+  Appearance:       Cloudy, yellow
+  Viscosity:        Decreased (low)
+  WBC:              8,500 /mm3     ** INFLAMMATORY ** (normal <200; inflammatory >2,000)
+  RBC:              250 /mm3
+  Differential:     78% Neutrophils, 18% Lymphocytes, 4% Monocytes
+  Crystals:         NONE IDENTIFIED under polarized light microscopy
+                    - No monosodium urate crystals (rules out gout)
+                    - No calcium pyrophosphate crystals (rules out pseudogout)
+  Gram Stain:       No organisms seen
+  Culture:          Preliminary — no growth at 24 hours (final pending 48-72 hours)
+  Glucose:          62 mg/dL (serum glucose 96 mg/dL) — mildly reduced
+  Protein:          4.8 g/dL — elevated
+  LDH:              320 U/L — elevated
+
+  INTERPRETATION: Inflammatory synovial fluid without crystals or organisms. WBC count and neutrophil predominance are in the inflammatory range but below the septic range (>50,000 typical for septic arthritis). Pattern is consistent with autoimmune-mediated inflammatory arthritis. In the setting of known positive ANA 1:640, lupus arthritis is the leading diagnosis.
+
+LABORATORY RESULTS:
+  (Full results documented in Lab_Results_Maria_Santos.txt, 01/10/2026 entry)
+
+  KEY FINDINGS:
+  CBC:
+    WBC: 3.1 K/uL [4.5-11.0]        ** LOW — worsening leukopenia **
+    Hemoglobin: 10.2 g/dL [12-16]    ** LOW — worsening anemia **
+    Platelets: 128 K/uL [150-400]    ** LOW — worsening thrombocytopenia **
+
+  INFLAMMATORY:
+    ESR: 58 mm/hr [0-20]             ** HIGH — active inflammation **
+    CRP: 24 mg/L [<3.0]              ** HIGH **
+
+  COMPLEMENT:
+    C3: 45 mg/dL [90-180]            ** CRITICALLY LOW **
+    C4: 8 mg/dL [10-40]              ** LOW **
+    ** Hypocomplementemia — consistent with active SLE with complement consumption.
+       Low C3 + C4 in SLE is associated with renal involvement. **
+
+  RENAL:
+    BUN: 18 mg/dL [7-20]             NORMAL (trending up from 12)
+    Creatinine: 1.0 mg/dL [0.6-1.2]  NORMAL (trending up from 0.7)
+    eGFR: 78 mL/min/1.73m2 [>90]     ** MILDLY REDUCED **
+    Albumin: 3.0 g/dL [3.5-5.5]      ** LOW — possible renal protein loss **
+
+  URINALYSIS:
+    Protein: 2+                       ** ABNORMAL **
+    Blood: 2+                         ** ABNORMAL **
+    Urine RBC: 10-15/hpf [0-2]       ** MICROSCOPIC HEMATURIA **
+    Casts: 2-3 granular casts/lpf     ** ABNORMAL — possible renal cast nephropathy **
+    Bacteria: None
+    Leukocyte esterase: Trace
+    Nitrite: Negative
+
+    ** Active urine sediment with proteinuria, hematuria, and granular casts in the setting of positive ANA and hypocomplementemia is highly concerning for lupus nephritis (likely Class III or IV). **
+
+X-RAY — BILATERAL KNEES (AP/Lateral):
+  Interpreted by: Dr. L. Park, Radiology (teleradiology)
+  FINDINGS:
+  - Bilateral suprapatellar joint effusions, right greater than left
+  - No fractures or dislocations
+  - No erosive changes
+  - Preserved joint spaces bilaterally
+  - No chondrocalcinosis
+  - Mild periarticular soft tissue swelling bilaterally
+  IMPRESSION: Bilateral knee joint effusions with soft tissue swelling. No osseous abnormality. Findings consistent with inflammatory arthritis. No erosive or degenerative changes.
+
+=========================
+ASSESSMENT AND MEDICAL DECISION MAKING
+=========================
+34-year-old female with known positive ANA (1:640, speckled) presenting with acute inflammatory polyarthritis (bilateral knees, hands, wrists), in the context of an 18-month history of progressive multisystem symptoms.
+
+CLINICAL ANALYSIS:
+This patient meets multiple ACR classification criteria for Systemic Lupus Erythematosus:
+  1. Malar rash (by history — photosensitive facial rash sparing nasolabial folds)
+  2. Photosensitivity (recurrent facial rash with sun exposure)
+  3. Oral ulcers (recurrent, painless to mildly painful, on exam today)
+  4. Non-erosive arthritis (bilateral knee effusions, hand/wrist synovitis, non-erosive on X-ray)
+  5. Serositis (bilateral pleural effusions, 10/2025)
+  6. Hematologic disorder (leukopenia, thrombocytopenia, anemia)
+  7. Renal disorder (proteinuria 2+, microscopic hematuria, granular casts)
+  8. Positive ANA (1:640 speckled)
+  — Meeting 4 of 11 criteria is sufficient for classification; this patient meets at least 8.
+
+CONCERN FOR LUPUS NEPHRITIS:
+The combination of proteinuria, microscopic hematuria, granular casts, declining eGFR (78), falling albumin (3.0), and hypocomplementemia (C3 45, C4 8) strongly suggests active lupus nephritis. This requires urgent evaluation — untreated lupus nephritis can progress to renal failure. Renal biopsy will likely be needed for classification and treatment guidance.
+
+DIAGNOSES:
+1. Inflammatory polyarthritis — lupus arthritis (primary diagnosis)
+2. Probable Systemic Lupus Erythematosus meeting multiple classification criteria
+3. Probable lupus nephritis — requires urgent evaluation
+4. Progressive pancytopenia secondary to SLE
+5. Active systemic inflammation (elevated ESR/CRP, hypocomplementemia)
+
+=========================
+TREATMENT PROVIDED
+=========================
+1. Arthrocentesis right knee — 28mL cloudy fluid removed with immediate symptomatic relief
+2. Methylprednisolone 80mg intra-articular injection, right knee (post-aspiration)
+3. Methylprednisolone 40mg intra-articular injection, left knee (after informed consent, given severity)
+4. Normal saline 500mL IV (hydration given renal concern — avoid NSAID-related renal insult)
+5. Acetaminophen 1000mg PO (given renal concerns, transitioning from ibuprofen)
+
+=========================
+DISPOSITION
+=========================
+Time: 12:48
+Disposition: Discharge to home with urgent follow-up plan
+Condition: Improved (post-aspiration and injection, pain 8/10 → 4/10)
+
+DISCHARGE INSTRUCTIONS:
+1. STOP ibuprofen immediately — NSAIDs should be avoided given concern for lupus nephritis, as they can worsen renal function
+2. Acetaminophen 1000mg every 8 hours PRN for pain (do not exceed 3000mg/day)
+3. Prednisone 20mg daily x 7 days — bridge therapy until rheumatology evaluation. This is NOT definitive treatment but is intended to reduce acute inflammation and may help protect kidneys in the interim
+4. Continue omeprazole 20mg daily (GI prophylaxis with prednisone)
+5. Strict photoprotection: SPF 50+ daily, sun-protective clothing
+6. Monitor urine output. Report dark, foamy, or decreased urine immediately
+7. Report any new symptoms: high fever (>101F), chest pain, shortness of breath, confusion, seizures, severe headache
+8. Elevate and ice bilateral knees. Gentle ROM exercises as tolerated.
+
+PRESCRIPTIONS:
+- Prednisone 20mg tablets #7, one tablet daily in the morning with food
+- Omeprazole 20mg capsules #30, one capsule daily before breakfast
+- Acetaminophen 500mg tablets #60, two tablets every 8 hours as needed for pain
+
+URGENT FOLLOW-UP PLAN:
+1. PCP Dr. A. Whitfield — within 3 days for prednisone monitoring and lab follow-up
+2. RHEUMATOLOGY — I called Dr. N. Vasquez's office directly during this visit. Spoke with triage nurse and communicated the following: 34yo F with ANA 1:640, meeting 8+ ACR criteria for SLE, with probable lupus nephritis (proteinuria, hematuria, casts, hypocomplementemia, declining eGFR). Requested URGENT appointment within 1-2 weeks rather than the scheduled March appointment. Triage nurse escalated to Dr. Vasquez who agreed to see the patient on 01/22/2026 (12 days). Appointment confirmed.
+3. NEPHROLOGY — Referral placed. Given probable lupus nephritis, the patient will likely need renal biopsy. Requested urgent consultation. Pending scheduling.
+4. 24-hour urine protein collection — ordered, kit provided to patient with instructions
+5. Urine protein-to-creatinine ratio — ordered as backup if 24-hour collection not feasible
+6. PCP to follow up on pending labs (anti-dsDNA, anti-Smith, anti-RNP from 12/2025 draw)
+
+COMMUNICATION:
+- Called PCP Dr. Whitfield's office at 12:15. Spoke directly with Dr. Whitfield. Communicated findings including synovial fluid results, renal findings, and complement levels. Dr. Whitfield agreed with prednisone bridge and will see patient within 3 days. Discussed importance of stopping NSAIDs.
+- Rheumatology appointment secured as above.
+- Patient educated extensively about lupus — provided printed materials from the Lupus Foundation of America. Patient tearful but also expressed relief that "someone is finally putting it all together."
+- Patient's husband present for discharge counseling. Both verbalized understanding of return precautions.
+
+CLINICAL NOTE:
+This is a case of probable SLE that has gone undiagnosed for approximately 18 months despite presentation to at least 6 providers. The patient presented today with a comprehensive folder of her own medical records, having done significant research herself. She correctly identified the pattern that her multiple providers did not. While each individual presentation could be attributed to a benign cause, the constellation is unmistakable: malar rash, photosensitivity, oral ulcers, arthritis, serositis, hematologic abnormalities, renal involvement, and positive ANA. The 18-month delay in diagnosis has likely allowed the disease to progress to renal involvement, which may have been preventable with earlier immunosuppressive therapy.
+
+The most concerning finding today is the evidence of lupus nephritis. Proteinuria 2+, microscopic hematuria with 10-15 RBC/hpf, granular casts, declining eGFR, and hypocomplementemia suggest active renal disease. Expedited rheumatology and nephrology evaluation is critical.
+
+Electronically signed: Dr. T. Brennan, MD
+Date signed: 2026-01-10 13:15
+Synovial fluid final culture addendum: No growth at 72 hours — signed 2026-01-13

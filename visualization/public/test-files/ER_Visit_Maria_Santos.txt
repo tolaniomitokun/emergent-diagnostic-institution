@@ -1,0 +1,212 @@
+EMERGENCY DEPARTMENT VISIT REPORT
+===================================
+Facility: Mercy General Hospital — Emergency Department
+Date: 2025-10-08  Time of Arrival: 22:14  Time of Disposition: 03:47 (10/09)
+Patient: Maria Santos  DOB: 1991-06-18  MRN: 7823415
+Attending Physician: Dr. S. Nakamura, MD, FACEP
+Resident: Dr. B. Okafor, PGY-3
+
+===================================
+TRIAGE
+===================================
+Triage Time: 22:14
+Triage Nurse: C. Williams, RN
+Chief Complaint: "Sharp chest pain when I breathe in"
+ESI Level: 3 (Urgent)
+Triage Vitals:
+  HR: 102 bpm
+  BP: 132/84 mmHg
+  RR: 22 breaths/min
+  SpO2: 96% on room air
+  Temp: 100.1F (37.8C)
+  Pain: 7/10
+
+Triage Notes: 34yo F presenting with 2 days of progressive sharp chest pain, worse with deep inspiration and coughing. Reports associated dry cough x 3 days. Denies recent travel, immobilization, or oral contraceptive use. No leg swelling. Reports history of recent recurrent fevers and joint pain being worked up by PCP. Started on cardiac monitor. ECG ordered at triage.
+
+===================================
+EMERGENCY PHYSICIAN EVALUATION
+===================================
+Time: 22:38
+
+HISTORY OF PRESENT ILLNESS:
+Maria is a 34-year-old female elementary school teacher presenting with 2 days of progressive left-sided chest pain that has now become bilateral. The pain is sharp, pleuritic — worsens significantly with deep inspiration, coughing, and position changes. She reports the pain is worse when lying flat and improved when leaning forward. She describes an associated dry, non-productive cough for 3 days. She denies hemoptysis.
+
+She reports subjective fevers at home (measured 100.2F yesterday) and general malaise. She denies recent travel, prolonged immobilization, leg swelling, or oral contraceptive use. She reports a history of recurrent fevers and joint pain over the past several months being managed by her PCP. She has no prior history of VTE or known clotting disorders.
+
+She is a non-smoker. No history of COVID-19 (vaccinated). No recent surgery.
+
+PAST MEDICAL HISTORY:
+- Recurrent fevers (under workup)
+- Joint pain, bilateral hands and wrists
+- Mild anemia (on iron supplementation)
+MEDICATIONS: Ferrous sulfate 325mg daily, naproxen 500mg PRN, prenatal vitamin
+ALLERGIES: Sulfa (rash)
+
+PHYSICAL EXAMINATION:
+General: Alert, oriented, mildly distressed with breathing. Speaks in full sentences but pauses with deep breaths.
+HEENT: Oropharynx clear. No JVD.
+CV: Tachycardic, regular rhythm. No murmurs, rubs, or gallops. No pericardial friction rub appreciated.
+Lungs: Decreased breath sounds at bilateral bases, left greater than right. No wheezes or rhonchi. Dullness to percussion at bilateral bases posteriorly.
+Abdomen: Soft, non-tender.
+Extremities: No calf tenderness. No pedal edema. No asymmetric leg swelling. Negative Homan sign bilaterally.
+Skin: No rashes noted. No petechiae. Mild diffuse hair thinning observed.
+MSK: Not formally assessed — patient unable to fully cooperate due to chest pain with movement.
+
+ECG (22:20):
+- Sinus tachycardia at 102 bpm
+- Normal axis
+- No ST-T wave changes
+- No S1Q3T3 pattern
+- No evidence of pericarditis (no diffuse ST elevation or PR depression)
+- QTc 418ms
+
+===================================
+DIAGNOSTIC WORKUP
+===================================
+
+LABORATORY RESULTS:
+----------------------------------
+CBC:
+  WBC: 3.8 K/uL [4.5-11.0]    ** LOW **
+  RBC: 3.9 M/uL [4.0-5.5]     LOW
+  Hemoglobin: 10.5 g/dL [12.0-16.0]    ** LOW **
+  Hematocrit: 31.8% [36-46]    ** LOW **
+  Platelets: 135 K/uL [150-400]    ** LOW **
+  MCV: 81.5 fL [80-100]    Normal
+  RDW: 14.8% [11.5-14.5]    Mildly elevated
+
+COMPREHENSIVE METABOLIC PANEL:
+  Sodium: 138 mEq/L [136-145]    Normal
+  Potassium: 4.1 mEq/L [3.5-5.0]    Normal
+  Chloride: 102 mEq/L [98-106]    Normal
+  CO2: 24 mEq/L [23-29]    Normal
+  BUN: 16 mg/dL [7-20]    Normal
+  Creatinine: 0.8 mg/dL [0.6-1.2]    Normal
+  Glucose: 94 mg/dL [70-100]    Normal
+  Calcium: 9.2 mg/dL [8.5-10.5]    Normal
+  AST: 28 U/L [10-40]    Normal
+  ALT: 22 U/L [7-56]    Normal
+  Albumin: 3.3 g/dL [3.5-5.5]    LOW
+
+CARDIAC MARKERS:
+  Troponin I (initial): <0.01 ng/mL [<0.04]    Normal
+  Troponin I (3-hour repeat): <0.01 ng/mL    Normal
+  BNP: 45 pg/mL [<100]    Normal
+
+COAGULATION:
+  D-dimer: 0.68 mcg/mL FEU [<0.50]    MILDLY ELEVATED
+  PT: 12.4 sec [11.0-13.5]    Normal
+  INR: 1.1    Normal
+
+OTHER:
+  ESR: 48 mm/hr [0-20]    ** ELEVATED **
+  Procalcitonin: 0.08 ng/mL [<0.10]    Normal (argues against bacterial infection)
+
+BLOOD CULTURES: x2 sets drawn — pending
+
+IMAGING:
+----------------------------------
+CHEST X-RAY (PA and Lateral) — 22:52
+Interpreted by: Dr. F. Giordano, Radiology
+
+FINDINGS:
+- Small bilateral pleural effusions, left greater than right
+- Blunting of bilateral costophrenic angles
+- No consolidation or infiltrate to suggest pneumonia
+- No pneumothorax
+- Cardiac silhouette upper limits of normal but not definitively enlarged
+- No widened mediastinum
+- No rib fractures
+
+IMPRESSION: Small bilateral pleural effusions, left greater than right. No evidence of pneumonia. Clinical correlation recommended.
+
+CT PULMONARY ANGIOGRAM — 23:45
+Interpreted by: Dr. F. Giordano, Radiology
+
+INDICATION: Pleuritic chest pain, tachycardia, mildly elevated D-dimer. Evaluate for pulmonary embolism.
+
+FINDINGS:
+- No filling defect in the main, lobar, segmental, or subsegmental pulmonary arteries. No evidence of pulmonary embolism.
+- Small bilateral pleural effusions confirmed, layering dependently, left approximately 200mL, right approximately 100mL estimated volume.
+- No pericardial effusion.
+- Lung parenchyma: No consolidation. No ground-glass opacities. No masses.
+- Mediastinal lymph nodes: Several small nodes, none pathologically enlarged (largest 8mm, short axis).
+- No evidence of aortic dissection.
+- Incidental: Mild bilateral axillary lymphadenopathy (largest 12mm, nonspecific).
+
+IMPRESSION:
+1. No pulmonary embolism.
+2. Small bilateral pleural effusions, left > right.
+3. No pneumonia or parenchymal disease.
+4. Mild bilateral axillary lymphadenopathy — nonspecific, may correlate with systemic inflammatory process.
+
+===================================
+CLINICAL COURSE
+===================================
+Patient observed in ED for 5 hours. Serial troponins negative. Pain managed with ketorolac 30mg IV x1 followed by ibuprofen 600mg PO with good response (pain 7/10 → 3/10). Oxygen saturation remained stable at 96-97% on room air. Heart rate trended down to 92 with pain control. Low-grade fever resolved without antipyretic intervention.
+
+===================================
+ASSESSMENT AND MEDICAL DECISION MAKING
+===================================
+34-year-old female presenting with pleuritic chest pain, low-grade fever, and bilateral pleural effusions.
+
+DIFFERENTIAL CONSIDERED:
+1. Pulmonary embolism — RULED OUT by CT PA
+2. Viral pleurisy — MOST LIKELY given self-limited course, low-grade fever, normal procalcitonin
+3. Pneumonia — No consolidation on imaging, normal procalcitonin
+4. Pericarditis — No ECG findings, no pericardial effusion on CT, no friction rub; however, positional component of pain is noted
+5. Lupus serositis — Not actively considered (see retrospective note)
+6. Malignancy — Unlikely given age and imaging
+
+PRIMARY DIAGNOSIS: Viral pleurisy with bilateral pleural effusions
+
+SECONDARY DIAGNOSES:
+- Leukopenia (WBC 3.8) — noted, not worked up
+- Anemia (Hgb 10.5) — known, on iron
+- Thrombocytopenia (Plt 135) — noted, attributed to acute illness
+- Mildly elevated D-dimer — attributed to inflammation, PE ruled out
+
+===================================
+DISPOSITION
+===================================
+Time: 03:47 (10/09/2025)
+Disposition: Discharge to home
+Condition: Improved, stable
+
+DISCHARGE INSTRUCTIONS:
+1. Ibuprofen 600mg every 8 hours with food for 7-10 days
+2. Follow up with PCP within 1 week
+3. Return to ER if: worsening chest pain, shortness of breath, fever >101.5F, coughing up blood, leg swelling
+4. Activity as tolerated
+5. Blood culture results will be called if positive
+
+PRESCRIPTIONS:
+- Ibuprofen 600mg #30, one tablet every 8 hours with food
+
+FOLLOW-UP: PCP Dr. A. Whitfield within 5-7 days
+
+===================================
+RETROSPECTIVE ADDENDUM
+===================================
+Added by: Dr. S. Nakamura, MD, FACEP
+Date: 2026-02-05
+
+Upon reviewing this case after learning of the patient's subsequent ANA result (positive 1:640) and clinical trajectory toward a diagnosis of Systemic Lupus Erythematosus, I wish to document the following self-critical analysis:
+
+1. BILATERAL PLEURAL EFFUSIONS IN A 34-YEAR-OLD WOMAN: Bilateral pleural effusions without an obvious infectious, cardiac, or thromboembolic cause should have triggered a broader differential, including autoimmune serositis. While viral pleurisy can cause bilateral effusions, it is a diagnosis of exclusion. I did not adequately pursue alternative etiologies.
+
+2. PANCYTOPENIA WAS DOCUMENTED BUT NOT ACTED UPON: The CBC showed leukopenia (WBC 3.8), anemia (Hgb 10.5), and thrombocytopenia (Plt 135). I noted these in my documentation but attributed each to a different cause (iron deficiency, acute illness). Pancytopenia — even mild — in a young woman with unexplained bilateral pleural effusions should have prompted consideration of SLE and warranted at minimum an ANA screen.
+
+3. ELEVATED ESR (48) WITH NORMAL PROCALCITONIN: This combination argues against bacterial infection and is more consistent with an autoimmune inflammatory process. I used the low procalcitonin to rule out bacterial infection (appropriate) but did not consider what WAS causing the elevated ESR.
+
+4. LOW ALBUMIN (3.3): This was documented but not investigated. In the context of what we now know included proteinuria, this may have been an early sign of renal protein loss.
+
+5. RELEVANT HISTORY NOT ADEQUATELY EXPLORED: The patient mentioned "joint pain and recurrent fevers" being worked up by PCP, but I did not obtain a detailed history of her other symptoms (rash, hair loss, oral ulcers) that would have increased my pre-test probability for SLE.
+
+Had an ANA been ordered during this ER visit — or had I recommended autoimmune serologies to the PCP — the diagnosis may have been reached 2 months earlier. The pleural effusions were almost certainly lupus serositis, not viral pleurisy.
+
+This case will be incorporated into our ER continuing education on autoimmune presentations.
+
+Electronically signed: Dr. S. Nakamura, MD, FACEP
+Original note signed: 2025-10-09 04:12
+Addendum signed: 2026-02-05 11:30

@@ -1,0 +1,185 @@
+NEUROLOGY CONSULTATION NOTES — COMPILED
+========================================
+Facility: Tri-Valley Neurology & Movement Disorders
+Patient: Harold Kimura  DOB: 1973-04-22  MRN: 5938274
+Referring Physician: Dr. R. Thornton, Clearwater Rural Health Clinic
+Consulting Neurologist: Dr. M. Ashworth, MD, FAAN
+
+========================================
+VISIT 1: 2024-08-19
+========================================
+REASON FOR REFERRAL:
+51yo M with 10-month history of progressive cognitive decline, personality changes, and new bilateral hand tremor. PCP has screened TSH, B12, RPR — all normal. Currently being treated for depression (sertraline 100mg) without improvement in cognition. Referred for further evaluation.
+
+HISTORY OF PRESENT ILLNESS:
+Harold Kimura is a 51-year-old right-handed male farmer referred by Dr. Thornton for evaluation of progressive cognitive decline. Per the patient's wife (who provides the majority of the history, as the patient tends to minimize symptoms), difficulties began approximately 10 months ago with repetitive questioning, misplacing tools, and difficulty with familiar routes. Over the past 4-5 months, he has become unable to manage the farm's finances (previously managed independently for 25 years), makes errors in simple arithmetic, and has difficulty following multi-step instructions for routine farm tasks. He was started on sertraline for depression 4 months ago with modest mood improvement but no cognitive benefit.
+
+His wife also reports the onset of bilateral hand tremor approximately 4-5 months ago, initially intermittent but now present daily. He has difficulty writing, buttoning clothes, and holding utensils steadily. She reports significant personality changes: increased irritability, emotional lability (cries unexpectedly), social withdrawal, poor judgment (attempted to sell cattle at well below market value), and decreased initiative (previously energetic and industrious, now sits for hours staring).
+
+Additional complaints include intermittent abdominal pain and constipation for approximately 4 months, attributed to "stress" by PCP.
+
+PAST MEDICAL HISTORY: DM2 (5 years, well-controlled), HTN, HLD, prior rotator cuff repair
+MEDICATIONS: Metformin 1000mg BID, lisinopril 20mg, atorvastatin 20mg, sertraline 100mg, aspirin 81mg
+ALLERGIES: Codeine
+FAMILY HISTORY: No family history of dementia, Parkinson's disease, Huntington's disease, ALS, or other neurodegenerative conditions. Father died at 78 (CHF). Mother alive at 80, cognitively intact.
+SOCIAL HISTORY: Farmer x 30 years. Married. Non-smoker. Rare alcohol.
+
+** NOTE: No detailed occupational exposure history was obtained at this visit. The intake form documented "farmer" as occupation. No further inquiry was made regarding specific chemical exposures, pesticide use, building maintenance activities, or water source. **
+
+NEUROLOGICAL EXAMINATION:
+Mental Status:
+- Arousal/Attention: Alert. Mildly inattentive — required repetition of instructions.
+- Orientation: Person — yes. Place — yes. Date — incorrect (stated July, actual August). Year — correct. Day of week — incorrect.
+- Language: Fluent. No paraphasias. Naming intact to low-frequency items. Repetition intact. Comprehension intact for 1-2 step commands, difficulty with 3-step commands.
+- Memory: Registration 3/3. Recall 1/3 at 5 minutes (improved to 2/3 with category cue). This pattern suggests retrieval deficit rather than encoding failure.
+- Executive: Impaired Luria hand sequences. Trail Making Test B abandoned after 4 minutes (unable to maintain set). Poor verbal fluency: animals 8/minute (normal >15), F-A-S 6/minute (normal >12). Clock draw: 2/5 — numbers placed but spacing distorted, hands absent.
+- Visuospatial: Unable to copy intersecting pentagons. Difficulty with 3D cube copy.
+
+MMSE: 21/30
+- Orientation: 7/10 (lost 2 time, 1 place)
+- Registration: 3/3
+- Attention/Calculation: 2/5 (serial 7s)
+- Recall: 1/3
+- Language: 6/8
+- Construction: 0/1 (pentagons)
+- Copy command: 2/3 (3-step command)
+
+Cranial Nerves: CN II-XII intact. No visual field deficits. No papilledema. PERRL 3mm bilaterally. No nystagmus. Facial sensation and strength symmetric. No dysarthria.
+
+Motor Exam:
+- Bulk: Mildly reduced thenar eminence bulk bilateral hands — noted but attributed to age/manual labor
+- Tone: Normal. No rigidity. No spasticity.
+- Strength: Upper extremities 4+/5 wrist extension bilateral (mild weakness), 4/5 grip bilateral, 5/5 deltoids, biceps, triceps. Lower extremities 5/5 throughout.
+- Tremor: ** Bilateral intention tremor elicited on finger-to-nose testing, worse on the left. Fine postural tremor of outstretched hands, bilateral. No resting tremor. **
+
+Sensory Exam: Intact to light touch, pinprick, vibration, and proprioception in all extremities. No dermatomal pattern loss.
+
+Reflexes: 2+ biceps, triceps, brachioradialis bilateral. 2+ patellar bilateral. Ankles 1+ bilateral (mildly diminished). Toes downgoing bilateral.
+
+Coordination: Bilateral intention tremor on finger-to-nose (as noted). Mild dysmetria bilateral upper extremities. Heel-to-shin mildly impaired.
+
+Gait: Slightly wide-based. Tandem gait impaired (3 steps then veers). No Parkinsonian features (no shuffling, no festination, no postural instability on pull test). Romberg mildly positive.
+
+MRI BRAIN (performed 2024-08-16, reviewed):
+- Mild generalized cortical atrophy, symmetric, involving frontal and parietal regions
+- No focal atrophy of medial temporal lobes / hippocampi
+- No white matter hyperintensities beyond expected for age
+- No mass lesions, no enhancement
+- No restricted diffusion (argues against CJD)
+- No basal ganglia abnormalities
+- Normal ventricle size (no hydrocephalus)
+- No vascular territory infarcts
+
+** NOTE: The absence of disproportionate medial temporal lobe / hippocampal atrophy is notable. In typical Alzheimer's disease, hippocampal atrophy is usually the earliest and most prominent finding on MRI. The pattern here — generalized frontal-parietal atrophy without preferential hippocampal involvement — is atypical for AD. This was noted but not given sufficient diagnostic weight at the time. **
+
+ASSESSMENT:
+1. Progressive cognitive decline with deficits in memory, executive function, attention, and visuospatial processing. MMSE 21/30. Onset at age 50 without family history of early-onset dementia. MRI shows mild generalized cortical atrophy. DIAGNOSIS: Probable early-onset Alzheimer's disease.
+2. Bilateral intention tremor — likely essential tremor, possibly exacerbated by anxiety/sertraline. Does not have features of Parkinsonian tremor (no rest tremor, no rigidity).
+3. Mild bilateral wrist extension weakness — monitor, likely incidental.
+
+PLAN:
+1. Start donepezil 5mg daily at bedtime, increase to 10mg in 4 weeks
+2. Continue sertraline for depression
+3. Neuropsychological testing referral for comprehensive cognitive assessment (Dr. K. Okonkwo)
+4. Repeat MRI in 12 months to assess progression
+5. Discussed diagnosis with patient and wife. Provided Alzheimer's Association resources.
+6. Return in 6 months or sooner if rapid deterioration
+
+========================================
+VISIT 2: 2025-02-24
+========================================
+REASON FOR VISIT: 6-month follow-up. EMG/NCS results review. Neuropsychological evaluation received.
+
+HISTORY:
+Harold returns for follow-up accompanied by his wife. She reports continued progressive decline since last visit. He can no longer manage any farm operations independently and is relying on a neighboring farmer for daily tasks. His tremor has worsened — he now spills food at every meal and cannot write legibly. New complaint: his wife has noticed weakness in his hands ("he can't grip things") and his feet "slap" when he walks. She states he tripped and fell twice in the past month. He also reports worsening constipation, intermittent abdominal cramping, and nausea. He has lost approximately 18 lbs since his initial PCP visit.
+
+Neuropsychological evaluation (Dr. Okonkwo, 2024-12-09) has been received and reviewed. Summary: MoCA 18/30 with deficits across multiple domains. Prominent executive dysfunction and attentional impairment with relatively less severe amnestic deficit. Profile noted as "consistent with early-onset AD though somewhat atypical in the prominence of executive and attentional deficits relative to memory."
+
+EMG/NCS (performed 2025-02-10):
+Nerve Conduction Studies:
+- Right median motor nerve: Distal latency 4.8 ms [<4.2] ** PROLONGED **, amplitude 4.2 mV [>5.0] ** REDUCED **, conduction velocity 42 m/s [>49] ** SLOW **
+- Right ulnar motor nerve: Distal latency 4.1 ms [<3.6] ** PROLONGED **, amplitude 5.1 mV [>6.0] ** REDUCED **, conduction velocity 44 m/s [>49] ** SLOW **
+- Right peroneal motor nerve: Distal latency 6.2 ms [<5.5] ** PROLONGED **, amplitude 1.8 mV [>2.0] ** REDUCED **, conduction velocity 36 m/s [>40] ** SLOW **
+- Right sural sensory nerve: Amplitude 4.2 uV [>6.0] ** REDUCED **, conduction velocity 38 m/s [>40] ** SLOW **
+- Right median sensory nerve: Amplitude 12.4 uV [>15] ** REDUCED **, conduction velocity 44 m/s [>50] ** SLOW **
+
+Needle EMG:
+- Right first dorsal interosseous: Fibrillation potentials 2+, positive sharp waves 1+, reduced recruitment, large polyphasic MUAPs
+- Right abductor pollicis brevis: Fibrillation potentials 1+, reduced recruitment
+- Right tibialis anterior: Fibrillation potentials 2+, positive sharp waves 2+, markedly reduced recruitment
+- Right medial gastrocnemius: Fibrillation potentials 1+, reduced recruitment
+- Right vastus medialis: Normal
+- Right lumbar paraspinals: Normal
+
+EMG/NCS INTERPRETATION: Moderate sensorimotor polyneuropathy affecting both motor and sensory fibers, with mixed axonal and demyelinating features, worse in lower extremities. Active denervation present in distal muscles of upper and lower extremities. Pattern is length-dependent but with prominent upper extremity involvement, including intrinsic hand muscles.
+
+NEUROLOGICAL EXAMINATION (abbreviated, focused):
+Motor: ** Bilateral wrist drop now clearly present — wrist extension 3/5 bilateral. ** Grip strength 3/5 bilateral (was 4/5 six months ago). First dorsal interosseous wasting bilateral, prominent. Thenar eminence wasting bilateral. ** Foot dorsiflexion 3+/5 bilateral — bilateral foot drop present. **
+Tremor: Bilateral intention tremor, worsened since last visit. Now with significant postural component.
+Gait: ** Wide-based, high-stepping gait (foot drop). Unsteady. Requires assistance. **
+Sensory: ** Stocking-glove distribution loss to pinprick below mid-calf bilateral and below wrists bilateral — progression from prior exam. **
+
+ASSESSMENT:
+1. Early-onset Alzheimer's disease — continued progression despite donepezil
+2. Moderate sensorimotor polyneuropathy — mixed axonal and demyelinating. Given patient's 5-year history of DM2, this is most consistent with diabetic polyneuropathy, though severity is notable for well-controlled DM (HbA1c 6.4%).
+3. Bilateral wrist drop with intrinsic hand muscle wasting — concerning for superimposed bilateral radial neuropathy vs. motor neuron involvement; however, given the diffuse EMG findings, this most likely reflects severe distal motor neuropathy
+4. Weight loss, GI symptoms — refer back to PCP/GI for management
+
+PLAN:
+1. Continue donepezil 10mg daily
+2. Gabapentin 300mg TID for neuropathic pain/discomfort
+3. Physical therapy referral for gait training and fall prevention
+4. AFO (ankle-foot orthosis) fitting bilateral for foot drop
+5. Wrist splints for bilateral wrist drop
+6. Repeat EMG in 6 months if progression
+7. Consider memantine addition if cognitive decline continues
+8. Return in 6 months
+
+========================================
+RETROSPECTIVE ADDENDUM
+========================================
+Added by: Dr. M. Ashworth, MD, FAAN
+Date: 2026-02-10
+
+Following the diagnosis of chronic lead poisoning (blood lead level 78 mcg/dL) in Harold Kimura by a subsequent treating physician, I must critically reassess my evaluation and management of this patient.
+
+DIAGNOSTIC ERRORS:
+
+1. FAILURE TO TAKE OCCUPATIONAL HISTORY: I documented "farmer" as occupation but made no inquiry into specific exposures. Lead poisoning from occupational and environmental sources should be considered in any patient with unexplained neurological symptoms, particularly one who works in agriculture and maintains old buildings. This is a fundamental failure of the neurological history.
+
+2. MISDIAGNOSIS OF ALZHEIMER'S DISEASE: I diagnosed "probable early-onset AD" based on progressive cognitive decline and cortical atrophy on MRI. However, multiple features of Harold's presentation were ATYPICAL for AD and should have prompted broader differential consideration:
+
+   a) AGE AND FAMILY HISTORY: Early-onset AD (before age 65) is uncommon and is most often associated with autosomal dominant genetic mutations (APP, PSEN1, PSEN2). Harold had NO family history of early-onset dementia. Sporadic early-onset AD at age 51 without genetic risk factors should be a diagnosis of exclusion.
+
+   b) MOTOR FINDINGS: Alzheimer's disease does NOT cause wrist drop, foot drop, intention tremor, or intrinsic hand muscle wasting. These are motor findings that point to peripheral nervous system and/or cerebellar involvement — features of toxic, metabolic, or inflammatory neuropathy, NOT AD. I documented these findings at both visits but did not integrate them into the diagnostic framework.
+
+   c) MRI PATTERN: The absence of disproportionate hippocampal/medial temporal lobe atrophy on MRI is atypical for AD. I noted this but did not adjust the diagnosis. Diffuse cortical atrophy is a nonspecific finding that can be seen in toxic encephalopathy, including heavy metal poisoning.
+
+   d) RAPID PROGRESSION: Harold declined from independently running a 240-acre farm to requiring assistance with all ADLs in approximately 18 months. While AD progression varies, this rate — particularly with concurrent motor deterioration — is more consistent with a toxic or metabolic encephalopathy than typical AD.
+
+   e) GASTROINTESTINAL SYMPTOMS: Chronic abdominal pain, constipation, nausea, and weight loss are NOT features of AD. I noted these symptoms at both visits but did not consider them as part of a unifying diagnosis.
+
+3. MISATTRIBUTION OF NEUROPATHY: I attributed the polyneuropathy to diabetic neuropathy despite the following inconsistencies:
+   a) Harold's DM2 was well-controlled (HbA1c 6.4%) and of only 5 years duration — an unusually short time to develop severe neuropathy with well-controlled disease
+   b) The EMG showed MIXED axonal and demyelinating features — pure diabetic neuropathy is typically axonal. The mixed pattern should have prompted consideration of toxic neuropathy.
+   c) The UPPER EXTREMITY involvement was disproportionately severe, with wrist drop and intrinsic hand muscle wasting — this pattern is characteristic of lead neuropathy, which classically affects the radial nerve (producing wrist drop) and preferentially involves upper extremities before lower extremities. This is the OPPOSITE of the length-dependent pattern seen in diabetic neuropathy.
+   d) The active denervation on EMG indicated an ONGOING toxic or inflammatory process, not a stable metabolic neuropathy.
+
+4. THE UNIFYING DIAGNOSIS I MISSED: The combination of:
+   - Progressive cognitive decline with prominent executive dysfunction
+   - Bilateral intention tremor
+   - Bilateral wrist drop (radial neuropathy — CLASSIC for lead)
+   - Intrinsic hand muscle wasting
+   - Sensorimotor polyneuropathy with mixed axonal/demyelinating features
+   - Chronic abdominal pain and constipation (lead colic)
+   - Weight loss
+   - Personality changes and emotional lability
+
+   ...constitutes a CLASSIC presentation of chronic lead poisoning (plumbism). Any single feature might be explained by another diagnosis, but the combination should have triggered consideration of heavy metal toxicity. A blood lead level — a simple, inexpensive test — would have been diagnostic.
+
+This case represents a failure of pattern recognition. I evaluated the cognitive symptoms in isolation from the motor and systemic findings, when in fact the co-occurrence of these features was the most diagnostically important clue. I will be presenting this case at our department's grand rounds as an illustration of anchoring bias (premature closure on AD diagnosis) and the critical importance of occupational history in neurological evaluation.
+
+Electronically signed: Dr. M. Ashworth, MD, FAAN
+Visit 1 signed: 2024-08-19 17:20
+Visit 2 signed: 2025-02-24 15:40
+Addendum signed: 2026-02-10 11:30

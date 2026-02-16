@@ -1,0 +1,245 @@
+PEDIATRIC ECHOCARDIOGRAM REPORT
+=================================
+Facility: Community Children's Hospital — Pediatric Cardiology Imaging
+Date of Study: 2026-01-28
+Patient: Amara Okafor  DOB: 2025-09-28  MRN: 5592847
+Age at Study: 4 months, 0 days
+Sex: Female
+Weight: 4.1 kg  BSA: 0.25 m2
+Referring Provider: Dr. P. Nakamura, MD, FAAP — Bright Start Pediatrics
+Ordering Indication: STAT — newly detected holosystolic murmur, failure to thrive, tachypnea, suspected congenital heart disease
+Sonographer: Amanda Torres, RDCS (PE), FASE
+Interpreting Physician: Dr. R. Okonkwo, MD, FACC, FSCAI — Pediatric Cardiologist
+Study Quality: Good — adequate acoustic windows obtained in all standard views. Patient mildly tachycardic (HR 160-168 during study) and mildly tachypneic but cooperative. No sedation administered.
+
+=================================
+CLINICAL INDICATION
+=================================
+4-month-old female infant with progressive failure to thrive (weight dropped from 50th percentile at birth to below 3rd percentile), persistent tachypnea (RR 60-64), tachycardia (HR 165), feeding intolerance with diaphoresis and fatigue, perioral cyanosis during feeds, SpO2 94% on room air, hyperactive precordium, and a grade II/VI holosystolic murmur at the left lower sternal border detected today. BNP 485 pg/mL (markedly elevated). CXR demonstrates cardiomegaly and increased pulmonary vascular markings. Prior CXR at 3 months showed "mild cardiomegaly, possibly normal variant." Evaluate for congenital heart disease.
+
+=================================
+SEGMENTAL ANATOMY
+=================================
+Cardiac Position: Levocardia (normal)
+Atrial Situs: Solitus (normal)
+Atrioventricular Connection: Concordant (normal)
+Ventriculoarterial Connection: Concordant (normal)
+Systemic Venous Return: Normal — IVC and SVC drain to right atrium
+Pulmonary Venous Return: Normal — all four pulmonary veins identified draining to left atrium (right upper, right lower, left upper, left lower)
+
+=================================
+TWO-DIMENSIONAL (2D) ECHOCARDIOGRAPHY
+=================================
+
+ATRIA:
+- Right atrium: Normal size. No thrombus. Intact atrial septum — no atrial septal defect. Patent foramen ovale not visualized (appears closed). IVC and SVC connections normal.
+- Left atrium: ** DILATED. ** Left atrial dimension measured at 20mm (normal for BSA: <14mm). ** LA:Aortic root ratio = 2.1 (normal < 1.3-1.5). ** This indicates significant left atrial volume overload consistent with a large left-to-right shunt.
+
+VENTRICLES:
+- Right ventricle: Mildly dilated. RV free wall appears mildly hypertrophied. RV systolic function appears qualitatively normal. TAPSE 12mm (low-normal for age). No RV outflow tract obstruction.
+- Left ventricle:
+  -- ** DILATED. ** LVIDd (LV internal dimension in diastole): 28mm (normal for BSA approximately 19-22mm). ** Z-score +3.2 **
+  -- LVIDs (LV internal dimension in systole): 19mm
+  -- IVSd (interventricular septum, diastole): 4mm (normal)
+  -- LVPWd (LV posterior wall, diastole): 4mm (normal)
+  -- LV wall thickness normal — dilation is eccentric (volume overload pattern), not concentric
+  -- No LV outflow tract obstruction. LVOT diameter 7mm.
+
+INTERVENTRICULAR SEPTUM:
+- ** LARGE PERIMEMBRANOUS VENTRICULAR SEPTAL DEFECT (VSD) identified. **
+- Location: Perimembranous, extending toward the inlet septum. The defect is situated immediately below the aortic valve, adjacent to the membranous septum, with the septal leaflet of the tricuspid valve forming part of the inferior rim.
+- ** Size: 8mm in maximum diameter ** (measured in parasternal long axis and subcostal views; measurements consistent across multiple imaging planes).
+- Rims: Superior rim (subaortic): Present but thin, approximately 2mm. Inferior rim (muscular): Present, approximately 3mm. Posterior rim (inlet): Adequate. Aortic valve leaflets do not appear to prolapse into the defect.
+- No malalignment of the outlet septum.
+- No additional muscular VSDs identified.
+- No inlet extension to the atrioventricular canal level.
+
+ATRIOVENTRICULAR VALVES:
+- Tricuspid valve: Trileaflet, normal morphology. Mild tricuspid regurgitation present (used for RVSP estimation — see Doppler). No tricuspid stenosis. Annulus normal size.
+- Mitral valve: Bileaflet, normal morphology. ** Moderate mitral regurgitation present. ** Mitral valve annulus appears dilated (annular dimension 16mm, Z-score +2.4), consistent with secondary (functional) mitral regurgitation from left ventricular dilation. No mitral stenosis. No mitral valve prolapse. No structural leaflet abnormality. The MR is attributed to annular dilation from LV volume overload.
+
+SEMILUNAR VALVES:
+- Aortic valve: Trileaflet, normal morphology. Opens well. No aortic stenosis. No aortic regurgitation. Aortic root diameter 10mm (normal for BSA). No aortic valve prolapse into VSD (important for perimembranous VSDs).
+- Pulmonary valve: Trileaflet, normal morphology. No pulmonary stenosis. Trace pulmonary regurgitation (physiologic). Pulmonary annulus 8mm (normal). Main pulmonary artery mildly dilated at 12mm.
+
+GREAT ARTERIES:
+- Aorta: Normal caliber. Transverse arch well-formed. No coarctation of the aorta. Aortic isthmus appears normal with no discrete narrowing or shelf. Continuous wave Doppler across the descending aorta does not demonstrate a diastolic tail pattern (no coarctation physiology). Ascending aorta 10mm.
+- Pulmonary artery: Main PA mildly dilated (12mm). Branch pulmonary arteries (right and left) are well-formed and of adequate caliber. RPA 6mm, LPA 5.5mm. No branch PA stenosis.
+
+CORONARY ARTERIES: Normal origin and proximal course. LMCA from left coronary sinus, RCA from right coronary sinus. Normal pattern.
+
+PERICARDIUM: Small pericardial effusion noted — trivial, physiologically insignificant, likely related to volume overload state. No tamponade physiology.
+
+OTHER: No aortopulmonary window. No patent ductus arteriosus (PDA). No anomalous systemic or pulmonary venous connections.
+
+=================================
+M-MODE ECHOCARDIOGRAPHY
+=================================
+
+Left Ventricle (parasternal long axis, at mitral valve chordae tips):
+  LVIDd: 28mm (Z-score +3.2) ** DILATED **
+  LVIDs: 19mm
+  IVSd: 4mm (normal)
+  LVPWd: 4mm (normal)
+  Fractional Shortening (FS): 32% [normal 28-44%] — low-normal
+  Calculated EF (Teichholz): 58% [normal >55%] — ** preserved but at the lower end of normal **
+
+Left Atrium:
+  LA dimension (M-mode): 20mm ** DILATED **
+  Aortic root: 9.5mm
+  LA:Ao ratio: 2.1 ** SIGNIFICANTLY ELEVATED ** (normal < 1.3-1.5)
+
+Right Ventricle:
+  RVID (diastole): 12mm (mildly dilated for BSA)
+
+Mitral Valve:
+  E-point septal separation (EPSS): 6mm (mildly increased, consistent with LV dilation)
+
+=================================
+DOPPLER ECHOCARDIOGRAPHY
+=================================
+
+COLOR FLOW DOPPLER:
+- VSD: ** Large left-to-right shunt demonstrated through the perimembranous VSD. Broad-based color flow jet originating from the LV side of the septum and crossing into the RV. The jet is approximately 7-8mm wide at its origin, consistent with a large, non-restrictive to mildly restrictive defect. Flow is predominantly left-to-right throughout systole. No evidence of right-to-left (Eisenmenger) shunting. **
+- Mitral regurgitation: Moderate — centrally-directed jet extending approximately halfway into the left atrium. Vena contracta approximately 3mm. Regurgitant jet area/LA area ratio approximately 30-35%.
+- Tricuspid regurgitation: Mild — thin jet, extending approximately one-third into the right atrium. Adequate for RVSP estimation.
+- Pulmonary regurgitation: Trace, physiologic.
+- Aortic regurgitation: None.
+- No turbulence at LVOT, RVOT, aortic arch, or branch PAs.
+- Patent foramen ovale: No flow detected across atrial septum.
+
+SPECTRAL DOPPLER (PULSED WAVE AND CONTINUOUS WAVE):
+
+VSD Flow (CW Doppler):
+- Peak systolic velocity across VSD: 2.8 m/s
+- Peak gradient across VSD (simplified Bernoulli): 4 x (2.8)^2 = 31 mmHg
+- ** Estimated RVSP = systemic systolic BP - VSD gradient = 78 - 31 = approximately 47 mmHg **
+- ** Note: This VSD gradient is relatively low for the size of the defect (8mm), indicating that the pressure difference between LV and RV is not large — consistent with elevated RV/PA pressure. A truly restrictive VSD would have a higher gradient. **
+
+Tricuspid Regurgitation (CW Doppler):
+- TR jet peak velocity: 3.2 m/s
+- Estimated RVSP = 4 x (3.2)^2 + estimated RAP (5 mmHg) = 41 + 5 = ** approximately 46 mmHg **
+- ** MODERATE PULMONARY HYPERTENSION ** (normal RVSP in infants < 25-30 mmHg)
+- ** The two methods (VSD gradient and TR velocity) are concordant, estimating RVSP at 45-47 mmHg **
+
+Mitral Inflow (PW Doppler):
+- E wave velocity: 1.1 m/s (elevated — volume overload)
+- A wave velocity: 0.7 m/s
+- E/A ratio: 1.57 (normal for age)
+
+LVOT (PW Doppler):
+- LVOT VTI: 14 cm
+- LVOT diameter: 7mm
+- Estimated cardiac output: elevated for body size (consistent with high-output state from L→R shunt)
+
+Pulmonary Valve (PW Doppler):
+- Peak velocity: 1.2 m/s (mildly elevated — increased pulmonary flow)
+- No significant RVOT obstruction
+
+Aortic Valve (PW/CW Doppler):
+- Peak velocity: 1.4 m/s (mildly elevated — consistent with increased stroke volume through normal-sized valve)
+- Mean gradient: 5 mmHg (no significant stenosis)
+
+Descending Aorta (PW Doppler):
+- Normal systolic flow pattern
+- No diastolic runoff
+- No diastolic tail (confirms no coarctation)
+
+Pulmonary Veins (PW Doppler):
+- Normal S and D wave pattern
+- No pulmonary venous obstruction
+
+=================================
+QUANTITATIVE SUMMARY
+=================================
+
+  Measurement               Value         Normal (for BSA)    Z-Score    Status
+  ------------------------------------------------------------------------------------
+  LVIDd                     28 mm         19-22 mm            +3.2       DILATED
+  LVIDs                     19 mm         12-15 mm            +2.8       DILATED
+  LA dimension              20 mm         10-14 mm            +3.5       DILATED
+  LA:Ao ratio               2.1           < 1.3-1.5           —          ELEVATED
+  Aortic root               9.5 mm       8-11 mm             0          Normal
+  RVID                      12 mm         8-11 mm             +1.5       Mildly dilated
+  EF (Teichholz)            58%           > 55%               —          Low-normal
+  FS                        32%           28-44%              —          Low-normal
+  TAPSE                     12 mm         10-16 mm            —          Low-normal
+  VSD size                  8 mm          N/A                 —          Large
+  RVSP (TR method)          46 mmHg       < 25-30 mmHg        —          ELEVATED
+  RVSP (VSD method)         47 mmHg       < 25-30 mmHg        —          ELEVATED
+  MR vena contracta         3 mm          N/A                 —          Moderate
+  MV annulus                16 mm         10-13 mm            +2.4       Dilated
+
+=================================
+INTERPRETATION
+=================================
+
+FINDINGS:
+1. ** LARGE PERIMEMBRANOUS VENTRICULAR SEPTAL DEFECT (8mm) ** with significant left-to-right shunting. The defect is large relative to the patient's body size and aortic annulus. The VSD is not restrictive — the relatively low gradient across the defect (31 mmHg) and elevated RVSP indicate that right ventricular and pulmonary artery pressures are significantly elevated, approaching half-systemic levels.
+
+2. ** SIGNIFICANT LEFT-SIDED VOLUME OVERLOAD: ** Left atrium is severely dilated (LA:Ao ratio 2.1, Z-score +3.5). Left ventricle is significantly dilated (LVIDd Z-score +3.2). These findings are consistent with a hemodynamically significant left-to-right shunt causing excessive pulmonary blood flow returning to the left heart, resulting in volume overload. The Qp:Qs ratio is estimated at 2.5-3.0:1 based on the degree of left heart dilation (direct calculation not performed due to technical limitations).
+
+3. ** MODERATE PULMONARY HYPERTENSION: ** Estimated RVSP 45-47 mmHg by two concordant methods (TR jet velocity and VSD gradient). This represents approximately 58-60% of systemic systolic pressure. The pulmonary hypertension is secondary to the large left-to-right shunt with pulmonary overcirculation. There is no evidence at this time of fixed pulmonary vascular disease (Eisenmenger physiology), as the shunt remains exclusively left-to-right. However, the degree of pulmonary hypertension indicates that the pulmonary vascular bed is under significant hemodynamic stress. Prolonged exposure to these pressures and flows places this patient at risk for the development of irreversible pulmonary vascular disease if the VSD is not closed.
+
+4. ** MODERATE MITRAL REGURGITATION: ** Secondary (functional) MR from annular dilation due to LV volume overload. There is no primary mitral valve structural abnormality. The MR is expected to improve or resolve following VSD closure and normalization of LV volumes.
+
+5. ** LEFT VENTRICULAR SYSTOLIC FUNCTION: ** Preserved at the lower end of normal (EF 58%, FS 32%). In the setting of significant volume overload, the LV should be hyperdynamic. An EF of 58% in this hemodynamic context may indicate early myocardial dysfunction or, more likely, the effect of increased afterload from the elevated pulmonary pressures and functional MR. This finding warrants close monitoring.
+
+6. ** STRUCTURALLY NORMAL HEART OTHERWISE: ** Normal great artery relationships, normal aortic arch (no coarctation), normal pulmonary venous return, normal coronary anatomy. No PDA. No ASD. No additional VSDs.
+
+=================================
+CLINICAL CORRELATION
+=================================
+
+This echocardiographic study confirms the diagnosis of a large perimembranous VSD as the cause of this infant's progressive congestive heart failure, failure to thrive, and feeding intolerance. The hemodynamic significance of this defect is demonstrated by:
+- Severe left atrial and left ventricular dilation (volume overload from excessive pulmonary blood flow)
+- Moderate pulmonary hypertension (half-systemic pressures)
+- Moderate secondary mitral regurgitation (further contributing to left-sided volume overload)
+- BNP 485 pg/mL (markedly elevated, confirming heart failure)
+- Clinical syndrome of tachypnea, tachycardia, diaphoresis, hepatomegaly, feeding intolerance, and failure to thrive
+
+The natural history of large perimembranous VSDs in infants is that a significant proportion will not close spontaneously, particularly defects of this size (8mm). The ongoing volume overload and pulmonary hypertension place this patient at risk for irreversible pulmonary vascular disease (Eisenmenger syndrome) if the defect is not addressed. The current RVSP of approximately 45 mmHg suggests that pulmonary vascular disease is not yet fixed, and surgical closure should prevent further progression.
+
+=================================
+RECOMMENDATIONS
+=================================
+
+1. ** URGENT PEDIATRIC CARDIOLOGY CONSULTATION: ** This patient requires immediate evaluation by a pediatric cardiologist for comprehensive management planning. An appointment has been arranged with our service within 48 hours.
+
+2. ** SURGICAL EVALUATION: ** Referral to pediatric cardiothoracic surgery for evaluation and likely surgical closure of the VSD. Given the size of the defect (8mm), the degree of left heart dilation, moderate pulmonary hypertension, significant failure to thrive, and moderate MR, this patient meets criteria for surgical intervention. Timing will be determined by the surgical team, but given the severity of symptoms and growth failure, early repair (within weeks, not months) is recommended.
+
+3. ** MEDICAL MANAGEMENT OF CHF (prior to surgical intervention): **
+   a. Diuresis: Furosemide (1-2 mg/kg/day divided BID) to reduce pulmonary edema and improve respiratory symptoms. Monitor electrolytes closely, particularly potassium.
+   b. Afterload reduction: Captopril (0.5-2 mg/kg/day divided TID) or enalapril to reduce systemic vascular resistance, which may reduce the left-to-right shunt fraction and improve forward cardiac output.
+   c. Digoxin: Consider low-dose digoxin (5-10 mcg/kg/day) for inotropic support given the EF is at the lower end of normal with significant volume overload.
+   d. Nutritional support: High-calorie feeds (24-27 kcal/oz). Strongly consider nasogastric (NG) tube feeding to ensure adequate caloric intake while minimizing the metabolic expenditure of oral feeding. Target 120-150 kcal/kg/day to promote catch-up growth.
+
+4. ** MONITORING: **
+   a. Close clinical follow-up: Weight, feeding volumes, respiratory status, and heart failure symptoms (q1-2 weeks until surgical repair).
+   b. Repeat echocardiography: Prior to surgical repair and as clinically indicated. Monitor LV function, LA/LV dimensions, PA pressure estimates, and MR severity.
+   c. Electrocardiogram: Obtain baseline 12-lead ECG for documentation.
+   d. Consider cardiac catheterization only if there is concern about the degree of pulmonary vascular disease or if additional anatomic clarification is needed prior to surgery. Based on current echocardiographic findings (exclusively L→R shunt, RVSP 45 mmHg, no R→L shunting), catheterization may not be necessary.
+
+5. ** RSV PROPHYLAXIS: ** This infant is now at high risk for severe RSV disease given hemodynamically significant CHD. Palivizumab prophylaxis should be administered during RSV season if not already received.
+
+6. ** DEVELOPMENTAL FOLLOW-UP: ** Given the severity and duration of failure to thrive and chronic cardiopulmonary compromise, early developmental surveillance and early intervention referral are recommended.
+
+=================================
+FINAL IMPRESSION
+=================================
+
+1. Large perimembranous ventricular septal defect (8mm) with hemodynamically significant left-to-right shunting
+2. Left atrial and left ventricular dilation (severe left-sided volume overload)
+3. Moderate pulmonary hypertension (RVSP ~45 mmHg, approximately 60% systemic)
+4. Moderate mitral regurgitation (secondary/functional, from annular dilation)
+5. LV systolic function preserved but at the lower end of normal (EF 58%) — concerning in the context of volume overload
+6. Congestive heart failure with failure to thrive — clinical correlation
+7. No additional structural cardiac abnormalities
+8. Surgical closure of VSD recommended — urgent referral to pediatric cardiothoracic surgery
+
+Electronically signed: Dr. R. Okonkwo, MD, FACC, FSCAI
+Pediatric Cardiologist, Community Children's Hospital
+Date signed: 2026-01-28 16:32
+
+Report finalized: 2026-01-28
+Copies sent to: Dr. P. Nakamura (Bright Start Pediatrics), Dr. L. Torres (Pediatric Cardiothoracic Surgery)

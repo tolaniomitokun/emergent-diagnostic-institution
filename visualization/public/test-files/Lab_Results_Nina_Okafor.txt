@@ -1,0 +1,392 @@
+LABORATORY RESULTS — CHRONOLOGICAL COMPILATION
+================================================
+Patient: Nina Okafor  DOB: 1997-09-14  MRN: 4291738
+Compiled by: Mercy Regional Medical Center, Medical Records Department
+Compilation date: 2026-02-10
+
+Note: Results compiled from multiple facilities (Mercy Regional Medical Center ER, Tri-County Rheumatology Associates, Metro Skin & Wound Care Associates, Mercy Regional Medical Center Inpatient, Primary Care Associates of Metro). Reference ranges may vary slightly between laboratories. All reference ranges listed are for adult females unless otherwise specified.
+
+================================================================
+DATE: 2023-08-05 — ER Visit 2 (Mercy Regional Medical Center Lab)
+================================================================
+INDICATION: Acute chest and bilateral arm pain. First CBC drawn on this patient.
+
+CBC:
+  WBC:              11.2 K/uL          [4.5-11.0]      HIGH-NORMAL (stress/pain response)
+  RBC:              3.6 M/uL           [4.0-5.5]       ** LOW **
+  Hemoglobin:       10.1 g/dL          [12.0-16.0]     ** LOW **
+  Hematocrit:       30.8%              [36-46]          ** LOW **
+  MCV:              86 fL              [80-100]         NORMAL
+  MCH:              28.1 pg            [27-33]          NORMAL
+  MCHC:             32.8 g/dL          [32-36]          NORMAL
+  RDW:              17.2%              [11.5-14.5]      ** ELEVATED ** (significant anisocytosis)
+  Platelets:        398 K/uL           [150-400]       NORMAL (high-normal)
+
+** NOTE: First documented CBC for this patient. Hemoglobin 10.1 in a 25-year-old was attributed to "menstrual losses." The elevated RDW of 17.2% — indicating significant variation in red cell size (anisocytosis) — was not commented upon. No reticulocyte count, hemolysis labs, iron studies, or peripheral smear was ordered. **
+
+BASIC METABOLIC PANEL:
+  Sodium:           138 mEq/L          [136-145]       NORMAL
+  Potassium:        4.1 mEq/L          [3.5-5.0]       NORMAL
+  Chloride:         101 mEq/L          [98-106]        NORMAL
+  CO2:              22 mEq/L           [23-29]         ** LOW ** (mild metabolic acidosis)
+  BUN:              15 mg/dL           [7-20]          NORMAL
+  Creatinine:       0.8 mg/dL          [0.6-1.2]       NORMAL
+  Glucose:          124 mg/dL          [70-100]        ELEVATED (stress response)
+
+CARDIAC MARKERS:
+  Troponin I (initial):    <0.01 ng/mL  [<0.04]       NORMAL
+  Troponin I (3-hr):       <0.01 ng/mL  [<0.04]       NORMAL
+  BNP:              32 pg/mL           [<100]          NORMAL
+
+================================================================
+DATE: 2024-02-12 — Rheumatology Consult (Tri-County Rheumatology Lab)
+================================================================
+INDICATION: Chronic pain syndrome — autoimmune workup
+
+AUTOIMMUNE PANEL:
+  ANA:              Negative (titer <1:40)
+  Rheumatoid Factor: <10 IU/mL         [<14]           NEGATIVE
+  Anti-CCP:         <3 U/mL            [<20]           NEGATIVE
+  HLA-B27:          NEGATIVE
+
+INFLAMMATORY MARKERS:
+  ESR:              38 mm/hr           [0-20]          ** ELEVATED **
+  CRP:              12 mg/L            [<3.0]          ** ELEVATED **
+
+METABOLIC:
+  Uric Acid:        5.8 mg/dL          [2.4-6.0]       NORMAL
+  25-OH Vitamin D:  22 ng/mL           [30-100]        ** LOW ** (insufficiency)
+  TSH:              2.6 mIU/L          [0.4-4.0]       NORMAL
+  Magnesium:        1.9 mg/dL          [1.7-2.2]       NORMAL
+
+** NOTE: No CBC ordered at this visit. Elevated ESR and CRP with a completely negative autoimmune panel should have prompted investigation into non-autoimmune inflammatory conditions — particularly hemolytic anemia. **
+
+================================================================
+DATE: 2025-02-08 — Hospital Admission (Mercy Regional MC Inpatient Lab)
+================================================================
+INDICATION: Acute pain crisis with fever. Comprehensive workup.
+
+CBC:
+  WBC:              14.8 K/uL          [4.5-11.0]      ** ELEVATED ** (leukocytosis)
+  RBC:              3.1 M/uL           [4.0-5.5]       ** LOW **
+  Hemoglobin:       8.8 g/dL           [12.0-16.0]     ** LOW — MODERATE ANEMIA **
+  Hematocrit:       26.8%              [36-46]          ** LOW **
+  MCV:              86 fL              [80-100]         NORMAL
+  MCH:              28.4 pg            [27-33]          NORMAL
+  MCHC:             32.8 g/dL          [32-36]          NORMAL
+  RDW:              18.5%              [11.5-14.5]      ** ELEVATED ** (worsening anisocytosis)
+  Platelets:        425 K/uL           [150-400]       ** MILDLY ELEVATED ** (reactive thrombocytosis)
+  WBC Differential:
+    Neutrophils:    78%                [40-70]          HIGH (left shift — stress/infection)
+    Lymphocytes:    14%                [20-40]          LOW (relative lymphopenia)
+    Monocytes:      6%                 [2-8]            NORMAL
+    Eosinophils:    1%                 [1-4]            NORMAL
+    Basophils:      1%                 [0-1]            NORMAL
+
+RETICULOCYTE COUNT:
+  Reticulocyte %:   8.0%               [0.5-2.0]       ** MARKEDLY ELEVATED **
+  Reticulocyte Abs: 248 K/uL           [25-75]          ** MARKEDLY ELEVATED **
+
+** CRITICAL: Reticulocyte count of 8% (absolute 248 K/uL) indicates massive bone marrow compensation for red cell destruction. This is 4x the upper limit of normal and is NOT seen in iron deficiency, nutritional deficiency, or anemia of chronic disease. This value alone confirms hemolytic anemia. **
+
+HEMOLYSIS MARKERS:
+  LDH:              380 U/L            [140-280]       ** ELEVATED **
+  Haptoglobin:      <10 mg/dL          [30-200]        ** UNDETECTABLE **
+  Total Bilirubin:  3.8 mg/dL          [0.1-1.2]       ** ELEVATED **
+  Direct Bilirubin: 0.6 mg/dL          [0.0-0.3]       ** MILDLY ELEVATED **
+  Indirect Bilirubin: 3.2 mg/dL        [0.1-1.0]       ** MARKEDLY ELEVATED **
+
+  ** HEMOLYSIS PANEL INTERPRETATION:
+     Elevated LDH           = Red cell destruction releasing intracellular enzyme
+     Undetectable haptoglobin = Consumed by binding free hemoglobin from lysed RBCs
+     Elevated indirect bili  = Breakdown product of hemoglobin (unconjugated)
+     ALL MARKERS CONCORDANT = INTRAVASCULAR + EXTRAVASCULAR HEMOLYSIS CONFIRMED **
+
+COOMBS TEST:
+  Direct Coombs (DAT):  NEGATIVE
+  Indirect Coombs (IAT): NEGATIVE
+
+  ** Coombs-negative hemolytic anemia differential:
+     - Hemoglobinopathies (sickle cell disease, thalassemia) *** MOST LIKELY ***
+     - RBC membrane defects (hereditary spherocytosis, elliptocytosis)
+     - RBC enzyme defects (G6PD deficiency, pyruvate kinase deficiency)
+     - Thrombotic microangiopathy (TTP/HUS)
+     - Paroxysmal nocturnal hemoglobinuria (PNH)
+     - Mechanical hemolysis (prosthetic valve — N/A)
+     - DIC **
+
+COMPREHENSIVE METABOLIC PANEL:
+  Sodium:           137 mEq/L          [136-145]       NORMAL
+  Potassium:        4.8 mEq/L          [3.5-5.0]       NORMAL
+  Chloride:         100 mEq/L          [98-106]        NORMAL
+  CO2:              21 mEq/L           [23-29]         ** LOW ** (metabolic acidosis — lactic acid from tissue ischemia)
+  BUN:              18 mg/dL           [7-20]          NORMAL
+  Creatinine:       0.9 mg/dL          [0.6-1.2]       NORMAL
+  Glucose:          132 mg/dL          [70-100]        ELEVATED (stress)
+  Calcium:          9.0 mg/dL          [8.5-10.5]      NORMAL
+  AST:              48 U/L             [10-40]         ** MILDLY ELEVATED **
+  ALT:              32 U/L             [7-56]          NORMAL
+  Alkaline Phos:    98 U/L             [44-147]        NORMAL
+  Albumin:          3.4 g/dL           [3.5-5.5]       ** LOW **
+  Total Protein:    7.2 g/dL           [6.0-8.3]       NORMAL
+
+INFLAMMATORY MARKERS:
+  ESR:              62 mm/hr           [0-20]          ** ELEVATED ** (was 38 at rheumatology)
+  CRP:              48 mg/L            [<3.0]          ** MARKEDLY ELEVATED ** (was 12)
+  Procalcitonin:    0.22 ng/mL         [<0.10]         ** MILDLY ELEVATED **
+
+BLOOD CULTURES: x2 sets — No growth at 5 days (FINAL)
+URINE CULTURE: No growth (FINAL)
+
+COAGULATION:
+  PT:               13.2 sec           [11.0-13.5]     NORMAL
+  INR:              1.1                                NORMAL
+  aPTT:             32 sec             [25-35]         NORMAL (pre-heparin)
+  Fibrinogen:       388 mg/dL          [200-400]       NORMAL (high-normal — acute phase reactant)
+  D-dimer:          2.84 mcg/mL FEU    [<0.50]         ** ELEVATED ** (PE + hemolysis)
+
+================================================================
+DATE: 2025-02-09 — Hospital Day 2 (Mercy Regional MC Inpatient Lab)
+================================================================
+INDICATION: Thrombophilia workup — unprovoked bilateral PE
+
+THROMBOPHILIA PANEL:
+  Factor V Leiden mutation:            NEGATIVE
+  Prothrombin G20210A mutation:        NEGATIVE
+  Antithrombin III activity:           92%             [80-120]        NORMAL
+  Protein C activity:                  88%             [70-140]        NORMAL
+  Protein S activity:                  76%             [60-130]        NORMAL
+  Protein S free antigen:              82%             [57-126]        NORMAL
+  Anticardiolipin IgG:                 4 GPL           [<15]           NEGATIVE
+  Anticardiolipin IgM:                 3 MPL           [<15]           NEGATIVE
+  Beta-2 Glycoprotein I IgG:           2 SGU           [<20]           NEGATIVE
+  Beta-2 Glycoprotein I IgM:           3 SMU           [<20]           NEGATIVE
+  Lupus Anticoagulant (dRVVT):         NEGATIVE (note: on heparin — may need repeat)
+
+** The entirely negative thrombophilia workup means the bilateral PE is "unprovoked" with no identifiable inherited or acquired clotting disorder. However, sickle cell disease is itself a hypercoagulable state — PE and in situ pulmonary arterial thrombosis are well-documented complications of SCD, occurring through mechanisms including chronic hemolysis-induced endothelial activation, nitric oxide depletion, platelet activation, and tissue factor exposure. The "unprovoked" PE is in fact provoked — by the undiagnosed sickle cell disease. **
+
+================================================================
+DATE: 2025-02-11 — Hospital Day 4 / Pre-Discharge (Mercy Regional MC)
+================================================================
+INDICATION: Pre-discharge monitoring
+
+CBC:
+  WBC:              8.4 K/uL           [4.5-11.0]      NORMAL (improving)
+  Hemoglobin:       8.9 g/dL           [12.0-16.0]     ** LOW ** (stable-to-mildly improved)
+  Hematocrit:       27.2%              [36-46]          ** LOW **
+  MCV:              87 fL              [80-100]         NORMAL
+  RDW:              18.2%              [11.5-14.5]      ** ELEVATED **
+  Platelets:        440 K/uL           [150-400]       ** ELEVATED **
+  Reticulocyte %:   7.2%               [0.5-2.0]       ** MARKEDLY ELEVATED ** (persistent hemolysis)
+
+HEMOLYSIS (repeat):
+  LDH:              342 U/L            [140-280]       ** ELEVATED ** (improved from 380)
+  Total Bilirubin:  2.8 mg/dL          [0.1-1.2]       ** ELEVATED ** (improved from 3.8)
+
+================================================================
+DATE: 2025-08-10 — PCP Follow-up (Primary Care Associates Lab)
+================================================================
+INDICATION: Follow-up — anemia, anticoagulation management, chronic pain
+
+CBC:
+  WBC:              9.8 K/uL           [4.5-11.0]      NORMAL
+  RBC:              3.3 M/uL           [4.0-5.5]       ** LOW **
+  Hemoglobin:       9.2 g/dL           [12.0-16.0]     ** LOW ** (stable chronic anemia)
+  Hematocrit:       28.2%              [36-46]          ** LOW **
+  MCV:              88 fL              [80-100]         NORMAL
+  MCH:              28.8 pg            [27-33]          NORMAL
+  MCHC:             32.6 g/dL          [32-36]          NORMAL
+  RDW:              18.5%              [11.5-14.5]      ** ELEVATED ** (persistent anisocytosis)
+  Platelets:        425 K/uL           [150-400]       ** MILDLY ELEVATED **
+
+RETICULOCYTE COUNT:
+  Reticulocyte %:   8.0%               [0.5-2.0]       ** MARKEDLY ELEVATED **
+  Reticulocyte Abs: 264 K/uL           [25-75]          ** MARKEDLY ELEVATED **
+
+HEMOLYSIS MARKERS:
+  LDH:              380 U/L            [140-280]       ** ELEVATED ** (returned to prior level — chronic baseline)
+  Haptoglobin:      <10 mg/dL          [30-200]        ** UNDETECTABLE **
+  Total Bilirubin:  2.6 mg/dL          [0.1-1.2]       ** ELEVATED **
+  Direct Bilirubin: 0.5 mg/dL          [0.0-0.3]       ** MILDLY ELEVATED **
+  Indirect Bilirubin: 2.1 mg/dL        [0.1-1.0]       ** ELEVATED **
+  Direct Coombs:    NEGATIVE (repeat — still negative, confirming Coombs-negative hemolysis)
+
+IRON STUDIES:
+  Serum Iron:       78 mcg/dL          [60-170]        NORMAL
+  TIBC:             310 mcg/dL         [250-400]       NORMAL
+  Transferrin Sat:  25%                [20-50]         NORMAL
+  Ferritin:         185 ng/mL          [12-150]        ** HIGH-NORMAL TO MILDLY ELEVATED **
+
+** CRITICAL: Iron studies are NORMAL. Ferritin is 185 — not depleted, and in fact above the upper limit of normal for premenopausal women. This patient is NOT iron deficient. Starting empiric iron supplementation was not indicated and does not address the cause of her anemia. Elevated ferritin in the setting of hemolytic anemia may reflect chronic hemolysis-related iron loading. Continued iron supplementation could lead to iron overload, particularly in sickle cell disease where chronic transfusion-independent iron accumulation is already a concern. **
+
+INFLAMMATORY MARKERS:
+  ESR:              45 mm/hr           [0-20]          ** ELEVATED ** (chronic)
+  CRP:              18 mg/L            [<3.0]          ** ELEVATED ** (chronic)
+
+COMPREHENSIVE METABOLIC PANEL:
+  Sodium:           139 mEq/L          [136-145]       NORMAL
+  Potassium:        4.2 mEq/L          [3.5-5.0]       NORMAL
+  Chloride:         102 mEq/L          [98-106]        NORMAL
+  CO2:              23 mEq/L           [23-29]         NORMAL (low-normal)
+  BUN:              14 mg/dL           [7-20]          NORMAL
+  Creatinine:       0.8 mg/dL          [0.6-1.2]       NORMAL
+  Glucose:          92 mg/dL           [70-100]        NORMAL
+  Calcium:          9.2 mg/dL          [8.5-10.5]      NORMAL
+  AST:              38 U/L             [10-40]         NORMAL (high-normal)
+  ALT:              28 U/L             [7-56]          NORMAL
+  Alkaline Phos:    88 U/L             [44-147]        NORMAL
+  Albumin:          3.6 g/dL           [3.5-5.5]       NORMAL (low-normal)
+
+HEPATITIS PANEL:
+  Hepatitis B sAg:  Non-reactive
+  Hepatitis C Ab:   Non-reactive
+  HIV 1/2 Ag/Ab:    Non-reactive
+
+================================================================
+TREND ANALYSIS — KEY PARAMETERS OVER 3 YEARS
+================================================================
+
+HEMOGLOBIN (g/dL) [Normal: 12.0-16.0]:
+  08/2023:  10.1  |==========================                    | ER Visit 2
+  02/2025:  8.8   |======================                        | Hospital admission (crisis)
+  02/2025:  8.9   |======================                        | Hospital discharge
+  08/2025:  9.2   |========================                      | PCP follow-up (baseline)
+  ** Persistent moderate anemia. Never normal. **
+
+RDW (%) [Normal: 11.5-14.5]:
+  08/2023:  17.2  |====================================          | ** elevated from first CBC **
+  02/2025:  18.5  |========================================      | ** worsening **
+  02/2025:  18.2  |=======================================       | ** persistent **
+  08/2025:  18.5  |========================================      | ** chronically elevated **
+  ** Consistent anisocytosis — variation in RBC size typical of hemolytic states **
+
+RETICULOCYTE COUNT (%) [Normal: 0.5-2.0]:
+  08/2023:  ---   | NOT ORDERED                                  |
+  02/2024:  ---   | NOT ORDERED                                  |
+  02/2025:  8.0   |========================================      | ** markedly elevated **
+  02/2025:  7.2   |====================================          | ** still markedly elevated **
+  08/2025:  8.0   |========================================      | ** chronically elevated **
+  ** 4x upper limit of normal — confirms chronic hemolytic process **
+
+LDH (U/L) [Normal: 140-280]:
+  08/2023:  ---   | NOT ORDERED                                  |
+  02/2025:  380   |========================================      | ** elevated — hemolysis **
+  02/2025:  342   |====================================          | ** still elevated **
+  08/2025:  380   |========================================      | ** chronic baseline **
+  ** Persistently elevated — intracellular enzyme released from lysed RBCs **
+
+HAPTOGLOBIN (mg/dL) [Normal: 30-200]:
+  08/2023:  ---   | NOT ORDERED                                  |
+  02/2025:  <10   |==                                            | ** undetectable **
+  08/2025:  <10   |==                                            | ** undetectable **
+  ** Consumed by binding free hemoglobin — hallmark of hemolysis **
+
+INDIRECT BILIRUBIN (mg/dL) [Normal: 0.1-1.0]:
+  08/2023:  ---   | NOT ORDERED                                  |
+  02/2025:  3.2   |========================================      | ** markedly elevated (crisis) **
+  02/2025:  2.2   |============================                  | ** improving but elevated **
+  08/2025:  2.1   |===========================                   | ** chronic baseline **
+  ** Elevated unconjugated bilirubin from hemoglobin breakdown **
+
+ESR (mm/hr) [Normal: 0-20]:
+  02/2024:  38    |==========================                    | ** elevated **
+  02/2025:  62    |==========================================    | ** markedly elevated (crisis) **
+  08/2025:  45    |==============================                | ** chronically elevated **
+
+CRP (mg/L) [Normal: <3.0]:
+  02/2024:  12    |========================                      | ** elevated **
+  02/2025:  48    |========================================      | ** markedly elevated (crisis) **
+  08/2025:  18    |===============                               | ** chronically elevated **
+
+PLATELETS (K/uL) [Normal: 150-400]:
+  08/2023:  398   |======================================        | high-normal
+  02/2025:  425   |========================================      | ** elevated **
+  02/2025:  440   |==========================================    | ** elevated **
+  08/2025:  425   |========================================      | ** chronically elevated **
+  ** Reactive thrombocytosis — compensatory response to chronic hemolysis and inflammation **
+
+FERRITIN (ng/mL) [Normal: 12-150 for premenopausal females]:
+  08/2025:  185   |========================================      | ** NOT DEPLETED **
+  ** Patient is NOT iron deficient. Iron supplementation is not indicated. **
+
+================================================================
+PATTERN ANALYSIS — DIAGNOSTIC SIGNIFICANCE
+================================================================
+
+The following consistent laboratory pattern has been present across multiple time points:
+
+HEMOLYSIS CONFIRMED (Coombs-negative):
+- Persistent moderate anemia (Hgb 8.8-10.1)
+- Markedly elevated reticulocyte count (7.2-8.0%) — vigorous marrow compensation
+- Elevated LDH (342-380) — intracellular enzyme from RBC destruction
+- Undetectable haptoglobin (<10) — consumed binding free hemoglobin
+- Elevated indirect bilirubin (2.1-3.2) — hemoglobin breakdown product
+- Negative Coombs test — NOT autoimmune hemolysis
+- Elevated RDW (17.2-18.5%) — anisocytosis from mixed young and old RBC populations
+- Normal MCV (86-88) — normocytic (consistent with HbSC or sickle-beta+ thalassemia)
+- Normal iron studies with ferritin 185 — NOT iron deficient
+
+CHRONIC INFLAMMATION:
+- Persistently elevated ESR (38-62) and CRP (12-48)
+- Reactive thrombocytosis (398-440)
+- Negative autoimmune panel (ANA, RF, anti-CCP, HLA-B27)
+
+HYPERCOAGULABILITY:
+- Bilateral PE (unprovoked)
+- Complete thrombophilia workup NEGATIVE
+- The hypercoagulable state is caused by the undiagnosed hemolytic condition itself
+
+NORMAL (ruling out other conditions):
+- Iron studies normal — NOT iron deficiency
+- Renal function normal — NOT renal failure-associated anemia
+- TSH normal — NOT thyroid disease
+- B12/folate not ordered but folic acid supplementation started empirically
+- Hepatitis panel negative
+- HIV negative
+
+================================================================
+TESTS NEVER ORDERED
+================================================================
+
+** The following critical diagnostic tests were NEVER ordered at any point during 3 years of care across 8 providers, despite documented Coombs-negative hemolytic anemia, recurrent pain crises, bilateral medial malleolar leg ulcers, bilateral PE, African American ethnicity, and a brother with confirmed sickle cell disease:
+
+1. HEMOGLOBIN ELECTROPHORESIS
+   - The definitive diagnostic test for sickle cell disease and other hemoglobinopathies
+   - Would identify HbS, HbC, HbF percentages and confirm the specific variant
+   - Widely available at all reference laboratories
+   - Cost: approximately $25-50
+   - Turnaround time: 2-5 business days
+   - Should have been ordered at the FIRST documentation of hemolytic anemia
+
+2. PERIPHERAL BLOOD SMEAR
+   - Would show target cells (characteristic of HbSC), sickle cells, Howell-Jolly bodies
+   - A manual smear review was never requested despite 5 CBCs showing persistent anemia and elevated RDW
+   - The automated CBC flagged "anisocytosis" but no pathologist review was triggered
+   - Cost: $10-20
+
+3. SICKLE CELL SCREEN (Sickledex / Sodium Metabisulfite Test)
+   - Rapid point-of-care screening test for hemoglobin S
+   - Result available in minutes to hours
+   - Does not differentiate HbSS from HbSC or HbAS — requires electrophoresis for confirmation
+   - Cost: $10-15
+
+4. HIGH-PERFORMANCE LIQUID CHROMATOGRAPHY (HPLC)
+   - Quantitative analysis of hemoglobin fractions
+   - More precise than standard electrophoresis
+   - Would definitively characterize the hemoglobinopathy variant
+   - Cost: $50-100
+
+5. SICKLING TEST UNDER HYPOXIC CONDITIONS
+   - Demonstrates sickling morphology under controlled deoxygenation
+   - Confirmatory for presence of HbS
+
+Any ONE of the first four tests would have led to the diagnosis. Hemoglobin electrophoresis alone — a single blood draw, $25-50, no patient preparation required — would have ended 3 years of diagnostic odyssey, prevented bilateral PE and progressive leg ulcers, and connected this patient to comprehensive sickle cell disease care including hydroxyurea, pain crisis protocols, and disease-modifying therapy. **
+
+================================================================
+SUMMARY
+================================================================
+Nina Okafor's laboratory data demonstrates a clear, unambiguous, and persistent pattern of Coombs-negative hemolytic anemia: moderate normocytic anemia (Hgb 8.8-10.1), markedly elevated reticulocytes (8%), elevated LDH (380), undetectable haptoglobin (<10), elevated indirect bilirubin (2.1), negative Coombs, elevated RDW (18.5%), reactive thrombocytosis (425), and normal iron studies (ferritin 185). Combined with chronically elevated inflammatory markers (ESR 45, CRP 18), a completely negative autoimmune and thrombophilia workup, bilateral PE, and clinical features of recurrent pain crises and bilateral medial malleolar ulcers — the laboratory profile is diagnostic of a hemoglobinopathy, most likely sickle cell disease (HbSC or sickle-beta thalassemia variant given normocytic indices and relatively mild baseline anemia). The hemolysis markers were in the chart for over 12 months. They were documented by multiple providers. They were never synthesized.
+
+Compiled by: Medical Records Department
+Reviewed by: Dr. P. Nakamura, MD, FAAFP
+Date: 2026-02-10

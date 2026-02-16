@@ -1,0 +1,166 @@
+PRIMARY CARE OFFICE VISIT NOTES — COMPILED
+=============================================
+Facility: Clearwater Rural Health Clinic
+Patient: Harold Kimura  DOB: 1973-04-22  MRN: 5938274
+PCP: Dr. R. Thornton, MD, FAAFP
+
+=============================================
+VISIT 1: 2024-04-15
+=============================================
+CHIEF COMPLAINT: "My wife says I'm forgetting things. She made me come in."
+
+HPI: Harold is a 51yo (turning 52 this month) male farmer presenting at the insistence of his wife, who reports approximately 6 months of progressive memory difficulties. She states he has been forgetting where he puts tools, leaving equipment running in the field, repeating the same questions within minutes, and missing appointments. Two weeks ago he got lost driving to Tanner's Feed & Supply, a store he has visited weekly for over 20 years. He drove 30 minutes in the wrong direction before realizing his error. Harold himself minimizes these concerns and attributes them to "just being tired." He reports increased work stress related to drought conditions this season. He endorses poor sleep (5-6 hours nightly, waking frequently), decreased interest in church activities, and irritability — his wife notes emotional outbursts that are uncharacteristic ("He yelled at our grandkids for the first time ever"). He denies headaches, vision changes, gait problems, or tremor at this time. He denies alcohol or substance use.
+
+PMH:
+- Type 2 diabetes mellitus (diagnosed 2019, diet-controlled until 2021, currently on metformin 1000mg BID)
+- Hypertension (lisinopril 20mg daily)
+- Hyperlipidemia (atorvastatin 20mg daily)
+- Chronic low back pain (intermittent, managed with OTC analgesics)
+- Right shoulder rotator cuff repair (2018)
+
+MEDICATIONS: Metformin 1000mg BID, lisinopril 20mg daily, atorvastatin 20mg daily, aspirin 81mg daily, acetaminophen PRN
+ALLERGIES: Codeine (nausea)
+FAMILY HISTORY: Father — MI at age 72, died age 78 of CHF. Mother — alive at 80, hypertension, no dementia. One brother — alive and well. No family history of dementia, Parkinson's disease, or neurodegenerative illness.
+SOCIAL HISTORY: Married 30 years. Two adult children. Farmer for 30 years — operates 240-acre family property (corn, soy, small cattle operation). Non-smoker. Rare alcohol (1-2 beers monthly). No recreational drugs.
+
+** NOTE: No occupational exposure history was obtained at this visit. Standard new-patient intake form was reviewed but does not include questions regarding pesticide use, chemical exposures, well water source, or building conditions on the property. **
+
+EXAM:
+VS: HR 74, BP 138/86, Temp 98.2F, Wt 194 lbs, Ht 5'10"
+General: Well-appearing male, appears stated age. Cooperative but somewhat dismissive of wife's concerns. No acute distress.
+HEENT: Normocephalic, atraumatic. Pupils equal, round, reactive. Oropharynx clear. No lymphadenopathy. Thyroid non-enlarged.
+CV: RRR, no murmurs, rubs, or gallops.
+Lungs: CTA bilaterally.
+Abdomen: Soft, non-tender, non-distended. No hepatosplenomegaly appreciated.
+Extremities: No edema. No cyanosis or clubbing.
+Neuro: Alert, oriented to person, place, time, and situation. Cranial nerves II-XII grossly intact. Gait normal. No tremor observed. Reflexes 2+ symmetric.
+Psych: Affect somewhat flat. Mood described as "fine" but wife reports otherwise. PHQ-9 scored 14 (moderately severe depression).
+
+LABS ORDERED:
+- TSH: 2.8 mIU/L          [0.4-4.0]       NORMAL
+- Vitamin B12: 488 pg/mL   [200-900]       NORMAL
+- RPR: Non-reactive                         NEGATIVE
+- CBC: Hgb 13.2, MCV 82, WBC 6.4, Plt 212 — All normal
+- BMP: Within normal limits (Cr 1.0, eGFR 82)
+- HbA1c: 6.4%              [<7.0]          AT GOAL
+
+ASSESSMENT:
+1. Cognitive complaints — likely secondary to depression and sleep disruption in the setting of occupational stress. Reversible causes screened: TSH, B12, RPR all normal. Does not meet criteria for formal dementia evaluation at this time.
+2. Moderate depression (PHQ-9: 14)
+3. Type 2 DM — well-controlled
+4. Hypertension — suboptimally controlled (BP 138/86, goal <130/80)
+
+PLAN:
+1. Start sertraline 50mg daily for depression
+2. Sleep hygiene counseling — provided handout
+3. Increase lisinopril to 40mg daily
+4. HbA1c monitoring, continue metformin
+5. Encouraged social engagement, return to church activities
+6. Return in 8 weeks — if cognitive complaints persist after treating depression, will consider neurology referral
+7. Wife counseled on supportive strategies for memory difficulties
+
+=============================================
+VISIT 2: 2024-10-28
+=============================================
+CHIEF COMPLAINT: Follow-up. Neurology consult results received.
+
+HPI: Harold returns 6 months after initial visit. Depression was partially treated with sertraline (titrated to 100mg, mild improvement in sleep and mood) but cognitive complaints have continued to worsen. He was referred to neurology at his wife's insistence after he left the stove burner on overnight in July and could not remember how to operate the combine harvester in August — a task he has performed for 25 years. Neurology evaluation by Dr. M. Ashworth (2024-08-19) yielded MMSE 21/30 and MRI showing mild cortical atrophy. Diagnosis: probable early-onset Alzheimer's disease. Donepezil 5mg daily was started.
+
+Since the neurology visit, his wife reports continued decline. He now has difficulty managing farm finances (errors in simple calculations), cannot follow multi-step instructions, and has become increasingly withdrawn and irritable. She also reports he has developed a tremor in both hands over the past 2-3 months — he spills coffee and has difficulty buttoning shirts. He has also been complaining of abdominal pain and constipation for approximately 4-5 months but attributed this to "stress."
+
+EXAM:
+VS: HR 70, BP 134/82, Temp 98.0F, Wt 186 lbs (8 lb loss since April — not specifically addressed)
+General: Appears fatigued. Slower to respond to questions than at prior visit.
+Neuro: Alert, oriented to person and place, uncertain on date (states "October... 2023?"). Bilateral fine tremor of outstretched hands noted. Gait steady but slightly wide-based.
+Abdomen: Mild diffuse tenderness, no guarding or rebound. Bowel sounds present but hypoactive.
+Remainder: Deferred to neurology for detailed exam.
+
+REVIEW OF SPECIALIST RECORDS:
+- Neurology (Dr. Ashworth, 2024-08-19): MMSE 21/30. MRI brain: mild generalized cortical atrophy, no focal lesions, no white matter disease. Diagnosis: probable early-onset AD. Started donepezil 5mg daily.
+
+ASSESSMENT:
+1. Early-onset Alzheimer's disease (per neurology) — on donepezil, will continue
+2. Depression — partially treated on sertraline 100mg
+3. Abdominal pain with constipation — likely functional, possibly medication-related (sertraline)
+4. Bilateral hand tremor — noted in neurology report as "possible essential tremor"
+5. Weight loss 8 lbs — attributed to poor appetite secondary to depression
+
+PLAN:
+1. Continue donepezil 5mg daily, increase to 10mg in 4 weeks per neurology protocol
+2. Continue sertraline 100mg
+3. MiraLAX daily for constipation
+4. Encourage nutritional intake — wife to monitor
+5. Refer to GI if abdominal symptoms persist
+6. Neurology follow-up scheduled for February
+7. Discussed advance care planning — provided information about durable power of attorney and healthcare directives
+
+=============================================
+VISIT 3: 2025-06-16
+=============================================
+CHIEF COMPLAINT: "He's getting worse fast. Something else has to be going on."
+
+HPI: Harold's wife brings him in expressing frustration and despair. She reports dramatic functional decline over the past 8 months. Harold can no longer operate any farm equipment and has had to lease the farmland to a neighbor. He requires assistance dressing, has difficulty using utensils to eat (tremor now severe), and has begun wandering at night — she found him in the barn at 3 AM twice last month, disoriented. He has lost a total of 26 pounds since his initial visit (194 to 168 lbs). Abdominal pain and constipation have persisted despite MiraLAX — he has been evaluated by GI (Dr. Patel, 2025-02-10), diagnosed with IBS-C. Chronic nausea limits oral intake. She also reports his hands look "different" — she notes wasting of the muscles between his fingers and weakness in gripping objects (drops cups, cannot turn doorknobs). His feet "slap" when he walks.
+
+Wife states: "His father didn't get dementia until he was 85 and it was slow. This is not the same thing. Harold went from running a farm to needing help putting on his shoes in 14 months. Something else is going on."
+
+EXAM:
+VS: HR 76, BP 142/88, Temp 98.4F, Wt 168 lbs (26 lb total loss)
+General: Thin, appears older than stated age (52). Moves slowly, needs assistance onto exam table.
+HEENT: Oral exam — ** gingiva appear mildly discolored at gum-tooth margin, subtle bluish tinge noted but attributed to poor oral hygiene. No oral lesions. ** No lymphadenopathy.
+Neuro: Alert but slow to respond. Oriented to person only. Bilateral intention tremor, prominent — unable to perform finger-to-nose accurately. Bilateral wrist drop noted. Thenar eminence and interosseous muscle wasting bilateral hands. Grip strength 2/5 bilateral. Gait wide-based, unsteady, bilateral foot drop requiring high-stepping pattern. Stocking-glove distribution sensory loss to light touch and pinprick below mid-calf bilateral.
+Abdomen: Mild diffuse tenderness. No rebound. Hypoactive bowel sounds. Liver edge palpated 2 cm below right costal margin.
+Skin: Pallor noted. No rash. Nails — no Mees' lines specifically documented (not specifically examined).
+
+LABS ORDERED:
+- CBC: Hgb 11.8 g/dL [13.5-17.5] ** LOW **, MCV 76 fL [80-100] ** LOW **, RDW 16.8% [11.5-14.5] ** ELEVATED **, WBC 5.2, Plt 188
+- Reticulocyte count: 2.8% [0.5-2.0] ** ELEVATED **
+- Iron: 38 mcg/dL [65-175] ** LOW **
+- TIBC: 425 mcg/dL [250-400] ** ELEVATED **
+- Ferritin: 22 ng/mL [20-250] LOW-NORMAL
+- BMP: Creatinine 1.4 mg/dL [0.7-1.3] ** ELEVATED **, eGFR 58 [>60] ** LOW (Stage 3a CKD) **
+- HbA1c: 6.3% — AT GOAL
+
+ASSESSMENT:
+1. Early-onset Alzheimer's disease — progressing rapidly, now requiring full-time supervision
+2. Microcytic anemia — new finding, likely iron deficiency anemia. MCV 76 with low iron and elevated TIBC. Will treat with iron supplementation.
+3. Chronic kidney disease Stage 3a (eGFR 58) — new finding, likely secondary to hypertension and diabetes. Will adjust medications.
+4. Peripheral neuropathy with bilateral wrist drop and foot drop — attribute to diabetic neuropathy per neurology, though severity seems disproportionate
+5. Continued weight loss (26 lbs) — multifactorial: poor appetite, depression, dementia-related eating difficulties
+6. Constipation/abdominal pain — managed by GI
+
+PLAN:
+1. Ferrous sulfate 325mg BID with vitamin C
+2. Discontinue lisinopril, start losartan 50mg (renal protective, avoid further ACE-related creatinine rise)
+3. Home health referral for ADL assistance
+4. Occupational therapy referral for adaptive equipment
+5. Continue donepezil 10mg
+6. Continue sertraline 100mg
+7. Neurology follow-up — discussed with wife that rate of decline is "on the faster end for Alzheimer's" but "not outside the range"
+8. Repeat CBC in 8 weeks to assess iron response
+9. Repeat BMP in 4 weeks to monitor creatinine
+
+=============================================
+RETROSPECTIVE ADDENDUM
+=============================================
+Added by: Dr. R. Thornton, MD, FAAFP
+Date: 2026-02-10
+
+I have been informed that Harold Kimura has been provisionally diagnosed with chronic heavy metal poisoning (lead, with possible concurrent mercury exposure) following a second-opinion evaluation that included blood lead level (78 mcg/dL — severely elevated; CDC reference: <3.5 mcg/dL in adults), zinc protoporphyrin (elevated), free erythrocyte protoporphyrin (elevated), and urine delta-aminolevulinic acid (markedly elevated). A peripheral blood smear showed basophilic stippling of red blood cells, pathognomonic for lead poisoning. Environmental testing confirmed lead paint in his 1940s barn (48,000 ppm in paint chips — hazardous level is >5,000 ppm) and elevated lead levels in his well water (72 ppb — EPA action level is 15 ppb).
+
+In retrospect, I must acknowledge the following failures in my care of this patient:
+
+VISIT 1 (04/2024): I did not obtain an occupational exposure history. Harold is a farmer who has worked the same property for 30 years. A simple occupational health screening would have identified: (a) regular pesticide application without consistent use of PPE (respiratory protection, gloves), (b) maintenance of a 1940s barn involving scraping and sanding peeling paint, (c) reliance on a 60-year-old well downstream from a former industrial site. I attributed his cognitive complaints entirely to depression without performing any cognitive screening (MMSE/MoCA was not done). I relied on normal TSH/B12/RPR to exclude reversible causes of cognitive decline but did not consider toxic etiologies.
+
+VISIT 2 (10/2024): I accepted the diagnosis of "probable early-onset Alzheimer's disease" from neurology without questioning the atypical features that were already present: (a) age 51 with no family history of early-onset dementia, (b) motor findings (tremor, early wrist weakness) which are NOT features of AD, (c) concurrent GI symptoms, (d) 8-lb weight loss. I documented the tremor but did not investigate its etiology beyond accepting "possible essential tremor." I did not question the rapid pace of decline.
+
+VISIT 3 (06/2025): By this visit, multiple red flags were present simultaneously: cognitive decline + bilateral wrist drop + foot drop + thenar wasting + intention tremor + microcytic anemia + elevated reticulocyte count + renal insufficiency + chronic abdominal pain/constipation + weight loss + hepatomegaly. This constellation is essentially a textbook presentation of chronic lead poisoning. I ordered iron supplementation for the anemia without investigating WHY a 52-year-old man had microcytic anemia with an elevated reticulocyte count — a combination that suggests hemolysis or lead toxicity, NOT simple iron deficiency. A peripheral blood smear at this visit would have shown basophilic stippling and likely led to immediate diagnosis. I also noted gingival discoloration but attributed it to poor hygiene — this was almost certainly a Burton line (lead line), which is pathognomonic for lead exposure.
+
+The most fundamental failure was the absence of an occupational and environmental exposure history at any visit over 14 months. Heavy metal poisoning was never in my differential diagnosis because I never gathered the information that would have put it there. Harold Kimura's neurological deterioration was potentially reversible — or at minimum arrestable — with chelation therapy and environmental remediation initiated at the time of his first presentation. The 14-month delay has resulted in substantial and possibly irreversible neurological damage.
+
+This case will be discussed at our clinic's morbidity and mortality conference. I am implementing mandatory occupational and environmental exposure screening in our intake questionnaire, including specific questions about chemical exposures, water source, and building age/condition.
+
+Electronically signed: Dr. R. Thornton, MD, FAAFP
+Visit 1 signed: 2024-04-15 14:30
+Visit 2 signed: 2024-10-28 11:15
+Visit 3 signed: 2025-06-16 16:45
+Addendum signed: 2026-02-10 09:20

@@ -1,0 +1,64 @@
+PSYCHIATRIC EVALUATION
+======================
+Facility: Bayside Behavioral Health
+Date: 2025-11-10
+Patient: Sofia Chen  DOB: 2008-09-14
+Referring Physician: Dr. L. Abrams, Pediatrics
+Evaluating Psychiatrist: Dr. K. Okonkwo, MD
+
+REASON FOR REFERRAL:
+17yo F referred for evaluation of possible eating disorder. Patient has lost 12 pounds in 3 months. Pediatrician concerned for anorexia nervosa vs. bulimia.
+
+HISTORY OF PRESENT ILLNESS:
+Sofia presents at the request of her pediatrician who is concerned about a 12-pound unintentional weight loss over 3 months. Patient went from 138 lbs to 126 lbs (BMI from 22.1 to 20.2). She is 5'6".
+
+Sofia denies any desire to lose weight. She reports she has been eating normally — in fact, she states she has been eating MORE than usual because she feels constantly hungry. She denies any purging behaviors, laxative use, excessive exercise for weight control, or body image disturbance. She denies caloric restriction. She reports she eats 3 meals and 2 snacks daily.
+
+She reports 4-5 loose stools daily for approximately 2 months, which she attributes to "something being wrong with my stomach." She reports increased thirst and frequent urination. She reports feeling "hot all the time" — wears shorts in November while classmates are in jackets.
+
+She reports anxiety symptoms: racing heart, difficulty sleeping, feeling "wired" and unable to relax. She reports these are NEW symptoms that began around the same time as the weight loss — approximately 3-4 months ago. No prior psychiatric history.
+
+She reports difficulty concentrating in school, which she attributes to fatigue from poor sleep. She denies depressed mood, anhedonia, suicidal ideation, or self-harm.
+
+She is distressed about missing soccer due to exercise intolerance and syncope. She describes herself as "frustrated, not depressed" and feels "something is physically wrong" that doctors are not finding.
+
+MENTAL STATUS EXAMINATION:
+- Appearance: Thin but not cachectic. Well-groomed. Notably diaphoretic.
+- Psychomotor: Mild psychomotor agitation. Fine bilateral hand tremor noted.
+- Speech: Normal rate and rhythm (possibly slightly pressured)
+- Mood: "Frustrated"
+- Affect: Anxious, reactive, full range
+- Thought Process: Linear, goal-directed
+- Thought Content: No SI/HI. No delusions. Preoccupied with physical symptoms.
+- Cognition: Alert, oriented x4. Normal attention.
+- Insight/Judgment: Good. Patient demonstrates appropriate health-seeking behavior.
+
+ASSESSMENT:
+1. ** NO EATING DISORDER IDENTIFIED. ** Patient does not meet criteria for anorexia nervosa, bulimia nervosa, or ARFID. She has no body image disturbance, no desire for weight loss, no restrictive or purging behaviors, and reports INCREASED appetite with weight loss. This pattern is inconsistent with any primary psychiatric eating disorder.
+
+2. Anxiety symptoms (NOS) — however, I have SIGNIFICANT CONCERN that these are secondary to a medical condition rather than a primary psychiatric disorder. The constellation of:
+   - Weight loss WITH increased appetite
+   - Heat intolerance
+   - Tachycardia and palpitations
+   - Tremor (observed on exam)
+   - Diaphoresis (observed on exam)
+   - Loose stools / GI hypermotility
+   - Sleep disturbance
+   - Psychomotor agitation
+   ...is CLASSIC for HYPERTHYROIDISM. This is NOT an anxiety disorder.
+
+3. ** I am NOT diagnosing a primary psychiatric condition at this time. **
+
+RECOMMENDATIONS:
+1. ** URGENT thyroid function testing: TSH, Free T4, Free T3. I believe this patient has undiagnosed hyperthyroidism until proven otherwise. **
+2. Do NOT start psychiatric medications (SSRIs, benzodiazepines) until medical workup is complete. Beta-blocker would be more appropriate if thyrotoxicosis is confirmed.
+3. Return to psychiatry ONLY if thyroid workup is normal — which I do not expect.
+4. I am calling Dr. Abrams directly to communicate this concern.
+
+COMMUNICATION:
+Called Dr. Abrams' office at 11:45am. Spoke with nurse. Message left requesting URGENT thyroid panel. Follow-up call at 2:15pm — Dr. Abrams' office states they will "add it to the next visit." I expressed my concern about urgency. Office states next appointment is in 6 weeks.
+
+** ADDENDUM (2025-11-10, 3:30pm): I am documenting my concern that a 6-week delay in thyroid testing for this patient is inappropriate given the clinical picture. If this patient has thyrotoxicosis, a 6-week delay risks thyroid storm, cardiac complications, or bone loss. I recommend this be escalated. **
+
+Electronically signed: Dr. K. Okonkwo, MD
+Date signed: 2025-11-10 15:35

@@ -1,0 +1,135 @@
+DERMATOLOGY CONSULTATION NOTES — COMPILED
+==========================================
+Facility: Coastal Skin & Aesthetic Dermatology
+Patient: Maria Santos  DOB: 1991-06-18  MRN: 7823415
+Referring Physician: Self-referred
+Dermatologist: Dr. H. Langston, MD, FAAD
+
+==========================================
+VISIT 1: 2025-04-14
+==========================================
+CHIEF COMPLAINT: "I got a bad sunburn on my face that won't go away."
+
+HPI: Maria is a 33-year-old female presenting with a facial rash that developed 5 days ago after spending Saturday and Sunday at the beach with her family. She reports the rash appeared within hours of sun exposure and has not resolved despite being out of the sun for 5 days. She describes redness and mild swelling across both cheeks and the bridge of her nose. She denies rash involvement of the forehead, chin, or periorbital areas. She reports mild warmth and tenderness over the affected areas. She used SPF 30 sunscreen but admits to inconsistent reapplication.
+
+She reports the rash is unlike any sunburn she has previously experienced — it is more sharply defined and has not peeled or faded as expected. She denies any new skincare products, medications, or foods.
+
+She mentions in passing that she has been dealing with "some health issues" including fatigue and joint pain for the past several months but states these are being managed by her PCP.
+
+PAST DERMATOLOGIC HISTORY: No significant prior skin conditions. Fitzpatrick skin type III (olive complexion, sometimes burns, usually tans). No history of skin cancer. No prior photosensitivity.
+MEDICATIONS: Ferrous sulfate, naproxen PRN, prenatal vitamin
+ALLERGIES: Sulfa (rash)
+
+EXAM:
+Skin (face): Erythematous, mildly edematous, well-demarcated patch extending across bilateral malar eminences and dorsum of nose in a symmetric distribution. The rash spares the nasolabial folds. No involvement of the forehead, periorbital skin, chin, or ears. Surface is smooth — no scale, vesicles, or pustules. Mild warmth to palpation. No tenderness.
+Skin (body): No rash on arms, chest, back, or legs. No photodistributed rash on V of chest or dorsal forearms.
+Hair: Grossly normal at this visit (no alopecia noted).
+Nails: Normal. No periungual erythema or telangiectasia.
+Oral mucosa: Not examined at this visit.
+
+DERMOSCOPY (facial rash):
+- Diffuse erythema with branching telangiectasias
+- No follicular plugging
+- No Wickham striae
+- No scale
+- No perifollicular or interface changes clearly visualized
+
+DIFFERENTIAL DIAGNOSIS:
+1. Acute sunburn with photosensitivity reaction (favored)
+2. Contact dermatitis (new sunscreen product)
+3. Rosacea (but acute onset argues against)
+4. Lupus-specific skin disease — malar rash (considered but felt less likely given acute onset after sun exposure)
+
+ASSESSMENT: Acute photosensitivity reaction / sunburn. The sharp demarcation and malar distribution are somewhat atypical for simple sunburn but consistent with photosensitive reaction in the most sun-exposed facial areas. Will treat conservatively and monitor.
+
+PLAN:
+1. Hydrocortisone 2.5% cream to face BID x 10 days
+2. Strict sun protection: SPF 50+ broad-spectrum, reapply every 2 hours, wide-brimmed hat, avoid peak sun hours (10am-4pm)
+3. Cool compresses PRN for comfort
+4. Avoid potential photosensitizers (patient takes naproxen — counseled that NSAIDs can rarely cause photosensitivity)
+5. Return if rash does not resolve in 2 weeks or if recurrence with sun exposure
+
+==========================================
+VISIT 2: 2025-06-20
+==========================================
+CHIEF COMPLAINT: "I'm losing a lot of hair. It's coming out in clumps."
+
+HPI: Maria returns 2 months after her initial visit. The facial rash from the prior visit resolved after approximately 3 weeks (she notes it took longer than expected). She now presents with progressive hair thinning and excessive shedding that she first noticed approximately 4-6 weeks ago. She reports finding large amounts of hair on her pillow, in the shower drain, and on her clothing. She estimates she is losing 3-4 times the normal amount. She notices thinning primarily at the temples, frontal hairline, and crown.
+
+She denies recent crash dieting, surgery, high fevers, pregnancy, or medication changes. She reports ongoing stress related to health issues (joint pain, fatigue, recurrent fevers — still being worked up by PCP). She also mentions she has developed recurring mouth sores over the past month but has not yet seen anyone about them.
+
+She asks about the facial rash: "It comes back a little every time I'm in the sun, even with sunscreen."
+
+EXAM:
+Hair: Diffuse thinning most prominent at bilateral temples and frontal hairline. No discrete patches of alopecia. No scarring. No scale on scalp. Positive hair pull test — 8-10 hairs easily extracted from frontal/temporal regions, 3-4 from occipital (normally <3). Extracted hairs show club-shaped (telogen) bulbs. No broken hairs or "exclamation point" hairs.
+Scalp: No erythema, scale, or follicular plugging. No discoid lesions. No scarring.
+Skin (face): Faint residual erythema over bilateral malar regions — very subtle, possibly subclinical. No active rash today.
+Skin (body): No rashes. No livedo reticularis.
+Oral mucosa (examined at this visit): Two shallow ulcerations on left buccal mucosa, approximately 3mm each, with erythematous borders. One healing ulceration on hard palate.
+Nails: Nail folds examined — no periungual erythema. No splinter hemorrhages. No nail pitting or dystrophy.
+
+DERMOSCOPY (scalp):
+- Reduced hair density in frontal and temporal regions
+- Increased proportion of vellus hairs
+- No perifollicular scale or erythema
+- No "black dots" or broken hairs (argues against alopecia areata or tinea)
+- No loss of follicular ostia (argues against scarring alopecia)
+- Hair shaft diameter variability present
+
+TRICHOSCOPY FINDINGS:
+- Hair density: Reduced (estimated 15-20% reduction frontally)
+- Anagen-to-telogen ratio: Shifted toward telogen
+- No dystrophic anagen hairs
+- No exclamation point hairs
+
+DIFFERENTIAL DIAGNOSIS:
+1. Telogen effluvium — secondary to physiologic stress (favored given history of chronic illness, stress)
+2. Iron deficiency-related hair loss (patient is on iron supplementation for known anemia)
+3. Lupus-related non-scarring alopecia (diffuse "lupus hair")
+4. Thyroid-related hair loss (TSH was normal per PCP records)
+5. Alopecia areata (diffuse type — less likely given no exclamation point hairs)
+
+ASSESSMENT: Telogen effluvium, most likely secondary to physiologic stress from chronic illness and possible contribution from iron deficiency. Hair pull test and trichoscopy findings are consistent with this diagnosis.
+
+PLAN:
+1. Biotin 5000mcg daily
+2. Continue iron supplementation (coordinate with PCP)
+3. Minoxidil 2% topical to scalp — discussed, patient deferred
+4. Stress management counseling
+5. Labs recommended: ferritin level, TSH (to rule out thyroid contribution) — deferred to PCP
+6. For mouth sores: recommend dental evaluation to rule out infection
+7. Expect hair regrowth in 3-6 months if underlying stressor resolves
+8. Return in 3 months for reassessment
+
+==========================================
+RETROSPECTIVE ADDENDUM
+==========================================
+Added by: Dr. H. Langston, MD, FAAD
+Date: 2026-02-03
+
+I have been informed that Maria Santos has since been found to have a strongly positive ANA (1:640, speckled pattern) and is being evaluated for Systemic Lupus Erythematosus. In light of this, I must critically re-examine both visits:
+
+VISIT 1 RE-ANALYSIS (Malar Rash):
+The rash I diagnosed as "sunburn with photosensitivity reaction" was almost certainly the classic malar (butterfly) rash of SLE. The key features I documented but failed to integrate:
+- Symmetric malar distribution with nasal bridge involvement
+- SPARING OF THE NASOLABIAL FOLDS — this is a hallmark feature that distinguishes lupus malar rash from sunburn, rosacea, and seborrheic dermatitis. Sunburn does NOT spare the nasolabial folds. I documented this finding but did not appreciate its diagnostic significance.
+- Persistence beyond expected duration for sunburn (3 weeks to resolve vs. typical 5-7 days)
+- Recurrence with subsequent sun exposure (reported at Visit 2) — photosensitive lupus rash, not simple sunburn
+- The patient reported concurrent fatigue and joint pain — which I noted but did not pursue
+
+VISIT 2 RE-ANALYSIS (Hair Loss + Oral Ulcers):
+The diffuse, non-scarring alopecia pattern I observed is characteristic of "lupus hair." While telogen effluvium was a reasonable differential, the combination of:
+- Diffuse hair thinning (lupus alopecia)
+- History of photosensitive malar rash (lupus malar rash)
+- Active oral ulcers on exam (lupus oral ulcers)
+- Background of fatigue, joint pain, and recurrent fevers
+...should have prompted ANA testing. Three SLE criteria (malar rash, photosensitivity, oral ulcers) were present at or by the second visit, and alopecia adds a fourth. Any two of these in a young woman should trigger ANA screening.
+
+I did not order ANA at either visit because I did not synthesize the findings into a systemic pattern. I evaluated each visit's chief complaint in isolation — rash at Visit 1, hair loss at Visit 2 — rather than considering the evolving multisystem presentation. Dermatologists have a particular responsibility to recognize lupus-specific cutaneous findings, and I failed to do so despite having two opportunities.
+
+I have added a clinical decision support reminder to our practice's EMR to prompt ANA testing when photosensitive malar rash + nasolabial fold sparing is documented.
+
+Electronically signed: Dr. H. Langston, MD, FAAD
+Visit 1 signed: 2025-04-14 14:20
+Visit 2 signed: 2025-06-20 11:45
+Addendum signed: 2026-02-03 16:10

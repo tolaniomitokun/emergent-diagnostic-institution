@@ -1,0 +1,211 @@
+GASTROENTEROLOGY CONSULTATION
+==============================
+Facility: Valley Digestive Care Specialists
+Date: 2025-02-10
+Patient: Harold Kimura  DOB: 1973-04-22  MRN: 5938274
+Referring Physician: Dr. R. Thornton, Clearwater Rural Health Clinic
+Gastroenterologist: Dr. S. Patel, MD, FACG
+
+REASON FOR REFERRAL:
+51yo M with approximately 8-month history of chronic abdominal pain, constipation, nausea, and 18-lb unintentional weight loss. Evaluate for organic etiology. Patient has comorbid early-onset Alzheimer's disease (diagnosed 6 months ago), DM2, HTN.
+
+=====================================
+HISTORY OF PRESENT ILLNESS
+=====================================
+Harold Kimura is a 51-year-old male farmer referred for evaluation of chronic GI complaints. His wife provides most of the history, as the patient has difficulty giving a coherent timeline due to cognitive decline.
+
+The onset of abdominal pain was approximately 8 months ago (roughly June 2024). The pain is described as diffuse, colicky/cramping, worst in the periumbilical and lower abdominal regions. It occurs daily, is intermittent in intensity (waxes and wanes over hours), and is not clearly related to meals, though his wife notes he often pushes food away after a few bites, stating "my stomach hurts." He rates the pain 4-6/10 on average, occasionally reaching 7-8/10 during episodes his wife describes as "attacks" — during these episodes he doubles over, is diaphoretic, and appears to be in significant distress. The severe episodes last 1-3 hours and occur approximately 2-3 times per week.
+
+He has developed progressive constipation over the same period. He currently has a bowel movement every 4-5 days (previously daily). Stools are described as hard, pellet-like, and passage is effortful. He denies hematochezia, melena, or mucus in stool. He has not noticed changes in stool caliber.
+
+He reports chronic nausea, worse in the morning and during pain episodes. He denies vomiting except during the most severe episodes (has vomited 3-4 times over the past 2 months). He reports decreased appetite and early satiety.
+
+Weight loss: His wife reports he has lost approximately 18 pounds over the past 10 months (from 194 to approximately 176 lbs at the time of this visit). She attributes this to poor oral intake secondary to nausea and abdominal pain.
+
+He denies dysphagia, odynophagia, heartburn, or regurgitation. He denies jaundice. He denies diarrhea (constipation-predominant). No history of GI bleeding. No prior abdominal surgeries.
+
+PAST GI HISTORY: Unremarkable. No prior endoscopy or colonoscopy. No history of peptic ulcer disease, GERD, IBD, or liver disease.
+
+MEDICATIONS: Donepezil 10mg, metformin 1000mg BID, lisinopril 20mg, atorvastatin 20mg, sertraline 100mg, aspirin 81mg, MiraLAX daily
+ALLERGIES: Codeine (nausea)
+
+DIETARY HISTORY (per wife): Previously hearty appetite. Now eats approximately 50% of prior intake. Diet is standard American — meat, potatoes, vegetables from farm garden. Adequate fiber intake per wife's report. Drinks well water from property (wife notes "it's always had a metallic taste but we're used to it").
+
+** NOTE: The comment about metallic-tasting well water was documented but not pursued further. In retrospect, this was a significant environmental exposure clue that was not investigated. **
+
+SOCIAL HISTORY: Farmer x 30 years. Non-smoker. Rare alcohol. No NSAID use beyond occasional acetaminophen.
+
+=====================================
+PHYSICAL EXAMINATION
+=====================================
+VS: HR 72, BP 136/84, Temp 98.2F, Wt 176 lbs, Ht 5'10" (BMI 25.2)
+General: Thin male, appears older than stated age. Slow to respond to questions. Accompanied by wife.
+HEENT: Sclera non-icteric. Oral mucosa slightly pale. No oral lesions.
+CV: RRR, no murmurs.
+Lungs: CTA bilaterally.
+Abdomen:
+- Inspection: Flat, no distention, no visible masses, no surgical scars
+- Auscultation: Hypoactive bowel sounds (diminished frequency)
+- Palpation: Mild diffuse tenderness, greatest in periumbilical and LLQ regions. No guarding, no rebound tenderness. No palpable masses. ** Liver edge palpated approximately 3 cm below right costal margin — hepatomegaly. ** Spleen not palpable. No Murphy's sign.
+- Percussion: Liver span approximately 15 cm in right MCL (normal 6-12 cm) — confirming hepatomegaly. No shifting dullness.
+Rectal: External exam normal. DRE: no masses, no tenderness, stool guaiac NEGATIVE. Normal sphincter tone.
+Extremities: No edema. No spider angiomata. No palmar erythema. No asterixis.
+
+=====================================
+DIAGNOSTIC WORKUP
+=====================================
+
+LABORATORY RESULTS:
+- CBC (from PCP, 2025-01-28):
+    Hgb: 12.4 g/dL [13.5-17.5]     ** LOW ** (mild anemia)
+    MCV: 78 fL [80-100]              ** LOW ** (microcytic)
+    WBC: 5.6 K/uL                    NORMAL
+    Plt: 196 K/uL                    NORMAL
+
+- CMP (from PCP, 2025-01-28):
+    Creatinine: 1.2 mg/dL [0.7-1.3]  HIGH-NORMAL (was 1.0 six months ago)
+    eGFR: 68 mL/min [>60]            LOW-NORMAL
+    AST: 34 U/L [10-40]              NORMAL
+    ALT: 42 U/L [7-56]              NORMAL (high-normal)
+    Alk Phos: 112 U/L [44-147]       NORMAL
+    Total Bilirubin: 1.3 mg/dL [0.1-1.2]  ** MILDLY ELEVATED **
+    Direct Bilirubin: 0.4 mg/dL [0.0-0.3]  ** MILDLY ELEVATED **
+    Albumin: 3.6 g/dL [3.5-5.5]     LOW-NORMAL
+    Total Protein: 6.8 g/dL [6.0-8.3] NORMAL
+
+- Additional labs ordered by this office:
+    Lipase: 42 U/L [0-160]           NORMAL
+    Amylase: 78 U/L [25-125]         NORMAL
+    Celiac panel (tTG-IgA): 2.8 U/mL [<20] NEGATIVE
+    H. pylori IgG: POSITIVE
+    Stool calprotectin: 38 mcg/g [<50] NORMAL
+    ESR: 24 mm/hr [0-15 for males]   ** ELEVATED **
+    Lactate dehydrogenase: 248 U/L [140-280] NORMAL (high-normal)
+    Hepatitis B sAg: Non-reactive
+    Hepatitis C Ab: Non-reactive
+
+CT ABDOMEN AND PELVIS WITH CONTRAST (performed 2025-02-07):
+- Liver: ** Mildly enlarged, measuring 17.2 cm in craniocaudal dimension (normal <16 cm). Hepatic parenchyma demonstrates mildly increased attenuation — differential includes hepatic steatosis (fatty infiltration), though attenuation pattern is not classic for steatosis. No focal hepatic lesions. No intrahepatic biliary ductal dilatation. **
+- Gallbladder: Normal. No gallstones. No wall thickening.
+- Pancreas: Normal in size and morphology. No pancreatic ductal dilatation.
+- Spleen: Normal (11.4 cm).
+- Kidneys: Normal size bilaterally. No hydronephrosis. No renal masses or stones.
+- Adrenals: Normal.
+- Colon: Scattered diverticula in the sigmoid colon without evidence of diverticulitis. No colonic wall thickening. No obstruction.
+- Small bowel: Normal caliber. No obstruction.
+- Appendix: Normal.
+- Lymph nodes: No pathologic lymphadenopathy.
+- No free fluid.
+- Impression: Mild hepatomegaly with mildly heterogeneous hepatic parenchyma. Sigmoid diverticulosis without diverticulitis.
+
+ESOPHAGOGASTRODUODENOSCOPY (EGD) — performed 2025-02-21:
+Indication: Chronic abdominal pain, nausea, weight loss, H. pylori positive
+Sedation: Propofol, monitored anesthesia care
+Findings:
+- Esophagus: Normal mucosa. No strictures, no Barrett's.
+- Gastroesophageal junction: Normal. No hiatal hernia.
+- Stomach: ** Mild erythematous gastritis in the antrum. No ulcerations. No masses. ** Biopsies obtained.
+- Duodenum: Normal mucosa. Biopsies obtained for celiac evaluation.
+Impression: Mild antral gastritis, likely H. pylori-associated. Normal duodenum.
+
+EGD Pathology:
+- Gastric antrum biopsies: Chronic active gastritis with H. pylori organisms identified. No intestinal metaplasia. No dysplasia. No malignancy.
+- Duodenal biopsies: Normal villous architecture. No intraepithelial lymphocytosis. No celiac disease.
+
+COLONOSCOPY — performed 2025-02-21 (same session):
+Indication: Chronic constipation, weight loss, age-appropriate screening
+Prep: Adequate (Boston Bowel Preparation Score 7/9)
+Sedation: Propofol, monitored anesthesia care
+Findings:
+- Rectum: Normal mucosa.
+- Sigmoid: ** Moderate diverticulosis without inflammation. ** No polyps.
+- Descending colon: Normal.
+- Transverse colon: Normal.
+- Ascending colon: Normal.
+- Cecum: Normal. Appendiceal orifice identified.
+- Terminal ileum: Intubated and visualized. Normal mucosa.
+Impression: Sigmoid diverticulosis. No polyps, masses, or mucosal abnormalities. No evidence of IBD, ischemic colitis, or malignancy.
+
+Colonoscopy Pathology: Random biopsies from ascending and descending colon — normal colonic mucosa. No microscopic colitis.
+
+=====================================
+ASSESSMENT
+=====================================
+Harold Kimura is a 51-year-old male with approximately 8 months of chronic colicky abdominal pain, constipation, nausea, and 18-lb weight loss. Comprehensive workup including CT abdomen, EGD, and colonoscopy reveals:
+
+1. H. pylori-positive chronic gastritis — treat with standard triple therapy
+2. Sigmoid diverticulosis — incidental, no complications
+3. Mild hepatomegaly — attributed to non-alcoholic fatty liver disease (NAFLD) in the setting of DM2 and metabolic syndrome
+4. Chronic abdominal pain with constipation — no structural etiology identified. Clinical presentation consistent with functional abdominal pain / IBS-constipation predominant (IBS-C), Rome IV criteria met (recurrent abdominal pain, average at least 1 day/week for past 3 months, associated with defecation/change in stool form)
+5. Weight loss — likely secondary to poor oral intake from pain and nausea
+
+PLAN:
+1. H. pylori eradication: Clarithromycin 500mg BID + amoxicillin 1g BID + omeprazole 20mg BID x 14 days
+2. Confirm eradication with urea breath test 4 weeks after completion
+3. IBS-C management:
+   a. Increase dietary fiber (goal 25-30g daily) — wife to assist with meal preparation
+   b. Continue MiraLAX daily
+   c. Linaclotide 145mcg daily if insufficient response to above
+   d. Avoid triggers — caffeine, carbonated beverages
+4. NAFLD — lifestyle modifications, weight management, diabetes optimization
+5. Nutritional counseling referral — given significant weight loss
+6. Caloric supplementation: Ensure Plus 2 cans daily between meals
+7. Follow-up in 8 weeks to reassess symptoms post-H. pylori treatment
+8. If symptoms persist after H. pylori eradication, consider further workup including gastric emptying study
+
+=====================================
+FOLLOW-UP NOTE: 2025-05-05
+=====================================
+Harold returns for follow-up. H. pylori eradication confirmed by negative urea breath test. However, abdominal symptoms have NOT improved. Pain continues, constipation persists, and he has lost an additional 4 lbs (now approximately 172 lbs). His wife states "the antibiotics didn't help at all — the stomach pain is exactly the same." She is frustrated and asks "could this be related to whatever is happening with his brain?"
+
+Repeat exam: Abdomen with continued mild diffuse tenderness. Hepatomegaly persists. Bowel sounds hypoactive.
+
+Assessment: Persistent functional abdominal pain/IBS-C, not responsive to H. pylori eradication. Suspect functional etiology in the setting of neurodegenerative disease — autonomic dysfunction associated with Alzheimer's disease can produce GI dysmotility.
+
+Plan:
+1. Start linaclotide 145mcg daily
+2. Continue MiraLAX
+3. Consider trial of low-dose TCA (amitriptyline 10mg) for visceral pain — discuss with PCP and neurology given cognitive status
+4. If no improvement in 8 weeks, consider gastric emptying study and colonic transit study
+
+=====================================
+RETROSPECTIVE ADDENDUM
+=====================================
+Added by: Dr. S. Patel, MD, FACG
+Date: 2026-02-10
+
+I have learned that Harold Kimura has been diagnosed with chronic lead poisoning (blood lead level 78 mcg/dL). In light of this, I must critically re-examine my evaluation.
+
+DIAGNOSTIC ERROR — FAILURE TO CONSIDER LEAD POISONING:
+
+The GI presentation I diagnosed as "IBS-C / functional abdominal pain" was almost certainly LEAD COLIC, a well-recognized manifestation of lead poisoning. The key features I documented but failed to integrate:
+
+1. COLICKY ABDOMINAL PAIN: Lead colic is characterized by diffuse, cramping abdominal pain that waxes and wanes in intensity — exactly the pattern Harold described. The episodic severe "attacks" with diaphoresis are classic for lead colic. I diagnosed IBS-C, but the severity of pain episodes (7-8/10 with diaphoresis) is atypical for IBS.
+
+2. CONSTIPATION: Lead toxicity causes intestinal smooth muscle spasm and autonomic dysfunction, producing severe constipation. This is a cardinal GI feature of plumbism.
+
+3. HEPATOMEGALY: I attributed the hepatomegaly to NAFLD, but lead is directly hepatotoxic and accumulates in liver tissue. Lead-induced hepatomegaly should have been considered, especially given the mildly elevated bilirubin (1.3 mg/dL) which can reflect lead-induced hemolysis. The CT description of "not classic for steatosis" was a clue that this was not simple NAFLD.
+
+4. ELEVATED BILIRUBIN: The mildly elevated total bilirubin (1.3) and direct bilirubin (0.4) could reflect lead-induced hemolysis and/or hepatocellular injury. I did not investigate this finding.
+
+5. WEIGHT LOSS: 18 pounds of weight loss in 10 months is significant and should not have been attributed solely to "poor oral intake." Lead poisoning causes anorexia, nausea, and metabolic disruption contributing to wasting.
+
+6. FAILURE TO RESPOND TO TREATMENT: Harold's symptoms did not improve after H. pylori eradication or IBS-directed therapy. Treatment-refractory GI symptoms should always prompt reconsideration of the diagnosis.
+
+7. THE WIFE'S QUESTION: At the follow-up visit, Harold's wife asked whether his GI symptoms could be "related to whatever is happening with his brain." She was identifying the pattern that I missed — the co-occurrence of neurological and gastrointestinal symptoms pointed toward a SINGLE SYSTEMIC ETIOLOGY, not two independent conditions. I attributed the GI-neurological connection to "autonomic dysfunction from Alzheimer's" rather than considering a unifying toxic diagnosis.
+
+8. METALLIC-TASTING WELL WATER: The wife mentioned during the history that their well water has "always had a metallic taste." I documented this but did not pursue it. In a patient with unexplained GI symptoms and cognitive decline, a complaint of metallic-tasting water should trigger concern about water contamination, including heavy metals.
+
+WHAT I SHOULD HAVE DONE:
+The combination of colicky abdominal pain + severe constipation + weight loss + hepatomegaly + mildly elevated bilirubin + microcytic anemia + cognitive decline in a 51-year-old farmer should have prompted:
+a) Detailed occupational and environmental exposure history
+b) Blood lead level
+c) Peripheral blood smear (which would have shown basophilic stippling)
+d) Urine heavy metal panel
+
+Instead, I diagnosed IBS-C and NAFLD — conditions of exclusion — without excluding the treatable cause that was ultimately responsible for all of his symptoms.
+
+Electronically signed: Dr. S. Patel, MD, FACG
+Initial consult signed: 2025-02-10 16:30
+Follow-up signed: 2025-05-05 14:15
+Addendum signed: 2026-02-10 10:45

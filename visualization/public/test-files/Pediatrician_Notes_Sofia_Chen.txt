@@ -1,0 +1,114 @@
+PEDIATRIC OFFICE VISIT NOTES — COMPILED
+========================================
+Facility: Abrams Pediatrics
+Patient: Sofia Chen  DOB: 2008-09-14  MRN: 4471892
+PCP: Dr. L. Abrams, MD, FAAP
+
+========================================
+VISIT 1: 2025-08-22
+========================================
+CHIEF COMPLAINT: Near-syncope during soccer practice
+
+HPI: Sofia is a healthy 16yo (turning 17 next month) varsity soccer player who nearly fainted during practice yesterday. She reports feeling lightheaded, vision "going gray," and needing to sit down. She did not lose consciousness. No prior history of syncope. She had practice in 92F heat.
+
+EXAM: Unremarkable. HR 88, BP 110/70. Well-hydrated on exam today.
+
+ASSESSMENT: Exercise-associated near-syncope, likely heat/dehydration related.
+
+PLAN:
+- Increase fluid intake during practice
+- Sports drink with electrolytes
+- Return if recurs
+
+========================================
+VISIT 2: 2025-09-18
+========================================
+CHIEF COMPLAINT: Palpitations, racing heart
+
+HPI: Sofia returns reporting 3 weeks of intermittent palpitations, worse at night. Reports difficulty falling asleep due to "heart pounding." Denies chest pain or dyspnea. No further syncope but reports decreased exercise tolerance — "can't keep up at practice anymore."
+
+EXAM: HR 110 resting (repeated x2, confirmed). BP 126/72. Rhythm regular. No murmur appreciated at this visit. Patient appears anxious.
+
+ASSESSMENT: Sinus tachycardia with palpitations. Most likely anxiety-related given high-achieving student-athlete presentation. Will monitor.
+
+PLAN:
+- Reassurance
+- Sleep hygiene counseling
+- Follow-up in 4 weeks
+- If persists, consider cardiology referral
+
+========================================
+VISIT 3: 2025-10-15
+========================================
+CHIEF COMPLAINT: Weight loss, increased appetite, frequent urination
+
+HPI: Sofia has lost 8 pounds since last visit (138 → 130 lbs). Mother is very concerned. Sofia reports eating well — "more than normal actually" — but losing weight. Reports increased thirst (drinks 4-5 water bottles daily) and frequent urination (8-10 times/day). Palpitations continue.
+
+EXAM: HR 108. BP 124/68. Wt 130 lbs (was 138 in August). Thin but not cachectic.
+
+LABS:
+- Fasting glucose: 95 mg/dL [<100] — Normal
+- HbA1c: 5.2% [<5.7] — Normal
+- CBC: Within normal limits
+- BMP: Potassium 3.6 (low-normal), Calcium not ordered
+
+ASSESSMENT: Unintentional weight loss with polydipsia/polyuria. Diabetes mellitus ruled out. Consider stress-related weight loss vs. possible eating disorder given age demographic.
+
+PLAN:
+- Psychiatric referral to evaluate for eating disorder
+- Continue monitoring weight
+- Return in 4 weeks
+
+** NOTE: In retrospect, thyroid function tests should have been ordered at this visit. The combination of weight loss + increased appetite + tachycardia + polydipsia is a textbook presentation of hyperthyroidism. A basic metabolic panel with calcium should also have been checked. I documented potassium 3.6 (low-normal) but did not order calcium. **
+
+========================================
+VISIT 4: 2025-11-20
+========================================
+CHIEF COMPLAINT: Follow-up weight loss. Psychiatry report received.
+
+HPI: Sofia has now lost 12 lbs total (138 → 126). Psychiatrist Dr. Okonkwo evaluated and found NO eating disorder. Psychiatrist noted tremor, diaphoresis, and recommended urgent thyroid testing.
+
+** Dr. Okonkwo's recommendations received 2025-11-10. Thyroid labs were not ordered at that time due to scheduling — next available appointment was this visit, 10 days later. **
+
+She also reports new symptom: chronic loose stools, 4-5 times daily x 2 weeks. Reports abdominal cramping.
+
+EXAM: HR 112. BP 128/70. Wt 126 lbs. Fine bilateral hand tremor present. Warm, moist palms.
+
+ASSESSMENT:
+1. Progressive weight loss — eating disorder ruled out by psychiatry
+2. New-onset chronic diarrhea
+3. Tachycardia, persistent
+4. Tremor noted (new finding)
+
+PLAN:
+- Cardiology referral for tachycardia evaluation and syncope history
+- GI referral for chronic diarrhea
+- ** Thyroid testing: DEFERRED to cardiology or GI workup — one of the specialists can order as part of their workup **
+
+** NOTE: This was a critical error. Dr. Okonkwo specifically requested urgent thyroid testing on 11/10. By deferring to specialists, the test was delayed an additional 2+ months (cardiology saw her 12/18, ordered thyroid labs, but results were not acted upon in my office). The cascade of specialist referrals without a unifying diagnostic hypothesis led to fragmented care. **
+
+========================================
+VISIT 5: 2026-01-15
+========================================
+CHIEF COMPLAINT: Follow-up. Multiple specialist reports received.
+
+HPI: Sofia continues to worsen. Now 122 lbs (16 lb total loss). Too fatigued for school some days. Missing soccer entirely. Mother is increasingly frustrated with lack of diagnosis.
+
+SPECIALIST REPORTS RECEIVED:
+- Psychiatry (11/10): No eating disorder. Recommended urgent thyroid testing.
+- Cardiology (12/18): Mild MVP, sinus tachycardia. Started metoprolol. Recommended URGENT thyroid testing and endocrine workup. ** Flagged that ER electrolytes (K 3.1, Ca 11.8) were inappropriately dismissed. **
+- GI (12/30): Celiac negative, IBD ruled out. Diagnosed IBS-D.
+
+** CRITICAL REVIEW: Both the psychiatrist AND the cardiologist recommended urgent thyroid testing. The cardiologist also flagged the dismissed electrolyte abnormalities. As of today's visit, thyroid labs have STILL not been drawn — 2 months after first recommendation. **
+
+PLAN:
+- Ordered TSH and Free T4 today — results expected in 3-5 days
+- ** Lab order was placed but patient had her second syncopal episode with ER visit on 1/28 before results were obtained from our office lab **
+- Full metabolic workup including calcium, PTH to be ordered
+- Endocrinology referral pending lab results
+
+DOCUMENTATION NOTE:
+This case illustrates a failure of care coordination. Three specialists identified clues pointing to a systemic endocrine disorder, but the absence of a unifying diagnostic framework — and the deferral of simple thyroid labs across multiple visits — resulted in a diagnostic delay of approximately 5 months from initial presentation.
+
+Electronically signed: Dr. L. Abrams, MD, FAAP
+Records compiled: 2026-02-05

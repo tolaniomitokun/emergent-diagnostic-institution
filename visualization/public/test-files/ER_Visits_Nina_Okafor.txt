@@ -1,0 +1,382 @@
+EMERGENCY DEPARTMENT VISIT REPORTS — COMPILED
+===============================================
+Facility: Mercy Regional Medical Center — Emergency Department
+Patient: Nina Okafor  DOB: 1997-09-14  MRN: 4291738
+Compiled by: Medical Records Department
+Compilation date: 2026-02-10
+
+Note: Two ER visits compiled. Both visits occurred at Mercy Regional Medical Center.
+
+===============================================
+VISIT 1: ER VISIT — 3 YEARS AGO
+===============================================
+Date: 2023-02-17  Time of Arrival: 02:12  Time of Disposition: 08:45
+Attending Physician: Dr. T. Morrison, MD, FACEP
+Resident: Dr. S. Kowalski, PGY-2
+
+===============================================
+TRIAGE
+===============================================
+Triage Time: 02:12
+Triage Nurse: R. Gutierrez, RN
+Chief Complaint: "My back and hips are killing me — worst pain of my life"
+ESI Level: 3 (Urgent)
+Triage Vitals:
+  HR: 112 bpm
+  BP: 148/92 mmHg
+  RR: 20 breaths/min
+  SpO2: 97% on room air
+  Temp: 99.8F (37.7C)
+  Pain: 9/10
+
+Triage Notes: 25yo African American F presenting with acute onset severe bilateral lower back and hip pain that began approximately 4 hours ago while sleeping. Woke from sleep in severe distress. Describes deep, boring, bone-level pain in lumbar spine and bilateral hips. Unable to find comfortable position. Denies trauma, falls, heavy lifting. No numbness/tingling in legs. No urinary symptoms. No bowel changes. No prior similar episodes. Started on cardiac monitor. IV access obtained.
+
+===============================================
+EMERGENCY PHYSICIAN EVALUATION
+===============================================
+Time: 02:38
+
+HISTORY OF PRESENT ILLNESS:
+Nina is a 25-year-old African American female graphic designer who presents at 2 AM with approximately 4 hours of severe bilateral lower back and bilateral hip pain. She was awakened from sleep by the pain, which she describes as "deep, like someone is crushing my bones from the inside." The pain is constant, non-radiating, 9/10 severity, and is not relieved by any position. She took ibuprofen 400mg at home without relief. She denies any preceding trauma, heavy lifting, or falls. She denies fever, chills, or night sweats (low-grade temp noted at triage). She denies dysuria, urinary frequency, hematuria, or flank pain radiation. She denies any bowel changes or abdominal pain. She reports no prior history of kidney stones. She denies recent travel or immobilization.
+
+She reports being otherwise healthy with no significant medical history. She does not take any regular medications. She denies alcohol, tobacco, or drug use.
+
+PAST MEDICAL HISTORY: None reported
+SURGICAL HISTORY: None
+MEDICATIONS: None
+ALLERGIES: NKDA
+FAMILY HISTORY: Not obtained in detail. Patient in distress.
+SOCIAL HISTORY: Graphic designer. Non-smoker. Occasional alcohol. No illicit drugs.
+
+PHYSICAL EXAMINATION:
+General: Alert, oriented, in significant distress. Writhing on stretcher. Diaphoretic. Unable to lie still.
+HEENT: Anicteric sclerae. Mucous membranes moist. No pallor noted (exam conducted under fluorescent lighting).
+CV: Tachycardic, regular rhythm. No murmurs.
+Lungs: Clear to auscultation bilaterally. No wheezes, crackles, or rhonchi.
+Abdomen: Soft, non-distended. Mild diffuse tenderness without guarding or rebound. No CVA tenderness bilaterally.
+Back: Significant tenderness to palpation over bilateral paraspinal muscles L3-S1 and bilateral sacroiliac joints. No midline spinous process tenderness. No step-off deformity. Full range of motion limited by pain.
+Hips: Bilateral hip pain with active and passive range of motion. No effusion palpable. FABER test limited by pain bilaterally.
+Neuro: Motor and sensory exam grossly intact bilateral lower extremities. Straight leg raise negative bilaterally (limited by pain). Deep tendon reflexes 2+ and symmetric. No saddle anesthesia. Rectal tone normal.
+Extremities: No edema. No joint swelling. No erythema.
+Skin: No rashes. No bruising. No track marks.
+
+===============================================
+DIAGNOSTIC WORKUP
+===============================================
+
+LABORATORY RESULTS:
+----------------------------------
+** NO CBC WAS ORDERED **
+** NO RETICULOCYTE COUNT **
+** NO HEMOLYSIS LABS **
+
+URINALYSIS:
+  Color:            Yellow, clear
+  Specific Gravity: 1.022          [1.005-1.030]   NORMAL
+  pH:               6.5            [5.0-8.0]       NORMAL
+  Protein:          Negative
+  Blood:            Negative
+  Glucose:          Negative
+  Leukocyte Est:    Negative
+  Nitrite:          Negative
+  Bilirubin:        Negative
+
+BASIC METABOLIC PANEL:
+  Sodium:           139 mEq/L     [136-145]       NORMAL
+  Potassium:        4.3 mEq/L     [3.5-5.0]       NORMAL
+  Chloride:         103 mEq/L     [98-106]        NORMAL
+  CO2:              23 mEq/L      [23-29]         NORMAL (low-normal)
+  BUN:              14 mg/dL      [7-20]          NORMAL
+  Creatinine:       0.7 mg/dL     [0.6-1.2]       NORMAL
+  Glucose:          118 mg/dL     [70-100]        MILDLY ELEVATED (stress response)
+  Calcium:          9.6 mg/dL     [8.5-10.5]      NORMAL
+
+LIPASE:
+  Lipase:           34 U/L        [0-160]         NORMAL
+
+IMAGING:
+----------------------------------
+CT ABDOMEN/PELVIS WITHOUT CONTRAST — 03:45
+Interpreted by: Dr. V. Ramirez, Radiology
+
+INDICATION: Acute severe bilateral back and hip pain. Rule out renal stone, retroperitoneal pathology.
+
+FINDINGS:
+- Kidneys: Normal size and attenuation bilaterally. No hydronephrosis. No renal calculi identified. No perinephric stranding.
+- Ureters: Non-dilated bilaterally. No ureteral calculus identified.
+- Bladder: Normal.
+- Liver, spleen, pancreas, gallbladder, adrenal glands: Unremarkable.
+- Spleen: Mildly prominent at 13.2 cm (upper limit of normal). No focal lesion.
+- Aorta: Normal caliber. No aneurysm.
+- Lymph nodes: No pathologic lymphadenopathy.
+- Osseous structures: No fracture. No lytic or blastic lesions. No avascular necrosis identified. Sacroiliac joints appear normal.
+- Musculature: No psoas abscess. No hematoma.
+
+IMPRESSION:
+1. No renal calculus identified. No hydronephrosis.
+2. No acute abdominal or pelvic pathology.
+3. Mild splenomegaly (13.2 cm) — may be a normal variant. Clinical correlation recommended.
+4. Osseous structures unremarkable.
+
+** NOTE: The mild splenomegaly documented on this CT scan was not addressed in the clinical assessment. Splenomegaly in a young African American woman with acute bone pain could be a clue to sickle cell disease or other hemoglobinopathy. This incidental finding was not followed up. **
+
+===============================================
+CLINICAL COURSE
+===============================================
+Patient observed for 6.5 hours. Pain management:
+- Morphine 4mg IV at 02:50 — minimal relief after 30 minutes
+- Morphine 4mg IV at 03:30 — pain reduced from 9/10 to 6/10
+- Ketorolac 30mg IV at 04:15 — pain further reduced to 4/10
+- Oral hydrocodone/acetaminophen 5/325 at 06:00 — pain stable at 3-4/10
+Patient able to ambulate with mild residual discomfort. Vital signs normalized: HR 88, BP 128/78, afebrile.
+
+===============================================
+ASSESSMENT AND MEDICAL DECISION MAKING
+===============================================
+25-year-old female presenting with acute severe bilateral lower back and hip pain of unclear etiology.
+
+DIFFERENTIAL CONSIDERED:
+1. Renal colic / nephrolithiasis — RULED OUT by CT and urinalysis
+2. Musculoskeletal pain / muscle spasm — FAVORED (diagnosis of exclusion)
+3. Sacroiliitis — No imaging evidence
+4. Disc herniation — No radicular symptoms, no neurologic deficits
+5. Vertebral compression fracture — No fracture on CT
+6. Sickle cell vaso-occlusive crisis — NOT CONSIDERED
+
+PRIMARY DIAGNOSIS: Acute musculoskeletal pain, bilateral lower back and hips. Possible kidney stone that passed prior to imaging.
+
+===============================================
+DISPOSITION
+===============================================
+Time: 08:45
+Disposition: Discharge to home
+Condition: Improved, stable
+
+DISCHARGE INSTRUCTIONS:
+1. Hydrocodone/acetaminophen 5/325 — one tablet every 6 hours as needed for pain, #15
+2. Ibuprofen 600mg every 8 hours with food for 5 days
+3. Warm compresses to back and hips
+4. Follow up with PCP if pain recurs or does not fully resolve within 7-10 days
+5. Return to ER if: inability to urinate, blood in urine, fever >101F, worsening pain, numbness/weakness in legs
+
+FOLLOW-UP: PCP as needed
+
+Electronically signed: Dr. T. Morrison, MD, FACEP
+Note signed: 2023-02-17 09:02
+
+===============================================
+VISIT 2: ER VISIT — 2.5 YEARS AGO
+===============================================
+Date: 2023-08-05  Time of Arrival: 18:42  Time of Disposition: 01:18 (08/06)
+Attending Physician: Dr. A. Patel, MD, FACEP
+Resident: Dr. M. Dominguez, PGY-3
+
+===============================================
+TRIAGE
+===============================================
+Triage Time: 18:42
+Triage Nurse: J. Fitzgerald, RN
+Chief Complaint: "Chest pain and both arms are aching really bad"
+ESI Level: 2 (Emergent — chest pain in young female with tachycardia)
+Triage Vitals:
+  HR: 108 bpm
+  BP: 140/88 mmHg
+  RR: 24 breaths/min
+  SpO2: 96% on room air
+  Temp: 100.4F (38.0C)
+  Pain: 8/10
+
+Triage Notes: 25yo African American F presenting with acute chest pain and bilateral arm pain x 8 hours. Describes pain as deep, aching, diffuse across anterior chest wall and both upper arms. No radiation to jaw or left arm specifically. No shortness of breath. Tachycardic. Low-grade fever. Prior ER visit 6 months ago for similar episode of acute pain (back/hips at that time). Placed in chest pain protocol room. ECG obtained at triage.
+
+===============================================
+EMERGENCY PHYSICIAN EVALUATION
+===============================================
+Time: 18:58
+
+HISTORY OF PRESENT ILLNESS:
+Nina is a 25-year-old African American female who presents with approximately 8 hours of severe bilateral arm pain and diffuse anterior chest wall pain. The pain began gradually this morning while working at her desk and has progressively worsened. She describes it as a deep, aching, "squeezing" pain in both upper arms and across her sternum and anterior ribs. The pain is not clearly pleuritic — it is present at rest and does not significantly change with respiration. She denies radiation to the jaw, neck, or left arm specifically. She denies shortness of breath, palpitations, or diaphoresis.
+
+She reports one prior episode of acute severe pain approximately 6 months ago involving her back and hips, which was evaluated at this ER and attributed to musculoskeletal pain. She reports several milder episodes of pain in various locations (knees, shoulders, ribs) in between that she managed at home with ibuprofen.
+
+She appears anxious and tearful, stating "this is the second time this year I've had terrible pain come out of nowhere."
+
+REVIEW OF SYSTEMS:
+Positive: Chest pain, bilateral arm pain, low-grade fever, fatigue, anxiety
+Negative: Dyspnea, cough, hemoptysis, leg swelling, headache, abdominal pain, dysuria, rash
+
+PAST MEDICAL HISTORY:
+- Prior ER visit 2/2023 — acute back/hip pain (musculoskeletal)
+MEDICATIONS: Ibuprofen PRN
+ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION:
+General: Alert, oriented, mildly distressed. Appears anxious. Tearful intermittently. Speaking in full sentences without difficulty.
+HEENT: Sclerae mildly icteric (documented but not commented upon in assessment). Conjunctivae slightly pale. Oral mucosa moist.
+CV: Tachycardic, regular rhythm. No murmurs, rubs, or gallops.
+Lungs: Clear to auscultation bilaterally. No wheezes, rhonchi, or crackles.
+Chest wall: Mild tenderness to palpation over bilateral costochondral junctions (2nd-5th ribs bilaterally). Reproducible tenderness with palpation at sternum.
+Extremities (upper): Bilateral upper arm tenderness to palpation, diffuse, no focal swelling, no erythema. Full ROM limited by pain. Grip strength 4/5 bilaterally (limited by pain). No joint effusions.
+Extremities (lower): No edema. No calf tenderness.
+Skin: No rashes. No petechiae. No bruising.
+Neuro: Alert, oriented x4. Cranial nerves intact. Strength and sensation grossly intact.
+
+** NOTE: Scleral icterus was documented in the physical examination but was not addressed in the differential diagnosis or assessment. Scleral icterus in a young African American woman with recurrent severe pain crises is a cardinal sign of sickle cell disease. **
+
+ECG (18:48):
+- Sinus tachycardia at 106 bpm
+- Normal axis
+- Normal intervals (PR 162ms, QRS 88ms, QTc 432ms)
+- No ST-T wave changes
+- No ST elevation or depression
+- No T-wave inversions
+- No evidence of RV strain
+
+===============================================
+DIAGNOSTIC WORKUP
+===============================================
+
+LABORATORY RESULTS:
+----------------------------------
+CBC:
+  WBC:              11.2 K/uL     [4.5-11.0]      HIGH-NORMAL (stress/pain response)
+  RBC:              3.6 M/uL      [4.0-5.5]       ** LOW **
+  Hemoglobin:       10.1 g/dL     [12.0-16.0]     ** LOW **
+  Hematocrit:       30.8%         [36-46]          ** LOW **
+  MCV:              86 fL         [80-100]         NORMAL
+  MCH:              28.1 pg       [27-33]          NORMAL
+  MCHC:             32.8 g/dL     [32-36]          NORMAL
+  RDW:              17.2%         [11.5-14.5]      ** ELEVATED **
+  Platelets:        398 K/uL      [150-400]       NORMAL (high-normal)
+
+** Hemoglobin 10.1 in a 25-year-old female was documented. ER physician attributed this to "likely menstrual losses — recommend iron supplementation and PCP follow-up." No reticulocyte count ordered. No hemolysis labs. No peripheral smear. RDW of 17.2% (indicating significant anisocytosis) was not commented upon. **
+
+CARDIAC MARKERS:
+  Troponin I (initial):    <0.01 ng/mL  [<0.04]       NORMAL
+  Troponin I (3-hr repeat): <0.01 ng/mL  [<0.04]       NORMAL
+  BNP:              32 pg/mL      [<100]          NORMAL
+
+BASIC METABOLIC PANEL:
+  Sodium:           138 mEq/L     [136-145]       NORMAL
+  Potassium:        4.1 mEq/L     [3.5-5.0]       NORMAL
+  Chloride:         101 mEq/L     [98-106]        NORMAL
+  CO2:              22 mEq/L      [23-29]         ** LOW ** (mild metabolic acidosis)
+  BUN:              15 mg/dL      [7-20]          NORMAL
+  Creatinine:       0.8 mg/dL     [0.6-1.2]       NORMAL
+  Glucose:          124 mg/dL     [70-100]        ELEVATED (stress response)
+
+COAGULATION:
+  D-dimer:          Not ordered (no clinical suspicion for PE — CT chest without contrast only)
+
+IMAGING:
+----------------------------------
+CHEST X-RAY (PA and Lateral) — 19:15
+Interpreted by: Dr. B. Okwu, Radiology
+
+FINDINGS:
+- Lungs clear bilaterally. No consolidation, effusion, or pneumothorax.
+- Cardiac silhouette normal in size and configuration.
+- Mediastinal contours normal.
+- No rib fractures.
+- Osseous structures: unremarkable.
+
+IMPRESSION: Normal chest radiograph.
+
+CT CHEST WITHOUT CONTRAST — 20:30
+Interpreted by: Dr. B. Okwu, Radiology
+
+INDICATION: Chest wall pain, rule out osseous pathology, evaluate for rib pathology.
+
+** NOTE: CT was performed WITHOUT IV contrast. This was not a PE-protocol study. Pulmonary arteries were not evaluated. **
+
+FINDINGS:
+- Lungs: Clear. No consolidation, ground-glass opacity, or mass.
+- Pleura: No effusion. No pneumothorax.
+- Heart and pericardium: Normal. No pericardial effusion.
+- Mediastinum: No lymphadenopathy. Normal great vessels (limited evaluation without contrast).
+- Chest wall and ribs: No fracture. No lytic lesions. No periosteal reaction.
+- Visualized portions of upper abdomen: Spleen measures 13.5 cm — mildly prominent.
+- Incidental: Mild vertebral body marrow heterogeneity noted at T8-T10. Significance uncertain. May be a normal variant.
+
+IMPRESSION:
+1. No acute thoracic pathology.
+2. No rib fracture or osseous lesion.
+3. Mild splenomegaly (13.5 cm) — similar to prior CT abdomen from 2/2023. Clinical correlation recommended.
+4. Mild vertebral marrow heterogeneity at T8-T10 — nonspecific, may warrant follow-up MRI if clinically indicated.
+
+** NOTE: Splenomegaly was again documented (second imaging study showing this) and again not addressed clinically. Vertebral marrow heterogeneity at T8-T10 — in retrospect, this likely represents bone marrow expansion from chronic hemolysis and extramedullary hematopoiesis, a well-documented finding in sickle cell disease. **
+
+===============================================
+CLINICAL COURSE
+===============================================
+Patient observed for 6.5 hours. Pain management:
+- Ketorolac 30mg IV at 19:10 — minimal relief
+- Morphine 4mg IV at 19:45 — pain reduced 8/10 to 5/10
+- Oral naproxen 500mg at 22:00 — pain stable at 4-5/10
+- Diazepam 2mg PO at 22:30 for anxiety — patient calmer, pain 3-4/10
+
+Serial troponins negative. Vital signs stabilized: HR 94, BP 130/82, temp 99.4F. Patient able to ambulate. Pain controlled on oral medications.
+
+===============================================
+ASSESSMENT AND MEDICAL DECISION MAKING
+===============================================
+25-year-old female presenting with acute chest wall and bilateral upper arm pain, recurrent episode (prior ER visit 6 months ago for back/hip pain).
+
+DIFFERENTIAL CONSIDERED:
+1. Acute coronary syndrome — RULED OUT by serial troponins and ECG
+2. Pulmonary embolism — Low clinical suspicion (no dyspnea, no leg swelling, Wells score low). CT without contrast did not evaluate PAs. Not pursued further.
+3. Costochondritis — FAVORED (reproducible chest wall tenderness)
+4. Musculoskeletal pain with anxiety component — SECONDARY DIAGNOSIS
+5. Pneumonia — No infiltrate on CXR
+6. Rib fracture — None on CT
+7. Sickle cell vaso-occlusive crisis — NOT CONSIDERED
+
+PRIMARY DIAGNOSIS: Costochondritis
+SECONDARY DIAGNOSIS: Anxiety-related pain amplification. Mild anemia (recommend PCP follow-up for iron supplementation).
+
+NOTE: Physician documentation includes: "Young woman with recurrent episodes of severe pain in different body regions, likely musculoskeletal in nature with significant anxiety component. Pain appears disproportionate to objective findings. Reassured patient and recommended stress management techniques and PCP follow-up for anxiety evaluation."
+
+===============================================
+DISPOSITION
+===============================================
+Time: 01:18 (08/06)
+Disposition: Discharge to home
+Condition: Improved, stable
+
+DISCHARGE INSTRUCTIONS:
+1. Naproxen 500mg every 12 hours with food for 7 days
+2. Diazepam 2mg as needed for anxiety, #10 (short course, follow up with PCP)
+3. Warm compresses to chest and arms
+4. Follow up with PCP within 1-2 weeks for anemia evaluation and anxiety management
+5. Consider referral to rheumatology if joint/bone pain recurs
+6. Return to ER if: chest pain with shortness of breath, palpitations, fainting, fever >101F, worsening symptoms
+
+FOLLOW-UP: PCP within 1-2 weeks
+
+Electronically signed: Dr. A. Patel, MD, FACEP
+Note signed: 2023-08-06 01:42
+
+===============================================
+RETROSPECTIVE ADDENDUM — BOTH VISITS
+===============================================
+Added by: Emergency Department Quality Review Committee
+Date: 2026-02-10
+
+This retrospective analysis addresses both ER visits in the context of the patient's subsequent clinical course, which revealed hemolytic anemia with markers consistent with sickle cell disease (hemoglobin electrophoresis pending at time of this addendum).
+
+VISIT 1 (02/2023) — CRITICAL OMISSIONS:
+1. NO CBC WAS ORDERED during the first visit. A 25-year-old presenting with acute severe bone pain warranted basic blood work including a complete blood count. Had a CBC been drawn, anemia would likely have been identified 6 months earlier.
+2. The splenomegaly (13.2 cm) documented on CT abdomen was not addressed. Splenomegaly in a young patient with acute bone pain should raise concern for a hemoglobinopathy, hematologic malignancy, or hemolytic process.
+3. The pain pattern — acute onset, bilateral, deep "bone-crushing" quality, waking from sleep, requiring high-dose opioids — is characteristic of a vaso-occlusive crisis. The diagnosis of "musculoskeletal pain / kidney stone that passed" was inadequate given the severity and distribution of symptoms.
+
+VISIT 2 (08/2023) — CRITICAL OMISSIONS:
+1. RECURRENT SEVERE PAIN CRISES IN A YOUNG AFRICAN AMERICAN WOMAN SHOULD HAVE TRIGGERED SICKLE CELL SCREENING. The pattern of acute severe pain affecting different body regions on separate occasions (back/hips first visit, chest/arms second visit) is the hallmark presentation of vaso-occlusive crises. This was the single most important diagnostic clue that was missed.
+2. SCLERAL ICTERUS WAS DOCUMENTED BUT NOT INVESTIGATED. The physical exam noted "sclerae mildly icteric" — this finding was never addressed in the assessment or plan. Scleral icterus in a young woman with recurrent pain crises and anemia is pathognomonic for hemolytic anemia and should have prompted LDH, haptoglobin, reticulocyte count, and bilirubin fractionation at minimum.
+3. ANEMIA (Hgb 10.1) WAS ATTRIBUTED TO MENSTRUAL LOSSES WITHOUT INVESTIGATION. No iron studies, no reticulocyte count, no peripheral smear were ordered. The elevated RDW (17.2%) was not commented upon. Menstrual losses causing anemia in a 25-year-old is possible but should not be assumed without confirming iron deficiency.
+4. PAIN CHARACTERIZED AS "ANXIETY-RELATED" AND "DISPROPORTIONATE TO FINDINGS." Research has documented that pain reports from African American patients — particularly women — are systematically undertreated and more frequently attributed to psychological causes. The characterization of severe pain as anxiety-related, combined with a prescription for diazepam, reflects well-documented disparities in pain management.
+5. SPLENOMEGALY WAS DOCUMENTED ON CT FOR THE SECOND TIME and again not addressed clinically.
+6. VERTEBRAL MARROW HETEROGENEITY was an additional imaging clue to underlying hematologic disease that was not pursued.
+
+Had sickle cell screening been performed at either ER visit, the diagnosis would have been established 1.5-3 years earlier, potentially preventing the bilateral PE, progression of leg ulcers, and years of undertreated pain and diagnostic uncertainty.
+
+Electronically reviewed: Emergency Department Quality Review Committee
+Date: 2026-02-10

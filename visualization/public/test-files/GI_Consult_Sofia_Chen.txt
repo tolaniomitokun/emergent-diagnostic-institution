@@ -1,0 +1,60 @@
+GASTROENTEROLOGY CONSULTATION
+==============================
+Facility: Pacific Digestive Health Center
+Date: 2025-12-30
+Patient: Sofia Chen  DOB: 2008-09-14  MRN: 4471892
+Referring Physician: Dr. L. Abrams, Pediatrics
+Gastroenterologist: Dr. P. Ramirez, MD
+
+REASON FOR REFERRAL:
+17yo F with 3-month history of chronic diarrhea (4-5 loose stools daily), weight loss. Evaluate for celiac disease vs. IBD vs. other etiology.
+
+HISTORY:
+Sofia presents with progressive diarrhea over the past 3 months. She describes 4-5 loose, non-bloody stools daily. She denies mucus, melena, or hematochezia. She reports mild, diffuse abdominal cramping but no focal pain. She denies nausea or vomiting. She reports weight loss of 12 pounds.
+
+She has been evaluated by psychiatry who ruled out eating disorder. She reports good appetite with continued weight loss.
+
+She also reports recent syncope during athletics and was seen by cardiology who found mild MVP and tachycardia. She is currently on metoprolol 25mg BID.
+
+REVIEW OF SYSTEMS:
+- Reports increased frequency of bowel movements, especially after meals
+- No nocturnal diarrhea (this argues against IBD)
+- Heat intolerance
+- Palpitations (on beta-blocker)
+- Tremor
+- Fatigue
+
+PHYSICAL EXAM:
+- VS: HR 94 (on metoprolol), BP 122/72, Wt 124 lbs, Ht 5'6"
+- Abdomen: Soft, non-tender, non-distended. Normoactive bowel sounds (possibly hyperactive). No hepatosplenomegaly. No masses.
+- Rectal: Deferred (patient is minor, examination not clinically indicated)
+
+LABS ORDERED AND RESULTS:
+- Celiac Panel (tTG-IgA): 3.2 U/mL [<20] — NEGATIVE
+- Total IgA: 245 mg/dL [normal] — rules out IgA deficiency false negative
+- H. pylori stool antigen: NEGATIVE
+- Stool calprotectin: 42 mcg/g [<50] — NORMAL (argues strongly against IBD)
+- Stool culture: No pathogens
+- C. difficile toxin: NEGATIVE
+- Ova and parasites: NEGATIVE
+- Stool elastase: >500 mcg/g [>200] — NORMAL (rules out pancreatic insufficiency)
+- CRP: 0.8 mg/L [<3.0] — NORMAL
+- ESR: 6 mm/hr [0-20] — NORMAL
+
+ASSESSMENT:
+Chronic diarrhea in a 17-year-old female. Celiac disease, IBD, infectious etiology, and pancreatic insufficiency have been ruled out. Normal inflammatory markers make IBD very unlikely.
+
+DIAGNOSIS: Irritable bowel syndrome, diarrhea-predominant (IBS-D), likely stress-related given her multiple recent medical evaluations and academic/athletic disruptions.
+
+PLAN:
+1. Low-FODMAP diet trial for 6 weeks
+2. Loperamide 2mg PRN for acute episodes
+3. Consider psyllium fiber supplementation
+4. Follow-up in 8 weeks
+
+** NOTE ADDED IN RETROSPECT (Dr. Ramirez, 2026-02-01): **
+** Upon learning of Sofia's subsequent ER visit revealing thyrotoxicosis (TSH 0.08, FT4 4.2), I want to document that thyrotoxicosis is a well-known cause of increased GI motility and diarrhea. Her diarrhea was almost certainly a manifestation of hyperthyroidism, NOT IBS. I did not order thyroid function tests at the time of my consultation because I was not aware that the cardiologist had recommended thyroid testing 12 days earlier and it had not yet been done. Better communication between providers may have prevented this diagnostic delay. I should also have given more weight to the weight-loss-with-increased-appetite pattern, which is atypical for IBS and more consistent with a hypermetabolic state. **
+
+Electronically signed: Dr. P. Ramirez, MD
+Date signed: 2025-12-30 14:20
+Addendum signed: 2026-02-01 09:15

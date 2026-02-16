@@ -1,0 +1,243 @@
+DERMATOLOGY CONSULTATION NOTES — COMPILED
+==========================================
+Facility: Metro Skin & Wound Care Associates
+Patient: Nina Okafor  DOB: 1997-09-14  MRN: 4291738
+Referring Physician: Dr. L. Greenfield, MD (Rheumatology) — Visit 1; Self-referred — Visit 2
+Dermatologist: Dr. M. Cho, MD, FAAD
+Compiled: 2026-02-10
+
+==========================================
+VISIT 1: 2024-06-04
+==========================================
+
+REFERRAL INFORMATION:
+Referred by Dr. L. Greenfield (Rheumatology) for evaluation of non-healing left ankle ulcer in a 26-year-old woman with fibromyalgia. Ulcer present for approximately 3 weeks, not responding to topical antibiotics prescribed by PCP.
+
+CHIEF COMPLAINT: "I have a sore on my ankle that won't heal."
+
+HPI:
+Nina is a 26-year-old African American female graphic designer who presents with a painful ulcer on her left medial malleolus that she first noticed approximately 5-6 weeks ago. She initially noted a small area of skin discoloration and tenderness, which progressed to an open wound over 1-2 weeks. Her PCP prescribed mupirocin ointment and adhesive bandages. The ulcer has not improved after 4 weeks of topical antibiotic therapy and has slightly enlarged.
+
+She describes the pain as constant burning/stinging at the ulcer site, rated 4/10 at rest and 6/10 with ambulation or contact. The area weeps clear-to-yellowish fluid intermittently. She denies purulent drainage, foul odor, or spreading redness.
+
+She reports no history of trauma to the area. She denies insect bites, burns, or exposure to irritants. She denies any prior leg ulcers. She denies varicose veins, leg swelling, or prior DVT. She denies diabetes, peripheral vascular disease, or smoking.
+
+She reports a background history of chronic pain diagnosed as fibromyalgia (on duloxetine) and anemia (not currently on iron). She mentions "I've always had low blood" and that she tends to look "yellow" when she's tired.
+
+PAST DERMATOLOGIC HISTORY:
+No prior skin conditions. No prior ulcers. No eczema or psoriasis. No skin biopsies. No surgical scars on lower extremities.
+
+MEDICATIONS:
+- Duloxetine 60mg daily
+- Vitamin D3 2000 IU daily
+- Ibuprofen PRN
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Non-smoker. Graphic designer (sedentary occupation). No injection drug use.
+
+PHYSICAL EXAMINATION:
+
+LEFT LOWER EXTREMITY:
+Ulcer location: Left medial malleolus — centered directly over the medial malleolar prominence.
+Ulcer dimensions: 2.0 x 1.5 cm, depth approximately 2-3 mm.
+Ulcer base: Fibrinous yellow-white eschar covering approximately 60% of wound bed. Remainder shows pale pink granulation tissue. No necrotic tissue.
+Ulcer borders: Well-defined, slightly undermined edges. No heaped-up or rolled borders (argues against malignancy). Mild violaceous discoloration at wound margin.
+Surrounding skin: Hyperpigmented halo extending 1-2 cm from wound edge. Mild hemosiderin staining. No cellulitis. No induration beyond immediate wound margin.
+Drainage: Scant serous drainage. No purulence. No foul odor.
+Pain: Tender to light palpation at wound margins.
+
+** The location — directly over the medial malleolus — is highly specific. Sickle cell leg ulcers occur almost exclusively at the medial malleolus (and occasionally lateral malleolus), distinguishing them from venous stasis ulcers (which typically occur at the gaiter area, above the malleolus), arterial ulcers (which occur at pressure points and toes), and diabetic ulcers (which occur at weight-bearing areas of the foot). **
+
+RIGHT LOWER EXTREMITY:
+Skin intact. No ulcers. No hyperpigmentation. No edema.
+
+BILATERAL LOWER EXTREMITIES:
+Pulses: Dorsalis pedis 2+ bilaterally. Posterior tibial 2+ bilaterally.
+Edema: None.
+Varicose veins: None visible.
+Skin turgor: Normal.
+Hair distribution: Normal.
+Capillary refill: <2 seconds bilaterally.
+Temperature: Symmetric, warm bilaterally.
+
+GENERAL SKIN EXAM:
+No other ulcers or skin lesions. No pyoderma gangrenosum-like lesions elsewhere. No rashes. Mild scleral icterus noted (not commented upon in assessment). Skin generally warm with slightly yellowish undertone.
+
+VASCULAR STUDIES (ordered at this visit):
+
+ANKLE-BRACHIAL INDEX (ABI):
+  Right ABI: 1.08  [Normal: 1.00-1.30]
+  Left ABI:  1.06  [Normal: 1.00-1.30]
+  Interpretation: Normal bilateral. No evidence of peripheral arterial disease.
+
+VENOUS DUPLEX ULTRASOUND — BILATERAL LOWER EXTREMITIES:
+Performed by: Vascular Lab
+Date: 2024-06-04
+
+Right leg:
+  - Deep venous system: Patent and compressible. Normal augmentation. No thrombus.
+  - Superficial venous system: No reflux in great or small saphenous veins.
+  - Perforator veins: Competent.
+
+Left leg:
+  - Deep venous system: Patent and compressible. Normal augmentation. No thrombus.
+  - Superficial venous system: No reflux in great or small saphenous veins.
+  - Perforator veins: Competent.
+
+Interpretation: No evidence of deep venous thrombosis. No venous insufficiency. No reflux.
+
+** The negative vascular workup is significant. This ulcer has no venous, arterial, or diabetic etiology. In a young woman with no vascular risk factors, a chronic non-healing ulcer at the medial malleolus with negative vascular workup should prompt consideration of hematologic etiologies — particularly sickle cell disease, which is the most common cause of leg ulcers in young adults of African descent. **
+
+WOUND CULTURE:
+  Aerobic: Mixed skin flora (coagulase-negative Staphylococcus, Corynebacterium sp.). No predominant pathogen.
+  Anaerobic: No growth.
+
+PUNCH BIOPSY — LEFT MEDIAL MALLEOLUS ULCER EDGE:
+Performed: 2024-06-04
+Site: 3mm punch biopsy from active border of ulcer (9 o'clock position)
+Sent to: Regional Dermatopathology Associates
+
+BIOPSY RESULTS (reported 2024-06-11):
+Dermatopathologist: Dr. N. Fitzgerald, MD
+
+GROSS: 3mm punch biopsy of skin, left medial ankle.
+
+MICROSCOPIC:
+- Epidermis: Ulcerated with adjacent epidermal hyperplasia. Parakeratotic crust overlying denuded area.
+- Dermis: Moderate perivascular and interstitial inflammatory infiltrate composed predominantly of lymphocytes and histiocytes with scattered neutrophils. Small vessel walls show mild endothelial swelling but no fibrinoid necrosis. No true leukocytoclastic vasculitis.
+- Prominent hemosiderin deposition throughout the papillary and reticular dermis (confirmed with Prussian blue stain — strongly positive).
+- No granulomas. No interface dermatitis. No atypical lymphoid infiltrate.
+- No malignant cells.
+- Special stains: PAS — no fungal organisms. GMS — negative. AFB — negative.
+
+DIAGNOSIS: Nonspecific ulceration with perivascular chronic inflammation and prominent dermal hemosiderin deposition. No vasculitis. No malignancy. No infectious organisms identified.
+
+COMMENT: "The prominent hemosiderin deposition suggests chronic extravasation of red blood cells. Clinical correlation for underlying hematologic disorder is recommended."
+
+** NOTE: The dermatopathologist specifically recommended clinical correlation for hematologic disorder based on the hemosiderin deposition. This recommendation, like the radiologist's subsequent recommendation during the hospitalization, was documented but not acted upon. **
+
+ASSESSMENT:
+"Chronic non-healing ulcer of left medial malleolus in a 26-year-old female. Vascular workup negative (normal ABI, no venous insufficiency). Biopsy shows nonspecific ulceration with hemosiderin deposition — no vasculitis or malignancy. Etiology remains unclear. Differential includes: atypical venous ulcer (despite negative duplex), neuropathic component, traumatic, or idiopathic. Will manage with standard wound care and reassess in 4-6 weeks."
+
+PLAN:
+1. Wound care protocol:
+   - Cleanse wound with normal saline at each dressing change
+   - Apply collagen dressing (Promogran) to wound bed
+   - Cover with non-adherent dressing and secure with wrap
+   - Change dressings every 2-3 days
+2. Compression: 20-30 mmHg graduated compression stockings on left leg (low-level, for support — not high-compression as no venous insufficiency)
+3. Elevation of left leg when seated
+4. Avoid trauma to area
+5. Follow-up in 4-6 weeks for wound reassessment
+6. If no improvement, consider referral to wound care center
+
+==========================================
+VISIT 2: 2024-10-15 (Approximately 4 months later)
+==========================================
+
+CHIEF COMPLAINT: "The first ulcer still isn't healed and now I have one on the other ankle too."
+
+HPI:
+Nina returns for follow-up. The left medial malleolus ulcer has been managed with wound care protocol as prescribed. She reports compliance with dressing changes and compression therapy. The ulcer has decreased slightly in size (from 2.0 x 1.5 cm to 1.8 x 1.3 cm) but has not closed. She reports ongoing pain at the wound site.
+
+More concerning, she has developed a new ulcer on the RIGHT medial malleolus approximately 6 weeks ago. It began as a tender, dusky discoloration that broke down into an open wound over 10-14 days — identical to the progression of her first ulcer. She denies trauma to the area.
+
+She also reports being hospitalized since her last visit (02/2025) for a "pain flare and blood clots in my lungs." She is now on Eliquis (apixaban) and states the hospitalist found she had "some kind of blood problem — low blood counts" but that the workup was "still not done."
+
+She mentions in passing: "My brother used to get ulcers just like these on his ankles when he was in his early twenties. He has sickle cell."
+
+** CRITICAL INFORMATION: At this visit, the patient explicitly stated her brother has sickle cell disease. This information — a first-degree relative with sickle cell disease, in the context of a patient with bilateral medial malleolus ulcers, recurrent pain crises, hemolytic anemia, and bilateral PE — should have immediately prompted a hemoglobin electrophoresis order and urgent communication to the PCP and hematologist. Instead, it was documented in the note but not flagged as diagnostically actionable. **
+
+INTERVAL HISTORY SINCE LAST VISIT:
+- Hospitalization 02/2025: Pain crisis + bilateral PE (see hospital records)
+- Currently on: Apixaban 5mg BID, duloxetine 60mg daily, folic acid 1mg daily
+- Anemia: Hgb 8.8-8.9 during hospitalization. Further workup pending per PCP.
+- Left ulcer: Slowly improving but not closed
+- Right ulcer: New, 6 weeks duration
+
+PHYSICAL EXAMINATION:
+
+LEFT MEDIAL MALLEOLUS:
+Ulcer dimensions: 1.8 x 1.3 cm (decreased from 2.0 x 1.5 cm — marginal improvement)
+Ulcer base: 40% fibrinous tissue, 60% pale pink granulation tissue (improved from 60% fibrin). Minimal serous drainage.
+Borders: Better defined than initial visit. Less undermining. Persistent violaceous rim.
+Surrounding skin: Hyperpigmentation and hemosiderin staining extending 2-3 cm from wound edge. Mild lichenification from chronic bandaging.
+
+RIGHT MEDIAL MALLEOLUS:
+Ulcer location: Directly over right medial malleolar prominence — MIRROR IMAGE of left-sided ulcer.
+Ulcer dimensions: 1.5 x 1.2 cm, depth 2 mm.
+Ulcer base: 70% fibrinous, 30% granulation tissue. Scant serous drainage.
+Borders: Well-defined, mildly undermined. Violaceous rim — identical to left side.
+Surrounding skin: Early hyperpigmentation. Less hemosiderin than left (newer lesion).
+
+** BILATERAL MEDIAL MALLEOLUS ULCERS: The mirror-image bilateral presentation at the medial malleolus is highly characteristic of sickle cell disease. This location specificity is believed to relate to the relatively poor blood supply and thin subcutaneous tissue at the medial malleolus, making it vulnerable to sickling-induced microvascular occlusion. **
+
+BILATERAL LOWER EXTREMITIES:
+Pulses: 2+ bilaterally (DP and PT).
+Edema: None.
+No new varicose veins.
+No signs of DVT.
+
+BIOPSY — RIGHT MEDIAL MALLEOLUS ULCER EDGE:
+Performed: 2024-10-15
+Site: 3mm punch biopsy from active border (3 o'clock position)
+
+BIOPSY RESULTS (reported 2024-10-22):
+Dermatopathologist: Dr. N. Fitzgerald, MD
+
+MICROSCOPIC:
+- Findings similar to prior biopsy (left ankle, 06/2024).
+- Ulcerated epidermis with adjacent reactive hyperplasia.
+- Moderate perivascular lymphocytic and histiocytic inflammation.
+- Prominent hemosiderin deposition in dermis (Prussian blue positive).
+- Small vessel walls: mild endothelial swelling, no vasculitis.
+- No granulomas. No malignancy.
+- Microthrombi identified in several dermal capillaries.
+
+DIAGNOSIS: Nonspecific ulceration with dermal hemosiderin deposition and dermal capillary microthrombi. Findings similar to prior specimen from contralateral ankle.
+
+COMMENT: "Bilateral medial malleolar ulcers with dermal hemosiderin deposition and capillary microthrombi in a young African American woman with known hemolytic anemia. This histopathologic pattern is consistent with sickle cell leg ulcers. Hemoglobin electrophoresis is strongly recommended if not already performed."
+
+** NOTE: At this point, BOTH the radiologist (during hospitalization) and the dermatopathologist have specifically recommended evaluation for hemoglobinopathy/sickle cell disease based on their respective findings. Neither recommendation led to the appropriate test being ordered. **
+
+ASSESSMENT:
+"Bilateral medial malleolar ulcers — chronic left, subacute right. Biopsy shows nonspecific changes with microthrombi and hemosiderin, similar to prior. Patient reports brother has sickle cell disease. Given bilateral medial malleolar ulcers + hemolytic anemia + brother with sickle cell disease + recurrent pain crises, there is concern for an underlying hemoglobinopathy. Will communicate to PCP and recommend hemoglobin electrophoresis."
+
+PLAN:
+1. Continue wound care protocol for both ulcers:
+   - Left: Continue collagen dressing. Consider adding becaplermin (Regranex) if no further progress in 6 weeks.
+   - Right: Initiate same wound care protocol as left (saline cleansing, collagen dressing, non-adherent cover).
+2. Compression stockings: 20-30 mmHg bilateral.
+3. Zinc supplementation: Zinc sulfate 220mg TID (zinc promotes wound healing and is often deficient in sickle cell disease).
+4. Folic acid: Continue 1mg daily (already prescribed).
+5. Pentoxifylline 400mg TID — may improve microvascular flow and promote healing in the setting of microvascular occlusion.
+6. Communicated to PCP Dr. Nakamura via EMR message: "Please consider hemoglobin electrophoresis in this patient with bilateral medial malleolar ulcers, hemolytic anemia, recurrent pain crises, and a brother with sickle cell disease. These ulcers are consistent with sickle cell leg ulcers."
+7. Follow-up in 6-8 weeks.
+
+** NOTE: Dr. Cho communicated the hemoglobinopathy concern to PCP via EMR message. Review of the medical record indicates this message was received but not acted upon specifically — Dr. Nakamura's subsequent visit (6 months ago) noted the hemolysis but started empiric iron rather than ordering hemoglobin electrophoresis. **
+
+==========================================
+RETROSPECTIVE ADDENDUM
+==========================================
+Added by: Dr. M. Cho, MD, FAAD
+Date: 2026-02-06
+
+In light of the ongoing investigation into Nina Okafor's undiagnosed hemolytic anemia and the pending hemoglobin electrophoresis, I wish to document the following retrospective analysis:
+
+1. NON-HEALING LEG ULCERS AT THE MEDIAL MALLEOLUS IN A YOUNG AFRICAN AMERICAN PATIENT WITH CHRONIC ANEMIA: This presentation has a very narrow differential diagnosis. In the absence of venous insufficiency, arterial disease, or diabetes, the most common cause of medial malleolar ulcers in young adults of African descent is sickle cell disease. The medial malleolus is the single most common location for sickle cell leg ulcers — the location is so specific that it is considered a clinical pearl in hematology. I should have recognized this pattern at Visit 1 and ordered basic hemolysis labs (LDH, haptoglobin, reticulocyte count, bilirubin) rather than waiting for biopsy results.
+
+2. BILATERAL PRESENTATION IS NEARLY PATHOGNOMONIC: By Visit 2, the patient had mirror-image ulcers on bilateral medial malleoli. Bilateral medial malleolar ulcers in a young African American woman is virtually pathognomonic for sickle cell disease. There are very few alternative diagnoses that produce this specific pattern.
+
+3. HEMOSIDERIN DEPOSITION AND CAPILLARY MICROTHROMBI: Both biopsies showed prominent hemosiderin (from chronic red cell extravasation and hemolysis) and the second biopsy showed capillary microthrombi (from sickling-induced microvascular occlusion). These are histopathologic hallmarks of sickle cell leg ulcers. The dermatopathologist recognized this at the second biopsy and specifically recommended hemoglobin electrophoresis.
+
+4. THE BROTHER'S HISTORY: When the patient stated at Visit 2 that "my brother has sickle cell" and that he "used to get ulcers just like these," the diagnosis was essentially confirmed clinically. A first-degree relative with sickle cell disease means this patient is at minimum a carrier (HbAS) and potentially has HbSC or sickle-beta thalassemia. Given her clinical picture, the latter is far more likely.
+
+5. COMMUNICATION GAPS: I sent an EMR message to PCP but did not escalate or follow up to confirm that hemoglobin electrophoresis had been ordered. I should have ordered the test myself, called the PCP directly, or ensured closed-loop communication. An EMR message was insufficient for a finding of this diagnostic importance.
+
+I commend the dermatopathologist, Dr. N. Fitzgerald, for recognizing the histopathologic pattern and recommending hemoglobin electrophoresis in the pathology report comment. The pathologist's recommendation — like the radiologist's — was documented in the record but not translated into clinical action.
+
+Electronically signed: Dr. M. Cho, MD, FAAD
+Visit 1 signed: 2024-06-04 17:20
+Visit 2 signed: 2024-10-15 16:45
+Addendum signed: 2026-02-06 13:30

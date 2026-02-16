@@ -1,0 +1,287 @@
+LABORATORY RESULTS — CHRONOLOGICAL COMPILATION
+================================================
+Patient: Maria Santos  DOB: 1991-06-18  MRN: 7823415
+Compiled by: Riverside Family Medicine Associates
+Compilation date: 2026-02-10
+
+Note: Results compiled from multiple facilities (Riverside Family Medicine, Mercy General Hospital ER, CityMed Urgent Care). Reference ranges may vary slightly between laboratories.
+
+================================================================
+DATE: 2024-08-10 — PCP Visit 1 (Riverside Family Medicine Lab)
+================================================================
+INDICATION: Fatigue evaluation
+
+THYROID:
+  TSH:              2.4 mIU/L          [0.4-4.0]       NORMAL
+
+CBC:
+  WBC:              5.8 K/uL           [4.5-11.0]      NORMAL
+  RBC:              4.4 M/uL           [4.0-5.5]       NORMAL
+  Hemoglobin:       12.1 g/dL          [12.0-16.0]     NORMAL (low-normal)
+  Hematocrit:       36.5%              [36-46]          NORMAL (low-normal)
+  MCV:              83.0 fL            [80-100]         NORMAL
+  Platelets:        198 K/uL           [150-400]       NORMAL
+
+BASIC METABOLIC PANEL:
+  Sodium:           140 mEq/L          [136-145]       NORMAL
+  Potassium:        4.0 mEq/L          [3.5-5.0]       NORMAL
+  Chloride:         103 mEq/L          [98-106]        NORMAL
+  CO2:              25 mEq/L           [23-29]         NORMAL
+  BUN:              12 mg/dL           [7-20]          NORMAL
+  Creatinine:       0.7 mg/dL          [0.6-1.2]       NORMAL
+  Glucose:          88 mg/dL           [70-100]        NORMAL
+  Calcium:          9.4 mg/dL          [8.5-10.5]      NORMAL
+
+IRON STUDIES:
+  Ferritin:         28 ng/mL           [12-150]        NORMAL (low-normal)
+  Iron:             68 mcg/dL          [60-170]        NORMAL (low-normal)
+  TIBC:             380 mcg/dL         [250-400]       NORMAL
+
+================================================================
+DATE: 2024-12-05 — PCP Visit 2 (Riverside Family Medicine Lab)
+================================================================
+INDICATION: Bilateral hand/wrist arthralgia workup
+
+RHEUMATOLOGIC:
+  Rheumatoid Factor: <10 IU/mL         [<14]           NEGATIVE
+  ESR:              22 mm/hr           [0-20]          ** MILDLY ELEVATED **
+
+Note: Anti-CCP antibodies NOT ordered. ANA NOT ordered.
+
+================================================================
+DATE: 2025-02-14 — PCP Visit 3 (Riverside Family Medicine Lab)
+================================================================
+INDICATION: Recurrent fevers, fatigue, weight loss
+
+CBC:
+  WBC:              4.2 K/uL           [4.5-11.0]      ** LOW ** (was 5.8)
+  RBC:              4.0 M/uL           [4.0-5.5]       NORMAL (low-normal, was 4.4)
+  Hemoglobin:       10.8 g/dL          [12.0-16.0]     ** LOW ** (was 12.1)
+  Hematocrit:       32.8%              [36-46]          ** LOW **
+  MCV:              82.0 fL            [80-100]         NORMAL
+  Platelets:        145 K/uL           [150-400]       ** LOW ** (was 198)
+
+BASIC METABOLIC PANEL:
+  Sodium:           139 mEq/L          [136-145]       NORMAL
+  Potassium:        3.9 mEq/L          [3.5-5.0]       NORMAL
+  Chloride:         101 mEq/L          [98-106]        NORMAL
+  CO2:              26 mEq/L           [23-29]         NORMAL
+  BUN:              14 mg/dL           [7-20]          NORMAL
+  Creatinine:       0.7 mg/dL          [0.6-1.2]       NORMAL
+  Glucose:          91 mg/dL           [70-100]        NORMAL
+
+INFECTIOUS WORKUP:
+  Monospot:         Negative
+  Hepatitis B sAg:  Non-reactive
+  Hepatitis C Ab:   Non-reactive
+  HIV 1/2 Ag/Ab:    Non-reactive
+  Blood Culture #1: No growth at 5 days
+  Blood Culture #2: No growth at 5 days
+
+IRON STUDIES:
+  Ferritin:         18 ng/mL           [12-150]        LOW (was 28)
+
+================================================================
+DATE: 2025-10-08 — ER Visit (Mercy General Hospital Lab)
+================================================================
+INDICATION: Pleuritic chest pain, bilateral pleural effusions
+
+CBC:
+  WBC:              3.8 K/uL           [4.5-11.0]      ** LOW ** (was 4.2)
+  RBC:              3.9 M/uL           [4.0-5.5]       ** LOW **
+  Hemoglobin:       10.5 g/dL          [12.0-16.0]     ** LOW ** (was 10.8)
+  Hematocrit:       31.8%              [36-46]          ** LOW **
+  MCV:              81.5 fL            [80-100]         NORMAL
+  RDW:              14.8%              [11.5-14.5]     MILDLY ELEVATED
+  Platelets:        135 K/uL           [150-400]       ** LOW ** (was 145)
+
+COMPREHENSIVE METABOLIC PANEL:
+  Sodium:           138 mEq/L          [136-145]       NORMAL
+  Potassium:        4.1 mEq/L          [3.5-5.0]       NORMAL
+  Chloride:         102 mEq/L          [98-106]        NORMAL
+  CO2:              24 mEq/L           [23-29]         NORMAL
+  BUN:              16 mg/dL           [7-20]          NORMAL
+  Creatinine:       0.8 mg/dL          [0.6-1.2]       NORMAL
+  Glucose:          94 mg/dL           [70-100]        NORMAL
+  Calcium:          9.2 mg/dL          [8.5-10.5]      NORMAL
+  AST:              28 U/L             [10-40]         NORMAL
+  ALT:              22 U/L             [7-56]          NORMAL
+  Albumin:          3.3 g/dL           [3.5-5.5]       ** LOW **
+  Total Protein:    7.8 g/dL           [6.0-8.3]       NORMAL
+
+CARDIAC MARKERS:
+  Troponin I (initial):    <0.01 ng/mL  [<0.04]       NORMAL
+  Troponin I (3-hr):       <0.01 ng/mL  [<0.04]       NORMAL
+  BNP:              45 pg/mL           [<100]          NORMAL
+
+COAGULATION:
+  D-dimer:          0.68 mcg/mL FEU    [<0.50]         ** MILDLY ELEVATED **
+  PT:               12.4 sec           [11.0-13.5]     NORMAL
+  INR:              1.1                                NORMAL
+
+INFLAMMATORY MARKERS:
+  ESR:              48 mm/hr           [0-20]          ** ELEVATED ** (was 22)
+  Procalcitonin:    0.08 ng/mL         [<0.10]         NORMAL
+
+BLOOD CULTURES: x2 sets — No growth at 5 days
+
+================================================================
+DATE: 2025-12-12 — PCP Visit 4 (Riverside Family Medicine Lab)
+================================================================
+INDICATION: Raynaud phenomenon, comprehensive autoimmune workup
+
+ANA:
+  ANA Screen:       POSITIVE
+  ANA Titer:        1:640
+  ANA Pattern:      SPECKLED
+  ** HIGHLY POSITIVE — strongly suggests systemic autoimmune disease **
+
+CBC:
+  WBC:              3.4 K/uL           [4.5-11.0]      ** LOW ** (was 3.8)
+  RBC:              3.8 M/uL           [4.0-5.5]       ** LOW **
+  Hemoglobin:       10.3 g/dL          [12.0-16.0]     ** LOW ** (was 10.5)
+  Hematocrit:       31.2%              [36-46]          ** LOW **
+  MCV:              82.1 fL            [80-100]         NORMAL
+  Platelets:        132 K/uL           [150-400]       ** LOW ** (was 135)
+  Lymphocytes:      0.8 K/uL           [1.0-4.8]       ** LOW ** (lymphopenia)
+  Neutrophils:      2.2 K/uL           [1.8-7.7]       NORMAL
+
+INFLAMMATORY MARKERS:
+  ESR:              52 mm/hr           [0-20]          ** ELEVATED ** (was 48)
+  CRP:              18 mg/L            [<3.0]          ** ELEVATED **
+
+COMPREHENSIVE METABOLIC PANEL:
+  Creatinine:       0.9 mg/dL          [0.6-1.2]       NORMAL (was 0.7-0.8, trending up)
+  Albumin:          3.2 g/dL           [3.5-5.5]       ** LOW ** (was 3.3)
+  Remainder:        Within normal limits
+
+PENDING (sent to reference lab):
+  Anti-dsDNA Antibodies:     PENDING
+  Anti-Smith Antibodies:     PENDING
+  Anti-RNP Antibodies:       PENDING
+  Anti-SSA (Ro):             PENDING
+  Anti-SSB (La):             PENDING
+  C3 Complement:             PENDING
+  C4 Complement:             PENDING
+  Antiphospholipid Antibodies: PENDING
+  24-hour Urine Protein:     PENDING
+
+URINALYSIS (spot):
+  Not performed at this visit — ordered for next appointment
+
+================================================================
+DATE: 2026-01-10 — Urgent Care Visit (CityMed Urgent Care Lab)
+================================================================
+INDICATION: Acute bilateral knee swelling, inflammatory arthritis workup
+
+CBC:
+  WBC:              3.1 K/uL           [4.5-11.0]      ** LOW ** (was 3.4)
+  RBC:              3.7 M/uL           [4.0-5.5]       ** LOW **
+  Hemoglobin:       10.2 g/dL          [12.0-16.0]     ** LOW ** (was 10.3)
+  Hematocrit:       30.8%              [36-46]          ** LOW **
+  MCV:              83.2 fL            [80-100]         NORMAL
+  Platelets:        128 K/uL           [150-400]       ** LOW ** (was 132)
+  Lymphocytes:      0.7 K/uL           [1.0-4.8]       ** LOW **
+
+INFLAMMATORY MARKERS:
+  ESR:              58 mm/hr           [0-20]          ** ELEVATED ** (was 52)
+  CRP:              24 mg/L            [<3.0]          ** ELEVATED ** (was 18)
+
+COMPLEMENT LEVELS:
+  C3:               45 mg/dL           [90-180]        ** CRITICALLY LOW ** (hypocomplementemia)
+  C4:               8 mg/dL            [10-40]         ** LOW ** (hypocomplementemia)
+  ** Low C3 and C4 are characteristic of active SLE with complement consumption **
+
+URINALYSIS:
+  Color:            Yellow, slightly turbid
+  Specific Gravity: 1.020              [1.005-1.030]   NORMAL
+  pH:               6.0                [5.0-8.0]       NORMAL
+  Protein:          2+                                 ** ABNORMAL **
+  Blood:            2+                                 ** ABNORMAL **
+  Glucose:          Negative
+  Ketones:          Negative
+  Leukocyte Est:    Trace
+  Nitrite:          Negative
+  Bilirubin:        Negative
+
+URINE MICROSCOPY:
+  RBC:              10-15 /hpf         [0-2]           ** ELEVATED ** (microscopic hematuria)
+  WBC:              3-5 /hpf           [0-5]           NORMAL
+  Casts:            2-3 granular casts/lpf              ** ABNORMAL **
+  Bacteria:         None seen
+  Squamous cells:   Rare
+
+  ** Proteinuria with microscopic hematuria and granular casts is highly concerning for lupus nephritis. Urgent nephrology/rheumatology evaluation recommended. **
+
+SYNOVIAL FLUID ANALYSIS (Right knee):
+  Appearance:       Cloudy, yellow
+  WBC:              8,500 /mm3         [<200 normal, 200-2000 non-inflam]  ** INFLAMMATORY **
+  Differential:     78% Neutrophils, 18% Lymphocytes, 4% Monocytes
+  RBC:              250 /mm3
+  Crystals:         NONE (no monosodium urate, no calcium pyrophosphate)
+  Gram Stain:       No organisms seen
+  Culture:          No growth at 48 hours (final pending)
+  Glucose:          62 mg/dL           (serum glucose 96) — mildly reduced
+  Protein:          4.8 g/dL           — elevated
+  LDH:              320 U/L            — elevated
+
+  ** Inflammatory synovial fluid without crystals or organisms. Pattern consistent with autoimmune-mediated inflammatory arthritis (lupus arthritis). **
+
+COMPREHENSIVE METABOLIC PANEL:
+  Sodium:           137 mEq/L          [136-145]       NORMAL
+  Potassium:        4.2 mEq/L          [3.5-5.0]       NORMAL
+  BUN:              18 mg/dL           [7-20]          NORMAL (was 12-16, trending up)
+  Creatinine:       1.0 mg/dL          [0.6-1.2]       NORMAL (was 0.7, trending up)
+  eGFR:             78 mL/min/1.73m2   [>90]           ** MILDLY REDUCED **
+  Glucose:          96 mg/dL           [70-100]        NORMAL
+  Albumin:          3.0 g/dL           [3.5-5.5]       ** LOW ** (was 3.2, declining)
+
+================================================================
+TREND ANALYSIS — KEY PARAMETERS OVER 18 MONTHS
+================================================================
+
+HEMOGLOBIN (g/dL):
+  08/2024:  12.1  |========================================|
+  02/2025:  10.8  |====================================    | ** declining **
+  10/2025:  10.5  |===================================     |
+  12/2025:  10.3  |==================================      |
+  01/2026:  10.2  |==================================      |
+
+WBC (K/uL):
+  08/2024:  5.8   |========================================|
+  02/2025:  4.2   |=============================           | ** declining **
+  10/2025:  3.8   |==========================              |
+  12/2025:  3.4   |========================                |
+  01/2026:  3.1   |======================                  | ** persistent leukopenia **
+
+PLATELETS (K/uL):
+  08/2024:  198   |========================================|
+  02/2025:  145   |==============================          | ** declining **
+  10/2025:  135   |============================            |
+  12/2025:  132   |===========================             |
+  01/2026:  128   |==========================              | ** thrombocytopenia **
+
+ESR (mm/hr):
+  12/2024:  22    |==========                              |
+  10/2025:  48    |======================                  | ** rising **
+  12/2025:  52    |========================                |
+  01/2026:  58    |===========================             | ** active inflammation **
+
+CREATININE (mg/dL):
+  08/2024:  0.7   |                                        |
+  02/2025:  0.7   |  stable                                |
+  10/2025:  0.8   |                                        |
+  12/2025:  0.9   |  ** trending up **                     |
+  01/2026:  1.0   |  ** approaching upper limit **         |
+
+ALBUMIN (g/dL):
+  10/2025:  3.3   |  ** below normal **                    |
+  12/2025:  3.2   |  ** declining — possible renal loss ** |
+  01/2026:  3.0   |  ** continued decline **               |
+
+SUMMARY:
+Progressive pancytopenia (anemia, leukopenia, thrombocytopenia), rising inflammatory markers (ESR, CRP), hypocomplementemia (C3/C4), positive ANA 1:640 speckled, active urine sediment (proteinuria, hematuria, granular casts), declining renal function (rising creatinine, falling eGFR, falling albumin). The laboratory trajectory is consistent with progressive, untreated Systemic Lupus Erythematosus with probable renal involvement (lupus nephritis). Urgent rheumatology and nephrology evaluation required.
+
+Compiled by: Medical Records Department
+Reviewed by: Dr. A. Whitfield, MD, FAAFP
+Date: 2026-02-10

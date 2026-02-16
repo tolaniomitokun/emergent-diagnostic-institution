@@ -1,0 +1,79 @@
+{
+  "case_id": "CASE-002",
+  "title": "The Institution Evolves",
+  "description": "A pulmonary case that the current team (cardiology, neurology, internal medicine) may struggle with, triggering a team topology change recommendation.",
+  "patient": {
+    "age": 45,
+    "sex": "female",
+    "chief_complaint": "Progressive shortness of breath and cough for 3 months",
+    "history_of_present_illness": "45-year-old female presents with worsening dyspnea on exertion over 3 months, now occurring with minimal activity. Dry cough for 2 months. Reports fatigue, 8-pound weight loss, and intermittent low-grade fevers. Recently noticed 'bumpy rash' on her shins. Works as a veterinary technician. No recent travel. Denies hemoptysis, orthopnea, or PND.",
+    "past_medical_history": [
+      "Uveitis (treated 1 year ago, cause undetermined)",
+      "Vitamin D deficiency",
+      "Anxiety disorder"
+    ],
+    "medications": [
+      "Sertraline 50mg daily",
+      "Vitamin D3 2000 IU daily",
+      "Albuterol inhaler PRN (started self-treating 1 month ago)"
+    ],
+    "allergies": [],
+    "social_history": "Veterinary technician. Never smoker. No alcohol. No recreational drugs. Lives with partner and two cats.",
+    "family_history": "Mother has rheumatoid arthritis. No family history of lung disease."
+  },
+  "vitals": {
+    "heart_rate": 88,
+    "blood_pressure": "122/78",
+    "respiratory_rate": 22,
+    "temperature": 37.8,
+    "oxygen_saturation": 93
+  },
+  "physical_exam": {
+    "general": "Thin-appearing female, mild respiratory distress at rest",
+    "cardiovascular": "Regular rate and rhythm, no murmurs, no JVD, no peripheral edema",
+    "respiratory": "Bilateral fine inspiratory crackles at bases. No wheezing.",
+    "skin": "Erythematous nodular lesions on bilateral shins consistent with erythema nodosum",
+    "eyes": "No active uveitis on penlight exam",
+    "lymph_nodes": "Bilateral non-tender cervical and supraclavicular lymphadenopathy",
+    "neurological": "Non-focal"
+  },
+  "labs": {
+    "CBC": "WBC 4.2 (low-normal), Hgb 13.1, Plt 310",
+    "BMP": "Calcium 11.2 (elevated), Cr 0.9, otherwise WNL",
+    "LFTs": "Alkaline phosphatase 145 (elevated), ALT/AST normal",
+    "ACE_level": "82 U/L (elevated, normal 8-52)",
+    "ESR": "45 mm/hr (elevated)",
+    "CRP": "18 mg/L (elevated)",
+    "vitamin_D_1_25": "Elevated at 85 pg/mL (normal 18-72)",
+    "BNP": "42 pg/mL (normal)"
+  },
+  "imaging": {
+    "chest_xray": "Bilateral hilar lymphadenopathy. Diffuse reticulonodular opacities in bilateral lung fields.",
+    "CT_chest": "Bilateral hilar and mediastinal lymphadenopathy. Diffuse micronodular opacities with perilymphatic distribution. No pleural effusion."
+  },
+  "timeline": [
+    {"time": "T-12mo", "event": "Uveitis episode, treated with steroids"},
+    {"time": "T-3mo", "event": "Onset of progressive dyspnea"},
+    {"time": "T-2mo", "event": "Dry cough develops"},
+    {"time": "T-1mo", "event": "Erythema nodosum appears on shins, begins self-treating with albuterol"},
+    {"time": "T-2wk", "event": "Fatigue and fevers worsen"},
+    {"time": "T-0", "event": "Presents to clinic"}
+  ],
+  "metadata": {
+    "source": "Synthetic case for hackathon demo",
+    "difficulty": "hard",
+    "known_diagnosis": "Pulmonary sarcoidosis (Stage II) with multi-system involvement (lungs, skin, eyes, lymph nodes, calcium metabolism)",
+    "teaching_points": [
+      "Classic sarcoidosis triad: bilateral hilar lymphadenopathy + erythema nodosum + uveitis",
+      "Elevated ACE level supports but doesn't confirm sarcoidosis",
+      "Hypercalcemia from granulomatous disease (1,25-dihydroxy vitamin D production)",
+      "This case reveals a gap in the team — no pulmonologist",
+      "The Constitution Amender should recommend adding a pulmonologist"
+    ],
+    "expected_team_evolution": {
+      "trigger": "Case outside current specialist coverage",
+      "expected_amendment": "Add pulmonologist to active specialist roster",
+      "expected_constitution_change": "New principle: When >50% of findings fall outside active specialist domains, flag for team topology review"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "amendment_id": "A-001",
+    "case_id": "user_case_1771195818889",
+    "timestamp": "2026-02-06T14:30:00Z",
+    "type": "new_principle",
+    "proposal": "Article I, Section 1.5 \u2014 Source Label Quarantine: When case materials contain explicit diagnostic suggestions from prior providers (e.g., 'consider MEN syndrome,' 'highly suspicious for X'), each specialist MUST: (a) enumerate all embedded diagnostic labels before beginning analysis, (b) state explicitly whether their primary hypothesis would change if those labels were removed and they were reasoning only from raw clinical data (vitals, labs, imaging characteristics, exam findings), and (c) flag any instance where their reasoning chain depends on a prior provider's interpretive conclusion rather than primary data. The Observer shall monitor for unacknowledged adoption of embedded labels.",
+    "rationale": "All three specialists converged on MEN2A in Round 1, and the Observer identified that embedded diagnostic suggestions in the radiology report ('should raise strong suspicion for MULTIPLE ENDOCRINE NEOPLASIA TYPE 2A') and ER notes ('consider MEN syndrome') likely anchored all specialists before they could form independent hypotheses. No specialist spontaneously flagged this framing influence. The existing Article 1.1 (Independent Reasoning) addresses inter-specialist independence but not independence from embedded diagnostic labels in case materials, which is a distinct and equally dangerous source of bias.",
+    "evidence_from_case": "Round 1 Observer analysis: 'All three specialists may have been anchored by these embedded expert opinions rather than independently deriving MEN2A from raw data. Notably, no specialist flagged this framing as a potential influence on their reasoning.' The radiologist's report explicitly stated 'HIGHLY UNUSUAL and should raise strong suspicion for MULTIPLE ENDOCRINE NEOPLASIA TYPE 2A (MEN2A)' and the ER lab notes stated 'consider MEN syndrome.' All three Round 1 analyses named MEN2A as primary diagnosis, with the radiologist's exact phrasing echoed.",
+    "affected_section": "Article I: Diagnostic Integrity (new Section 1.5)",
+    "status": "proposed"
+  },
+  {
+    "amendment_id": "A-002",
+    "case_id": "user_case_1771195818889",
+    "timestamp": "2026-02-06T14:30:00Z",
+    "type": "new_principle",
+    "proposal": "Article I, Section 1.6 \u2014 Mandatory Base-Rate Analysis: When ranking competing diagnoses that share overlapping features, each specialist MUST cite quantitative epidemiological data (prevalence, penetrance, age-specific incidence, sex-specific incidence) to justify the relative ordering. Specifically: (a) for hereditary/genetic syndromes, penetrance of each observed feature must be stated for each candidate syndrome; (b) for rare diagnoses in atypical demographics (e.g., age, sex), the demographic-specific incidence must be cited rather than the general population rate; (c) the Observer shall flag any differential ranking that contradicts the cited base rates without explicit justification for the override.",
+    "rationale": "All three specialists initially ranked MEN2A above MEN1 despite primary hyperparathyroidism having 95% penetrance in MEN1 versus only 20-30% in MEN2A. This means the presenting parathyroid adenoma is 3-5x more likely in MEN1 than MEN2A, yet MEN2A was uniformly ranked first. The correction required Observer intervention and a full additional debate round. A standing requirement to cite and reconcile base rates would have caught this discrepancy in Round 1. Similarly, thyrotoxic periodic paralysis was discussed without adequate emphasis on the 70:1 male:female ratio, inflating its consideration in a female patient.",
+    "evidence_from_case": "Round 1 Observer: 'All three specialists anchor on MEN2A over MEN1 despite the fact that primary hyperparathyroidism has 95% penetrance in MEN1 versus only 20-30% in MEN2A... The preference for MEN2A appears driven by the suspicious thyroid nodule being assumed to be medullary thyroid carcinoma (MTC), but NO histologic or calcitonin confirmation exists yet.' Round 2 Observer: 'TPP should remain in the differential but with explicit acknowledgment that female sex substantially lowers the pre-test probability even in East Asian populations.'",
+    "affected_section": "Article I: Diagnostic Integrity (new Section 1.6)",
+    "status": "proposed"
+  },
+  {
+    "amendment_id": "A-003",
+    "case_id": "user_case_1771195818889",
+    "timestamp": "2026-02-06T14:30:00Z",
+    "type": "new_principle",
+    "proposal": "Article I, Section 1.7 \u2014 Evidence Discrimination Classification: Each piece of clinical evidence cited in support of a diagnosis MUST be explicitly classified as: (a) CONFIRMATORY \u2014 evidence that is present in this diagnosis and absent/rare in competing diagnoses; (b) CONSISTENT \u2014 evidence compatible with this diagnosis but equally compatible with competing diagnoses (non-discriminatory); (c) DISCORDANT \u2014 evidence that is atypical for this diagnosis and requires explanation. Evidence classified as CONSISTENT must not be presented as supporting a specific diagnosis over its alternatives. The Observer shall flag any instance where non-discriminatory evidence is used to justify favoring one hypothesis over another.",
+    "rationale": "The developmental pediatrician cited the grandmother's thyroid surgery at age 52 as 'potentially consistent with familial MEN syndrome' and interpreted it as supporting MEN2A. The Observer correctly identified that thyroid surgery at age 52 is extremely common for benign conditions and is essentially non-discriminatory between MEN and non-MEN diagnoses. By presenting ambiguous evidence as supportive, specialists create an illusion of convergent evidence that inflates confidence. Requiring explicit classification would force honest appraisal of each evidence element's diagnostic power.",
+    "evidence_from_case": "Round 1 Observer: 'The developmental pediatrician states the family history (grandmother's thyroid surgery at 52) is \"potentially consistent with familial MEN syndrome with variable penetrance\" and \"may have been for medullary thyroid carcinoma.\" This interprets ambiguous evidence in favor of MEN2A. Thyroid surgery at age 52 is extremely common for benign multinodular goiter, Graves' disease, or papillary thyroid carcinoma \u2014 none of which indicate MEN2A. Without knowing the grandmother's pathology, this evidence is nearly non-discriminatory.'",
+    "affected_section": "Article I: Diagnostic Integrity (new Section 1.7)",
+    "status": "proposed"
+  },
+  {
+    "amendment_id": "A-004",
+    "case_id": "user_case_1771195818889",
+    "timestamp": "2026-02-06T14:30:00Z",
+    "type": "modify_principle",
+    "proposal": "Article I, Section 1.4 \u2014 Confidence Calibration (amended): Confidence scores must reflect genuine uncertainty. Overconfidence (>0.9 without definitive evidence) triggers Observer review. ADDITION: When a case involves both confirmed findings (e.g., laboratory-proven diagnoses) and unresolved etiological questions (e.g., genetic subtyping pending), specialists MUST report disaggregated confidence scores: (a) confidence in confirmed pathophysiological mechanism, (b) confidence in unifying etiological diagnosis, and (c) confidence in the recommended immediate management plan. A single bundled confidence score that averages high-certainty and high-uncertainty components is not permitted, as it obscures the true uncertainty landscape for downstream decision-making.",
+    "rationale": "The neurologist reported a single confidence score of 0.75 that bundled a high-certainty neurological conclusion (all symptoms are metabolically driven) with a highly uncertain etiological conclusion (which MEN syndrome, if any). The Observer noted this 'may overrepresent certainty about the overall diagnostic picture' and that the developmental pediatrician (0.62) and geneticist (0.52) better reflected genuine uncertainty. A bundled score of 0.75 could mislead a downstream clinician into thinking the etiological diagnosis is more certain than it is, potentially affecting decisions about genetic testing urgency or surgical planning.",
+    "evidence_from_case": "Round 2 Observer: 'The neurologist's confidence of 0.75 is the highest among the three specialists, yet the hypothesis statement bundles two distinct claims: (1) all neurological manifestations are secondary to confirmed endocrine disorders (high certainty), and (2) \"the unifying genetic framework remains undetermined\" (high uncertainty). By combining a high-certainty neurological conclusion with an uncertain etiological framework under a single confidence score, the neurologist's 0.75 may overrepresent certainty about the overall diagnostic picture.'",
+    "affected_section": "Article I, Section 1.4",
+    "status": "proposed"
+  },
+  {
+    "amendment_id": "A-005",
+    "case_id": "user_case_1771195818889",
+    "timestamp": "2026-02-06T14:30:00Z",
+    "type": "new_principle",
+    "proposal": "Article I, Section 1.8 \u2014 Pending-Result Decision Mapping: When key diagnostic tests are pending at the time of case analysis, each specialist MUST produce an explicit decision tree mapping: (a) enumerate all pending results that could discriminate between competing diagnoses; (b) for each pending result, state the specific value ranges and their diagnostic implications (e.g., 'calcitonin >100 pg/mL \u2192 MTC confirmed \u2192 MEN2A strongly favored; calcitonin normal \u2192 MTC excluded \u2192 MEN1 or non-MEN favored'); (c) rank pending tests by discriminating power. This mapping must be completed in Round 1. The purpose is to prevent premature commitment to a specific diagnosis when discriminating evidence is imminent and to provide actionable guidance for the treating team.",
+    "rationale": "In this case, the single most discriminating test (calcitonin level) was identified only after two debate rounds and Observer intervention. In Round 1, all specialists committed to MEN2A without systematically mapping how pending results (calcitonin, PTH, FNA, TSI, genetic testing) would redirect the diagnosis. A structured pending-result decision tree in Round 1 would have revealed that the MEN2A hypothesis was critically dependent on calcitonin being elevated, which might have prevented premature anchoring. This also provides immediate clinical value to the treating team by prioritizing which results to expedite.",
+    "evidence_from_case": "Final diagnosis states calcitonin is 'THE single most discriminating test' but this was only identified as the pivotal discriminator in Round 2. Round 1 Observer: 'The team should explicitly map which pending results (calcitonin level, FNA cytology, RET/MEN1 genetic testing) would definitively distinguish between these diagnoses and avoid premature commitment to MEN2A before these results return.' The structured mapping was not performed until forced by the Observer's intervention.",
+    "affected_section": "Article I: Diagnostic Integrity (new Section 1.8)",
+    "status": "proposed"
+  },
+  {
+    "amendment_id": "A-006",
+    "case_id": "user_case_1771195818889",
+    "timestamp": "2026-02-06T14:30:00Z",
+    "type": "team_change",
+    "proposal": "Add an Endocrinology Specialist agent to the default team roster, activatable when case features include any of: thyroid dysfunction, parathyroid dysfunction, adrenal pathology, pituitary pathology, calcium/phosphorus derangements, glucose metabolism disorders, or multiple endocrine neoplasia suspicion. This specialist should have deep expertise in the biochemical interpretation of endocrine axes, MEN syndrome differentiation, and the interplay between concurrent endocrinopathies.",
+    "rationale": "This case centered on dual confirmed endocrinopathies (Graves' disease and primary hyperparathyroidism) with suspected MEN syndrome. The team comprised a neurologist, developmental pediatrician, and geneticist \u2014 none of whom are primary endocrine specialists. While the geneticist provided strong MEN-specific reasoning and the team ultimately reached a sound conclusion, critical endocrine nuances required two debate rounds to surface: (a) the tension between Graves' disease (autoimmune) and MEN2A (germline oncogenic) was not adequately addressed in Round 1; (b) the thyroid nodule morphology distinction between PTC and MTC required Observer prompting; (c) the Jod-Basedow phenomenon was incorrectly attributed to sestamibi rather than iodinated contrast. An endocrinologist would have caught these issues in Round 1 and improved both accuracy and efficiency.",
+    "evidence_from_case": "Round 1 Observer: 'Graves' disease (autoimmune thyrotoxicosis) is not a recognized component of MEN2A. MEN2A-associated thyroid disease is medullary thyroid carcinoma, not autoimmune hyperthyroidism. The coexistence of Graves' with MEN2A is possible but unusual, and this discordance deserves more scrutiny.' Round 2 Observer: 'sestamibi uses technetium-99m (a nuclear medicine tracer), NOT iodinated contrast... This appears to be a minor knowledge error amplified by urgency framing.' Both issues fall squarely within endocrinology domain expertise.",
+    "affected_section": "Article IV, Section 4.3 (Team Evolution) and team_topology.json",
+    "status": "proposed"
+  }
+]

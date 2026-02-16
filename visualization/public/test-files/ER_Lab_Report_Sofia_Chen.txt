@@ -1,0 +1,77 @@
+EMERGENCY DEPARTMENT LAB REPORT
+===============================
+Facility: St. Margaret's Regional Medical Center
+Date: 2026-01-28  Time: 14:32
+Patient: Sofia Chen  DOB: 2008-09-14  MRN: 4471892
+Ordering Physician: Dr. R. Kapoor, Emergency Medicine
+
+REASON FOR VISIT: 17yo F brought in by EMS after witnessed collapse at school with bilateral arm shaking ~45 seconds. Second syncopal episode in 2 months.
+
+COMPREHENSIVE METABOLIC PANEL
+-----------------------------
+Sodium:          139 mEq/L       [136-145]      NORMAL
+Potassium:       2.8 mEq/L       [3.5-5.0]      ** CRITICAL LOW **
+Chloride:        101 mEq/L       [98-106]       NORMAL
+CO2:             28 mEq/L        [23-29]        NORMAL
+BUN:             14 mg/dL        [7-20]         NORMAL
+Creatinine:      0.7 mg/dL       [0.6-1.2]      NORMAL
+Glucose:         102 mg/dL       [70-100]       SLIGHTLY ELEVATED
+Calcium:         12.4 mg/dL      [8.5-10.5]     ** HIGH **
+Ionized Calcium: 6.8 mg/dL       [4.5-5.6]      ** HIGH **
+Phosphorus:      1.8 mg/dL       [2.5-4.5]      ** LOW **
+Magnesium:       1.6 mg/dL       [1.7-2.2]      LOW
+Alk Phos:        280 U/L         [44-147]       ** HIGH **
+AST:             22 U/L          [10-40]        NORMAL
+ALT:             18 U/L          [7-56]         NORMAL
+Albumin:         4.1 g/dL        [3.5-5.5]      NORMAL
+Total Protein:   7.2 g/dL        [6.0-8.3]      NORMAL
+
+THYROID PANEL
+-------------
+TSH:             0.08 mIU/L      [0.27-4.20]    ** SUPPRESSED **
+Free T4:         4.2 ng/dL       [0.93-1.70]    ** HIGH **
+Free T3:         8.9 pg/mL       [2.0-4.4]      ** HIGH **
+
+CBC
+---
+WBC:             9.2 K/uL        [4.5-11.0]     NORMAL
+RBC:             4.3 M/uL        [4.0-5.5]      NORMAL
+Hemoglobin:      13.1 g/dL       [12.0-16.0]    NORMAL
+Hematocrit:      39.2%           [36-46]        NORMAL
+Platelets:       268 K/uL        [150-400]      NORMAL
+
+COAGULATION
+-----------
+PT:              12.1 sec        [11.0-13.5]    NORMAL
+INR:             1.0                             NORMAL
+
+URINALYSIS
+----------
+Specific Gravity: 1.010          [1.005-1.030]  NORMAL
+pH:              6.5             [5.0-8.0]      NORMAL
+Glucose:         Negative
+Protein:         Negative
+Calcium/Creat Ratio: PENDING
+
+ADDITIONAL ORDERS (PENDING)
+---------------------------
+- PTH, Intact (Parathyroid Hormone): PENDING - sent to reference lab
+- Thyroid Stimulating Immunoglobulin (TSI): PENDING
+- Anti-TPO Antibodies: PENDING
+- Calcitonin: PENDING
+- 25-OH Vitamin D: PENDING
+- Urine Calcium/Creatinine Ratio: PENDING
+- CEA: PENDING
+
+CRITICAL VALUES CALLED TO:
+Dr. R. Kapoor at 14:47 — Potassium 2.8, Calcium 12.4
+
+NOTES:
+- Triad of hypercalcemia + hypophosphatemia + elevated Alk Phos strongly suggests primary hyperparathyroidism
+- Suppressed TSH with elevated Free T4 and Free T3 confirms thyrotoxicosis
+- Concurrent parathyroid and thyroid pathology in a 17-year-old: consider MEN syndrome (Multiple Endocrine Neoplasia)
+- Recommend endocrinology URGENT consult
+- Potassium replacement initiated: 40 mEq KCl IV over 4 hours
+- Cardiac monitoring ordered given hypokalemia + thyrotoxicosis
+
+Resulted by: Laboratory Staff — J. Morrison, MT(ASCP)

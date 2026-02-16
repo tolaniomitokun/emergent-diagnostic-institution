@@ -1,0 +1,179 @@
+PRIMARY CARE OFFICE VISIT NOTES — COMPILED
+=============================================
+Facility: Riverside Family Medicine Associates
+Patient: Maria Santos  DOB: 1991-06-18  MRN: 7823415
+PCP: Dr. A. Whitfield, MD, FAAFP
+
+=============================================
+VISIT 1: 2024-08-10
+=============================================
+CHIEF COMPLAINT: "I'm exhausted all the time. I can't get through a school day."
+
+HPI: Maria is a 33yo (turning 34 next month) female elementary school teacher presenting with approximately 6 weeks of progressive, debilitating fatigue. She reports difficulty waking in the morning despite 8-9 hours of sleep, requiring a nap immediately after school, and feeling "completely drained" by midday. She denies depressed mood but endorses frustration about her functional decline. She is unable to keep up with her 3-year-old son in the evenings. She denies weight changes, fevers, night sweats, dyspnea, or chest pain. She recently completed a demanding school year and took on a new grade level (3rd grade) this year. No recent travel or illness.
+
+PMH: Unremarkable. Uncomplicated vaginal delivery 3 years ago.
+MEDICATIONS: Prenatal vitamin (still taking from pregnancy), ibuprofen PRN for occasional headaches
+ALLERGIES: Sulfa (rash)
+FAMILY HISTORY: Mother — type 2 diabetes. Father — hypertension. Maternal aunt — "arthritis" (type unknown). No known autoimmune disease.
+SOCIAL HISTORY: Married. One child age 3. Elementary school teacher x 8 years. Non-smoker. Rare alcohol. No recreational drugs.
+
+EXAM:
+VS: HR 78, BP 118/74, Temp 98.4F, Wt 142 lbs, Ht 5'5"
+General: Well-appearing female, appears tired. No acute distress.
+HEENT: Normal. No lymphadenopathy. Oropharynx clear. Thyroid non-enlarged.
+CV: RRR, no murmurs.
+Lungs: CTA bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Skin: No rashes.
+Neuro: Alert, oriented x4. Normal affect.
+
+LABS ORDERED:
+- TSH: 2.4 mIU/L [0.4-4.0] — Normal
+- CBC: Hgb 12.1, WBC 5.8, Plt 198 — All normal
+- BMP: Within normal limits
+- Ferritin: 28 ng/mL [12-150] — Low-normal
+
+ASSESSMENT: Fatigue, likely multifactorial. Working mother of young child, new teaching assignment, sleep may be inadequate despite reported hours. Ferritin low-normal — borderline iron stores but not deficient.
+
+PLAN:
+1. Lifestyle counseling: sleep hygiene, exercise 30 min daily, stress management techniques
+2. Consider iron supplementation if fatigue persists
+3. Discussed possibility of occupational burnout — patient to consider counseling or EAP resources through school district
+4. Return in 6-8 weeks if not improving
+
+=============================================
+VISIT 2: 2024-12-05
+=============================================
+CHIEF COMPLAINT: "My hands and wrists hurt every morning. It takes over an hour to loosen up."
+
+HPI: Maria returns reporting 6 weeks of bilateral pain and stiffness in the MCP and PIP joints of both hands and both wrists. Stiffness is worst upon waking and lasts 60-90 minutes. Improves with activity throughout the day. She has difficulty opening jars, gripping pens, and buttoning her son's coat. She has tried naproxen 220mg OTC with partial relief. Fatigue from prior visit has continued and possibly worsened — she is now relying on caffeine (3-4 cups daily, up from 1). She denies hand swelling, redness, or warmth. No other joint involvement.
+
+EXAM:
+VS: HR 82, BP 122/76, Temp 98.8F, Wt 139 lbs (3 lb loss since August)
+MSK: Tenderness to palpation over bilateral 2nd-4th MCP joints and both wrists. No visible synovitis or erythema. Full ROM but with pain at extremes of wrist flexion/extension. Grip strength mildly reduced bilaterally.
+Remainder of exam: Unremarkable. No rash. No lymphadenopathy.
+
+LABS ORDERED:
+- Rheumatoid Factor: <10 IU/mL [<14] — NEGATIVE
+- ESR: 22 mm/hr [0-20] — MILDLY ELEVATED
+- Anti-CCP: Not ordered
+- ANA: Not ordered
+
+ASSESSMENT: Bilateral hand and wrist arthralgias with morning stiffness. RF negative. Most likely repetitive strain injury / overuse syndrome given occupation (extensive writing, grading, manual classroom activities). Mildly elevated ESR — nonspecific, may reflect any low-grade inflammatory process.
+
+PLAN:
+1. Naproxen 500mg BID with food x 2 weeks, then PRN
+2. Wrist splints for nighttime use
+3. Ergonomic modifications for classroom
+4. OT referral if not improving
+5. Return in 6-8 weeks
+
+** NOTE ADDED IN RETROSPECT (Dr. Whitfield, 2025-02-01): At this visit, the mildly elevated ESR should not have been dismissed as nonspecific. Additionally, RF-negative inflammatory arthritis in a young woman should have prompted ANA testing. Anti-CCP antibodies should also have been sent to more definitively exclude rheumatoid arthritis. The symmetric small joint involvement with prolonged morning stiffness (>60 minutes) is characteristic of inflammatory arthritis, not repetitive strain. I anchored on the occupational explanation without adequately considering autoimmune etiologies. **
+
+=============================================
+VISIT 3: 2025-02-14
+=============================================
+CHIEF COMPLAINT: "I keep getting fevers. I think I'm catching everything from the kids at school."
+
+HPI: Maria presents with a 2-month history of recurrent low-grade fevers. She describes fevers of 99.5-100.4F occurring every 2-3 weeks, each episode lasting 3-5 days, then resolving spontaneously. She denies associated URI symptoms, cough, dysuria, or GI complaints with most episodes. She has taken a total of 6 sick days in the past 2 months (she used only 2 all last year). Joint pain continues — has spread to involve bilateral knees intermittently. Fatigue remains severe.
+
+EXAM:
+VS: HR 84, BP 116/72, Temp 99.8F, Wt 136 lbs (6 lb total loss since August)
+General: Tired-appearing. Mild pallor noted.
+HEENT: Oropharynx clear. No pharyngeal erythema or exudate. TMs normal.
+Lymph: No cervical, axillary, or inguinal lymphadenopathy.
+CV: RRR, no murmurs.
+Lungs: CTA bilaterally.
+Abdomen: Soft, non-tender. No hepatosplenomegaly.
+
+LABS ORDERED:
+- CBC: Hgb 10.8 [12.0-16.0] — LOW; WBC 4.2 [4.5-11.0] — LOW-NORMAL; Plt 145 [150-400] — LOW-NORMAL
+- BMP: Within normal limits
+- Monospot: Negative
+- Hepatitis panel: Negative
+- HIV: Negative
+- Blood cultures x2: No growth at 5 days
+- Ferritin: 18 ng/mL [12-150] — LOW
+
+ASSESSMENT:
+1. Recurrent fevers — most likely recurrent viral infections given elementary school exposure. Serious infectious etiologies (EBV, hepatitis, HIV) ruled out. Blood cultures negative.
+2. Mild anemia (Hgb 10.8) — likely iron deficiency given low ferritin, heavy menstrual periods reported. Will treat.
+3. WBC and platelets low-normal — will monitor.
+
+PLAN:
+1. Ferrous sulfate 325mg daily with vitamin C
+2. Menstrual diary to quantify blood loss
+3. Continue naproxen PRN for joint symptoms
+4. Return if fevers exceed 101F or new symptoms develop
+5. Recheck CBC in 6-8 weeks
+
+** NOTE ADDED IN RETROSPECT (Dr. Whitfield, 2025-02-01): This visit represents perhaps the most significant missed opportunity. The CBC at this visit showed early cytopenias across all three lines — anemia (Hgb 10.8), leukopenia (WBC 4.2, below the low end of our lab's range), and borderline thrombocytopenia (Plt 145). In a young woman with fatigue, inflammatory joint pain, and recurrent fevers, pancytopenia should have triggered consideration of SLE. I attributed each abnormality to a different benign cause (anemia to menses, fevers to school exposure) rather than recognizing the pattern. A simple ANA at this visit — 12 months ago — could have changed the trajectory of Maria's care. Her 6-pound weight loss was also not adequately addressed. **
+
+=============================================
+VISIT 4: 2025-12-12
+=============================================
+CHIEF COMPLAINT: "My fingers turn white and blue in the cold. Something is really wrong with me."
+
+HPI: Maria presents with 3 weeks of Raynaud phenomenon — bilateral fingers (digits 2-5) turning white, then blue/purple, then red with cold exposure or stress. Episodes last 15-30 minutes and are accompanied by numbness and tingling. She is now wearing gloves indoors. She also reports that the hand and wrist pain has never resolved, she continues to have intermittent fevers, she had a "chest cold" 2 months ago with sharp chest pain that sent her to the ER (pleural effusions found), and she has had intermittent mouth sores and hair thinning over the past several months.
+
+She is frustrated and tearful. She states: "I've been to five different doctors in the past year and nobody can tell me what's wrong. I feel like I'm falling apart."
+
+REVIEW OF SYSTEMS (comprehensive — prompted by patient frustration):
+- Constitutional: Fatigue (18 months), recurrent fevers, 8 lb weight loss
+- Skin: Malar rash after sun exposure (10 months ago), photosensitivity, hair thinning (8 months)
+- HEENT: Recurrent oral ulcers (6 months)
+- CV: Pleuritic chest pain (4 months ago, ER visit)
+- MSK: Bilateral hand/wrist/knee arthralgias with morning stiffness >1 hour
+- Vascular: Raynaud phenomenon (3 weeks)
+- Neuro: No seizures, no psychosis
+- Renal: No reported changes in urine (not directly asked)
+
+EXAM:
+VS: HR 88, BP 128/82, Temp 99.2F, Wt 134 lbs
+General: Tired, tearful. Appears chronically ill.
+Skin: No active malar rash today (not sun-exposed recently). Mild diffuse alopecia — thinning at temples and frontal hairline. Two small ulcerations on buccal mucosa (right side, ~4mm each, shallow, erythematous base).
+MSK: Tenderness and mild fusiform swelling of bilateral 2nd-4th MCP joints and PIP joints. Bilateral wrist tenderness. Bilateral small knee effusions.
+Vascular: Digits 3 and 4 on left hand appear mildly cyanotic at tips during exam. Radial and ulnar pulses 2+ bilaterally. Nail fold capillaroscopy not performed (not available).
+
+LABS ORDERED:
+- ANA: POSITIVE, 1:640, Speckled pattern
+- Anti-dsDNA: PENDING (sent to reference lab)
+- Anti-Smith: PENDING
+- Anti-RNP: PENDING
+- CBC: Hgb 10.3, WBC 3.4, Plt 132 — ALL DECLINING
+- ESR: 52 mm/hr — ELEVATED
+- CRP: 18 mg/L — ELEVATED
+- C3: PENDING
+- C4: PENDING
+- Urinalysis: PENDING
+- Comprehensive metabolic panel: Creatinine 0.9 (normal), albumin 3.2 (low)
+
+ASSESSMENT:
+1. Highly positive ANA (1:640, speckled) in the setting of polyarthritis, recurrent fevers, malar rash, photosensitivity, oral ulcers, alopecia, serositis (pleural effusions), Raynaud phenomenon, and progressive cytopenias. Clinical presentation is overwhelmingly consistent with Systemic Lupus Erythematosus (SLE).
+2. Progressive pancytopenia — anemia, leukopenia, thrombocytopenia worsening over 12 months.
+3. Concern for renal involvement given low albumin — awaiting urinalysis.
+
+PLAN:
+1. URGENT rheumatology referral — called Dr. N. Vasquez's office directly, requested expedited appointment given high suspicion for SLE with potential organ involvement. Earliest available: 3 months out. Placed on cancellation list.
+2. Additional serologies pending (dsDNA, Smith, RNP, complements)
+3. 24-hour urine protein collection ordered
+4. Renal function monitoring
+5. Continue ibuprofen for symptom management — discussed risks of NSAIDs if renal involvement confirmed
+6. Strict photoprotection counseling: SPF 50+, sun-protective clothing, avoid midday sun
+7. Return in 2 weeks for lab review
+8. If acute worsening (high fever, severe joint swelling, facial swelling, dark/foamy urine, chest pain) — go to ER immediately
+
+DOCUMENTATION NOTE:
+I am compiling this patient's records for the rheumatology referral and must acknowledge a significant diagnostic delay. In retrospect, the timeline is clear:
+
+Visit 1 (08/2024): Fatigue — dismissed as burnout. Reasonable in isolation.
+Visit 2 (12/2024): Inflammatory joint pain + mildly elevated ESR — I diagnosed repetitive strain and did not order ANA. This was the first missed inflection point.
+Visit 3 (02/2025): Recurrent fevers + early pancytopenia — I attributed each finding to a separate benign cause. This was the most critical missed opportunity. An ANA ordered here would have led to diagnosis 10 months earlier.
+Visit 4 (12/2025): Raynaud phenomenon — by now the pattern is unmistakable, but the patient has suffered 18 months of progressive disease with possible renal involvement that may have been preventable with earlier immunosuppressive therapy.
+
+The failure was not in any single visit but in the absence of a longitudinal diagnostic framework. Each symptom was evaluated in isolation, and I did not step back to consider the cumulative picture until Maria herself, through her frustration, forced a comprehensive review of systems. The 6-provider fragmentation (PCP, dermatology x2 visits, dentist, ER, urgent care) compounded this, as no single clinician held the complete picture.
+
+I should have ordered an ANA no later than Visit 2 (RF-negative inflammatory arthritis in a young woman) and certainly by Visit 3 (adding fevers and cytopenias to the picture). This case will be discussed at our practice quality improvement conference.
+
+Electronically signed: Dr. A. Whitfield, MD, FAAFP
+Records compiled: 2026-02-10

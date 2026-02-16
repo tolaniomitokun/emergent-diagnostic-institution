@@ -1,0 +1,184 @@
+{
+  "case_id": "CASE-004",
+  "title": "The Farmer Who Forgot",
+  "description": "A 52-year-old male farmer with 2-year progressive cognitive decline, tremor, and personality changes, misdiagnosed as early-onset Alzheimer's. The key missed clue is chronic heavy metal exposure from farming pesticides, old barn with peeling lead paint, and contaminated well water.",
+  "patient": {
+    "age": 52,
+    "sex": "male",
+    "chief_complaint": "Progressive memory loss, tremor, and personality changes for 2 years",
+    "history_of_present_illness": "52-year-old male farmer presenting with 2-year history of progressive cognitive decline, intention tremor, and personality changes. Wife reports he was 'sharp as a tack' until about 2 years ago. Onset was insidious: first noticed difficulty remembering where he left tools, then progressed to getting lost on his own property, forgetting to feed livestock, and inability to manage farm finances he'd handled for 30 years. Personality changes emerged approximately 18 months ago — increased irritability, emotional outbursts uncharacteristic of his baseline temperament, social withdrawal, and episodes of confusion. Tremor developed approximately 14 months ago, initially in hands, now affecting both upper extremities. Progressive fatigue and weakness over 12 months. Chronic abdominal pain, constipation, and intermittent nausea for 10 months. Lost 18 pounds over past year. Wife also notes he has developed a bluish-gray discoloration along his gum line that was evaluated by his dentist as 'periodontal disease' 6 months ago. He has been seen by 5 providers over the past 2 years: his PCP, a neurologist, a neuropsychologist, a GI specialist, and a dentist. No provider has ordered heavy metal testing despite his occupational and environmental exposures.",
+    "past_medical_history": [
+      "Hypertension (10 years, controlled)",
+      "Type 2 diabetes (5 years, diet-controlled)",
+      "Osteoarthritis bilateral knees",
+      "History of kidney stones (2 episodes, ages 40 and 45)"
+    ],
+    "medications": [
+      "Lisinopril 20mg daily",
+      "Metformin 500mg BID",
+      "Donepezil 10mg daily (started 8 months ago for 'Alzheimer's')",
+      "Acetaminophen 500mg PRN",
+      "Multivitamin daily"
+    ],
+    "allergies": ["Penicillin (rash)"],
+    "social_history": "Farmer for 30 years on 200-acre family farm. Grows corn and soybeans. Uses pesticides and herbicides regularly — applies them himself without consistent use of respiratory protection or gloves. Farm has an old barn (built 1940s) with peeling paint that he scrapes and maintains himself. Property uses well water for drinking and irrigation — well is approximately 60 years old, downstream from a former industrial site. No history of well water testing. Non-smoker. Social drinker (2-3 beers on weekends). No recreational drugs. Married 28 years, two adult children. Wife is his primary caregiver.",
+    "family_history": "Father died at 78 of heart disease. Mother alive at 80, has osteoporosis. No family history of dementia, Alzheimer's disease, Parkinson's disease, or neurological disorders. Brother (55) is healthy. Sister (48) has hypothyroidism."
+  },
+  "vitals": {
+    "heart_rate": 72,
+    "blood_pressure": "148/92",
+    "respiratory_rate": 16,
+    "temperature": 37.0,
+    "oxygen_saturation": 97
+  },
+  "labs": {
+    "CBC": {
+      "WBC": "6.2 K/uL [4.5-11.0]",
+      "Hemoglobin": "11.8 g/dL [13.5-17.5] **LOW — microcytic anemia**",
+      "MCV": "76 fL [80-100] **LOW — microcytic**",
+      "Platelets": "195 K/uL [150-400]",
+      "RDW": "16.2% [11.5-14.5] **HIGH**",
+      "Reticulocyte_count": "2.8% [0.5-1.5] **HIGH — hemolytic or blood loss**"
+    },
+    "CMP": {
+      "Sodium": "139 mEq/L [136-145]",
+      "Potassium": "4.2 mEq/L [3.5-5.0]",
+      "Chloride": "101 mEq/L [98-106]",
+      "CO2": "24 mEq/L [23-29]",
+      "BUN": "22 mg/dL [7-20] **slightly elevated**",
+      "Creatinine": "1.4 mg/dL [0.7-1.3] **mildly elevated — Stage 2 CKD**",
+      "eGFR": "58 mL/min/1.73m2 [>90] **reduced**",
+      "Glucose": "118 mg/dL [70-100] **elevated, known DM2**",
+      "Calcium": "9.8 mg/dL [8.5-10.5]",
+      "Albumin": "3.6 g/dL [3.5-5.5]",
+      "Total_protein": "7.1 g/dL [6.0-8.3]",
+      "AST": "38 U/L [10-40]",
+      "ALT": "42 U/L [7-56]",
+      "Alk_Phos": "95 U/L [44-147]",
+      "Total_bilirubin": "1.3 mg/dL [0.1-1.2] **mildly elevated**"
+    },
+    "Urinalysis": {
+      "Protein": "1+ **trace proteinuria**",
+      "Blood": "Negative",
+      "Glucose": "1+",
+      "Specific_gravity": "1.025",
+      "note": "No heavy metal urine screen was ordered"
+    },
+    "Iron_studies": {
+      "Serum_iron": "38 ug/dL [60-170] **LOW**",
+      "TIBC": "420 ug/dL [250-370] **HIGH**",
+      "Ferritin": "18 ng/mL [12-300]",
+      "note": "Iron deficiency anemia workup stopped here. Sideroblastic anemia not considered. No peripheral smear with basophilic stippling was ordered."
+    },
+    "Thyroid": {
+      "TSH": "2.4 mIU/L [0.4-4.0]",
+      "Free_T4": "1.1 ng/dL [0.8-1.8]"
+    },
+    "Other": {
+      "B12": "485 pg/mL [200-900]",
+      "Folate": "12.2 ng/mL [>3.0]",
+      "HbA1c": "6.4% [<5.7 normal, 5.7-6.4 prediabetic]",
+      "Uric_acid": "8.2 mg/dL [3.5-7.2] **HIGH**",
+      "ESR": "28 mm/hr [0-15] **elevated**",
+      "RPR": "Non-reactive"
+    }
+  },
+  "imaging": {
+    "MRI_brain": "Performed 10 months ago. Mild generalized cortical atrophy 'consistent with early neurodegenerative process.' No focal lesions, masses, or acute infarcts. No evidence of normal pressure hydrocephalus. Mild periventricular white matter changes attributed to 'chronic microvascular ischemic disease.' Radiologist impression: 'Mild diffuse cortical atrophy, may be consistent with early-onset Alzheimer's disease in appropriate clinical context.'",
+    "CT_abdomen": "Performed 8 months ago for abdominal pain workup. Mild hepatomegaly. No masses, obstruction, or free fluid. Bilateral renal cortical thinning noted as incidental finding. Scattered colonic diverticula without diverticulitis.",
+    "Peripheral_nerve_study": "Performed 6 months ago. EMG/NCS showed mild sensorimotor polyneuropathy in bilateral lower extremities with reduced conduction velocities. Interpreted as 'diabetic neuropathy.'"
+  },
+  "neurocognitive_testing": {
+    "MMSE": "21/30 (performed 10 months ago) — deficits in recall (0/3), attention/calculation (2/5), and visuospatial construction",
+    "MoCA": "18/30 (performed 8 months ago) — significant deficits in delayed recall, executive function (Trail Making B errors), visuospatial/executive, and attention",
+    "Neuropsychologist_impression": "Pattern of cognitive decline affecting memory, executive function, attention, and visuospatial processing. 'Profile is consistent with early-onset Alzheimer's disease, though the prominent executive dysfunction and attention deficits are somewhat atypical. Recommend re-evaluation in 6 months.'"
+  },
+  "clinical_exam_findings": {
+    "General": "Thin, appears older than stated age. Slow to respond. Flat affect.",
+    "HEENT": "**Bluish-gray line along gingival margin of lower teeth (Burton line)** — documented by dentist as 'pigmented gingival tissue, likely chronic periodontal disease.' No oral ulcers.",
+    "Neurological": {
+      "Mental_status": "Alert but slow. Oriented to person and place, not to date (off by 2 months). Difficulty with serial 7s. Cannot recall 3 objects at 5 minutes.",
+      "Cranial_nerves": "Intact II-XII. No papilledema.",
+      "Motor": "Bilateral intention tremor, worse in dominant right hand. Mild bilateral wrist drop. Grip strength reduced (3/5 bilateral). Proximal strength 4/5 bilateral upper and lower extremities.",
+      "Sensory": "Decreased pinprick and vibration sense in stocking-glove distribution bilateral lower extremities to mid-calf.",
+      "Reflexes": "Hyporeflexia bilateral lower extremities (1+). Upper extremities 2+.",
+      "Gait": "Slow, wide-based, unsteady. Mild foot drop bilateral.",
+      "Coordination": "Impaired finger-to-nose with terminal intention tremor bilateral."
+    },
+    "Abdominal": "Mild diffuse tenderness. Hepatomegaly (liver edge palpable 3cm below costal margin). No splenomegaly. Decreased bowel sounds.",
+    "Extremities": "Pale nail beds. No edema. Muscle wasting in bilateral thenar eminences and interosseous muscles of hands.",
+    "Skin": "Pale. No rashes. No jaundice."
+  },
+  "timeline": [
+    {
+      "date": "2024-02",
+      "age": "50",
+      "event": "Onset of memory difficulties",
+      "provider": "Self-reported",
+      "details": "Wife first notices husband forgetting where he left tools, repeating questions. Attributes to work stress and fatigue."
+    },
+    {
+      "date": "2024-06",
+      "age": "50",
+      "event": "PCP visit for memory concerns",
+      "provider": "Dr. R. Thornton, Family Medicine",
+      "details": "Wife brings him in after he got lost driving to the feed store he's visited weekly for 20 years. PCP notes memory complaints, mild hypertension poorly controlled, and 'seems depressed.' Orders TSH, B12, RPR (all normal). Starts sertraline for depression. Does not perform cognitive screening. Does not ask about occupational exposures."
+    },
+    {
+      "date": "2024-08",
+      "age": "50",
+      "event": "Tremor onset and personality changes",
+      "provider": "Self-reported",
+      "details": "Develops hand tremor, initially intermittent. Wife reports increasing irritability, emotional outbursts (throwing tools, yelling at livestock), social withdrawal from church and community events."
+    },
+    {
+      "date": "2024-10",
+      "age": "50",
+      "event": "Neurology consultation",
+      "provider": "Dr. M. Ashworth, Neurology",
+      "details": "Referred by PCP for tremor and cognitive decline. MMSE 21/30. MRI brain shows mild cortical atrophy. Neurologist diagnoses 'probable early-onset Alzheimer's disease' based on progressive cognitive decline + MRI atrophy + age. Starts donepezil 5mg, titrated to 10mg. Notes tremor as 'likely essential tremor, may also be anxiety-related.' Does not investigate tremor etiology further. Does not ask about occupational history or exposures."
+    },
+    {
+      "date": "2024-12",
+      "age": "51",
+      "event": "Neuropsychological evaluation",
+      "provider": "Dr. K. Okonkwo, Neuropsychology",
+      "details": "MoCA 18/30. Detailed cognitive battery shows deficits in memory, executive function, attention, and visuospatial processing. Neuropsychologist notes 'profile is consistent with early-onset AD, though prominent executive dysfunction and attention deficits are somewhat atypical.' Recommends re-evaluation in 6 months. Does not suggest alternative etiologies for the atypical profile."
+    },
+    {
+      "date": "2025-02",
+      "age": "51",
+      "event": "GI consultation for abdominal symptoms",
+      "provider": "Dr. S. Patel, Gastroenterology",
+      "details": "Chronic abdominal pain, constipation, nausea, 18-lb weight loss. CT abdomen shows mild hepatomegaly and diverticula. Upper endoscopy: mild gastritis, no H. pylori. Colonoscopy: diverticulosis, no masses. Diagnosed 'functional abdominal pain, IBS-C, mild NAFLD.' GI symptoms attributed to stress of Alzheimer's diagnosis and farm workload. Does not connect abdominal symptoms to neurological picture."
+    },
+    {
+      "date": "2025-04",
+      "age": "51",
+      "event": "Peripheral nerve study",
+      "provider": "Dr. M. Ashworth, Neurology",
+      "details": "EMG/NCS shows mild sensorimotor polyneuropathy bilateral lower extremities. Attributed to diabetic neuropathy despite HbA1c 6.4% (well-controlled) and only 5 years of diabetes. No alternative causes for neuropathy investigated."
+    },
+    {
+      "date": "2025-06",
+      "age": "52",
+      "event": "Dentist visit for gum discoloration",
+      "provider": "Dr. L. Yamamoto, DDS",
+      "details": "Blue-gray line along gingival margin documented. Diagnosed as 'chronic periodontal disease with pigmentation changes.' Recommended improved dental hygiene. Did not recognize Burton line (pathognomonic sign of lead poisoning). No referral to medicine."
+    },
+    {
+      "date": "2025-08",
+      "age": "52",
+      "event": "PCP follow-up — worsening decline",
+      "provider": "Dr. R. Thornton, Family Medicine",
+      "details": "Wife reports he can no longer safely operate farm equipment, needs help dressing, became agitated and confused and was found wandering the property at night. Weight down another 8 lbs. PCP notes worsening despite donepezil. Considers changing to memantine. Checks CBC showing microcytic anemia (Hgb 11.8, MCV 76). Orders iron studies — serum iron low, TIBC high, ferritin low-normal. Starts iron supplementation. Does not order peripheral smear. Does not investigate cause of microcytic anemia beyond iron deficiency. Does not re-evaluate the 'Alzheimer's' diagnosis despite rapid progression atypical for AD."
+    },
+    {
+      "date": "2025-12",
+      "age": "52",
+      "event": "Current presentation — wife seeks second opinion",
+      "provider": "New provider evaluation",
+      "details": "Wife brings comprehensive folder of records. Reports husband has declined dramatically — now needs assistance with all ADLs, has bilateral hand tremor making feeding himself difficult, episodes of confusion and agitation, chronic constipation requiring daily laxatives, 26 total pounds lost. She states: 'This isn't Alzheimer's. My father-in-law had Alzheimer's and this is different. Harold was fine 2 years ago and now he can barely function. Alzheimer's doesn't move this fast.' She also mentions the well water 'has always tasted metallic' and that Harold recently scraped and repainted the old barn without wearing a mask."
+    }
+  ]
+}

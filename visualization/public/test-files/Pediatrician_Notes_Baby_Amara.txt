@@ -1,0 +1,310 @@
+PEDIATRIC OFFICE VISIT NOTES — COMPILED
+========================================
+Facility: Bright Start Pediatrics
+Patient: Amara Okafor  DOB: 2025-09-28  MRN: 5592847
+Sex: Female
+PCP: Dr. P. Nakamura, MD, FAAP
+Insurance: Blue Shield PPO
+
+BIRTH HISTORY (from hospital discharge summary):
+Maternal Age: 28, G1P1, prenatal care adequate
+Delivery: 39+2 weeks, normal vaginal delivery, no complications
+Birth Weight: 7 lbs 2 oz (3.23 kg) — 50th percentile
+Birth Length: 20 inches (50.8 cm) — 55th percentile
+Head Circumference: 34.5 cm — 60th percentile
+APGARs: 8 (1 min), 9 (5 min)
+Newborn Screen: Normal (received 2025-10-03)
+Hearing Screen: Pass bilaterally
+Newborn Exam (by Dr. J. Washington, OB/GYN): "Well-appearing term female infant. Anterior fontanelle soft and flat. Red reflex present bilaterally. Palate intact. Heart: regular rate, no murmur, normal S1 and S2. Lungs clear. Abdomen soft, no organomegaly. Femoral pulses 2+ and symmetric bilaterally. Hips stable, negative Ortolani and Barlow. Genitalia normal female. Anus patent. Skin warm, pink, no jaundice."
+Discharge: 48 hours of life, breastfeeding, weight loss 5.8% (within normal)
+
+========================================
+VISIT 1: 2025-10-12 (Age: 2 weeks)
+========================================
+CHIEF COMPLAINT: Well-child visit / newborn check
+
+HPI: Baby Amara presents for her 2-week well-child visit. Mother (Adesola) reports the baby is breastfeeding approximately every 2-2.5 hours. Mother notes the baby "breathes really fast sometimes, especially when feeding and right after." She asks whether this is normal. Father (Emmanuel) also expresses concern about the breathing. Parents are first-time parents. No fever, no cough, no vomiting. Stooling 4-6 times daily, yellow seedy stools. Voiding adequately (6+ wet diapers/day). Sleeping in 2-3 hour stretches. Umbilical cord stump still attached.
+
+VITALS:
+  Weight: 3.45 kg (35th percentile) — regained birth weight plus 220g
+  Length: 51.2 cm (50th percentile)
+  Head Circumference: 35.2 cm (55th percentile)
+  HR: 148 bpm
+  RR: 48 breaths/min (observed at rest, brief period)
+  Temp: 36.8C axillary
+  SpO2: Not obtained (not part of routine protocol for well visits)
+
+GROWTH CHART REVIEW:
+  Birth weight 50th percentile → 2 weeks 35th percentile
+  Note: Percentile decrease attributed to normal post-birth weight fluctuation and establishment of breastfeeding. Expected weight gain in first 2 weeks: 15-30g/day. Actual gain: approximately 16g/day (low end of normal).
+
+PHYSICAL EXAMINATION:
+  General: Alert, active, well-appearing infant. Good tone. Vigorous cry.
+  HEENT: Anterior fontanelle soft, flat, approximately 3x3 cm. Eyes clear. Red reflex present bilaterally. TMs not visualized (deferred in neonate). Nares patent bilaterally. Palate intact. Mucous membranes moist, pink.
+  CV: Rate regular at 148. No murmur appreciated. Normal S1 and S2. No gallop. No click. Precordial activity normal. Femoral pulses 2+ symmetric.
+  Lungs: Clear to auscultation bilaterally. No wheezes, crackles, or stridor. Breathing pattern observed: occasional episodes of tachypnea interspersed with normal respiratory rate — interpreted as periodic breathing pattern normal for age.
+  Abdomen: Soft, non-distended, non-tender to palpation. Liver edge palpable at costal margin (normal for age). No splenomegaly. Umbilical cord stump dry, no erythema.
+  GU: Normal female external genitalia. No labial adhesion.
+  Skin: Pink, warm. No rash. No jaundice. Capillary refill <2 seconds.
+  Neuro: Symmetric Moro reflex. Good suck reflex. Appropriate tone.
+  Hips: Stable. Negative Ortolani and Barlow bilaterally.
+
+ASSESSMENT:
+1. Healthy 2-week-old female, well-child visit
+2. Parental concern regarding breathing pattern — periodic breathing, normal for neonates
+3. Weight gain at lower end of expected range — will monitor at next visit
+
+PLAN:
+- Reassured parents that neonates have irregular breathing patterns ("periodic breathing") and this is expected to regulate over the first few months
+- Continue exclusive breastfeeding on demand every 2-3 hours
+- Vitamin D supplementation 400 IU daily — prescribed
+- Return for 1-month visit
+- ER precautions given: fever >100.4, poor feeding, lethargy, color changes
+
+========================================
+VISIT 2: 2025-10-28 (Age: 1 month)
+========================================
+CHIEF COMPLAINT: Well-child visit / 1-month check
+
+HPI: Mother returns with ongoing concern about fast breathing. Reports the baby seems to "work hard to breathe" during feeds and sometimes after feeds. Feeds are taking longer — now 30-40 minutes per session compared to 15-20 minutes at birth. Baby feeds every 2.5-3 hours. No cough. No fever. No nasal congestion. Mother reports baby occasionally seems "sweaty around the head" after feeding. Stooling 3-5 times daily. Voiding adequate. Baby smiled for the first time this week. Sleeping in 2-3 hour stretches, appears to sleep more than expected.
+
+VITALS:
+  Weight: 3.72 kg (30th percentile)
+  Length: 52.5 cm (45th percentile)
+  Head Circumference: 36.4 cm (50th percentile)
+  HR: 152 bpm
+  RR: 55 breaths/min (noted during examination — infant was intermittently fussy)
+  Temp: 36.9C axillary
+
+GROWTH CHART REVIEW:
+  Birth: 50th → 2 wk: 35th → 1 mo: 30th percentile
+  Weight gain from 2 weeks to 1 month: 270g in 16 days = 17g/day
+  Expected: 25-35g/day at this age
+  ** Weight gain rate is below expected. **
+
+PHYSICAL EXAMINATION:
+  General: Active, intermittently fussy during exam. Tone appears normal. Consolable.
+  HEENT: AF soft, flat. Eyes track to midline. No conjunctival discharge.
+  CV: Rate regular at 152. ** No murmur appreciated. ** Normal S1, S2. No gallop. Femoral pulses 2+ bilaterally.
+  Lungs: Clear bilaterally. No crackles, wheezes, or retractions at this time. RR counted at 55 during fussy period, dropped to 44 when calm.
+  Abdomen: Soft, non-tender. Liver palpable at costal margin. No splenomegaly. Bowel sounds present.
+  Skin: Pink, warm. Mild cradle cap on scalp. Capillary refill <2 seconds.
+  Neuro: Good tone. Tracking visually. Symmetric movements.
+
+ASSESSMENT:
+1. One-month-old female, well-child visit
+2. Tachypnea noted (RR 55) — attributed to crying/fussiness during exam. Per parents, occurs during and after feeds. Likely normal infant breathing variation.
+3. Suboptimal weight gain — gaining approximately 17g/day, below the expected 25-35g/day
+4. Prolonged feeds (30-40 minutes) — feeding difficulty
+
+PLAN:
+- Discussed feeding technique with mother. Encouraged skin-to-skin feeding, breast compression during feeds, and ensuring deep latch.
+- Weight recheck in 2 weeks if parents concerned, otherwise at 2-month visit
+- Continue vitamin D supplementation
+- HepB vaccine given today
+- Return for 2-month well-child visit
+
+** NOTE: The tachypnea to 55 was attributed to fussiness, but this respiratory rate is elevated even for a crying infant. Combined with the suboptimal weight gain and prolonged feeds, this constellation should have prompted a more thorough evaluation including pulse oximetry and potentially a chest X-ray. I did not pursue further workup at this time. **
+
+========================================
+VISIT 3: 2025-11-28 (Age: 2 months)
+========================================
+CHIEF COMPLAINT: Well-child visit / 2-month check
+
+HPI: Mother reports ongoing feeding difficulty. Baby becomes "very sweaty" during breastfeeding. Infant appears to tire significantly after only 2-3 minutes of active sucking, then falls asleep or pulls off the breast, then wakes and attempts to feed again. This cycle repeats for 40-50 minutes per session. Mother reports having to wake the baby to feed sometimes. Baby is "not gaining well." Mother is becoming stressed and tearful about feeding. Father notes baby breathes fast "all the time now, not just during feeds."
+
+VITALS:
+  Weight: 4.1 kg (15th percentile)
+  Length: 54.0 cm (30th percentile)
+  Head Circumference: 38.0 cm (45th percentile)
+  HR: 156 bpm
+  RR: 52 breaths/min (resting, not crying)
+  Temp: 36.8C axillary
+
+GROWTH CHART REVIEW:
+  Birth: 50th → 2 wk: 35th → 1 mo: 30th → 2 mo: 15th percentile
+  Weight gain from 1 month to 2 months: 380g in 31 days = 12g/day
+  ** Significantly below expected gain of 25-35g/day **
+  ** Percentile crossing: dropped from 50th to 15th in 2 months **
+
+PHYSICAL EXAMINATION:
+  General: Small-for-age appearing infant. Alert but appears to fatigue with handling. Tone mildly decreased compared to age expectations.
+  HEENT: AF soft, flat, approximately 3x2.5 cm. Eyes conjugate. Oral mucosa moist.
+  CV: Rate regular at 156, mildly tachycardic for age. ** No murmur appreciated. ** S1 normal, S2 — difficulty assessing due to rapid rate. Precordium — no obvious heave or thrill palpated. Femoral pulses present bilaterally.
+  Lungs: Mild tachypnea at 52 at rest. No retractions noted. No crackles or wheezes. Breathing pattern: consistently elevated respiratory rate even when calm and resting in mother's arms.
+  Abdomen: Soft. Liver palpable at 1-1.5 cm below right costal margin — borderline, may be normal for age. No splenomegaly.
+  Skin: Slightly pale. No cyanosis at rest. Capillary refill 2 seconds. Noted mild diaphoresis on scalp during feeding attempt in office.
+  Neuro: Social smile present. Tracks 180 degrees. Head control improving. Mildly hypotonic on pull-to-sit compared to expected.
+
+ASSESSMENT:
+1. Failure to thrive — weight dropping from 50th to 15th percentile over 2 months
+2. Feeding difficulty — pattern of rapid tiring, diaphoresis, and prolonged feed duration
+3. Tachypnea — RR 52 at rest, consistent with parental reports
+4. Diagnosis: Poor latch technique with possible low milk transfer, leading to inadequate caloric intake
+
+PLAN:
+- Referral to lactation consultant (Sarah Mitchell, IBCLC) — URGENT
+- Mother to begin pumping and supplementing with expressed breast milk via bottle to assess volume intake
+- Consider formula supplementation if breast milk supply inadequate
+- Immunizations: DTaP, IPV, Hib, PCV13, RV administered today
+- Weight recheck in 2 weeks
+- If no improvement, will pursue further workup (labs for metabolic/endocrine causes of FTT)
+
+** NOTE (Retrospective): The diagnosis of "poor latch" was made without objective evidence and before lactation evaluation. The combination of tachypnea at rest (RR 52), tachycardia (HR 156), diaphoresis during feeds, rapid fatiguing during feeds, and progressive failure to thrive is a classic presentation of congestive heart failure in infancy. A pulse oximetry reading, chest X-ray, and echocardiogram should have been ordered at this visit. The heart auscultation documentation of "no murmur" may reflect the difficulty of detecting murmurs in a tachycardic infant — the rapid heart rate shortens diastole and can mask systolic murmurs. A more careful and prolonged cardiac auscultation, or auscultation during a calm/sleeping state, might have detected the murmur earlier. **
+
+========================================
+NOTE: EXTERNAL CORRESPONDENCE RECEIVED
+========================================
+Date Received: 2025-12-18
+From: Sarah Mitchell, IBCLC, Mother & Baby Lactation Center
+RE: Amara Okafor DOB 2025-09-28
+
+Summary: Lactation consultant reports good latch mechanics and adequate maternal milk supply. Weighted feed: 85mL in 25 minutes. HOWEVER, consultant documents abnormal feeding pattern — tachypnea, diaphoresis, rapid fatigue — and explicitly states: "This feeding pattern is NOT consistent with a latch or supply problem. Please evaluate cardiopulmonary."
+
+** This fax was received and scanned into the chart on 12/18/2025. It was reviewed by nursing staff and flagged for my attention. I reviewed it on 12/22/2025. I scheduled a follow-up appointment for the 3-month well-child visit (already scheduled for 12/28/2025) and planned to reassess at that time. In retrospect, this recommendation should have been acted upon immediately. The lactation consultant — who is not a physician — correctly identified that this was not a feeding problem and recommended cardiopulmonary evaluation. A same-week echocardiogram referral at this point would have led to diagnosis 6 weeks earlier. **
+
+========================================
+VISIT 4: 2025-12-28 (Age: 3 months)
+========================================
+CHIEF COMPLAINT: Well-child visit / 3-month check. Follow-up on failure to thrive. Lactation consultant report received.
+
+HPI: Mother reports continued difficulty with feeds despite lactation consultant visit. Baby continues to sweat, breathe fast, and tire during feeds. Mother is now supplementing with expressed breast milk via bottle and has tried formula. Volume intake remains low — estimated 400-500 mL per day (expected for age: 700-900 mL). Baby sleeps excessively (18-20 hours/day). Mother reports the baby "breathes fast even in her sleep." No fever. No cough. No vomiting. Stools decreased to 2-3 per day.
+
+VITALS:
+  Weight: 4.2 kg (< 5th percentile)
+  Length: 56.5 cm (15th percentile)
+  Head Circumference: 39.5 cm (40th percentile)
+  HR: 160 bpm
+  RR: 58 breaths/min (resting, not crying)
+  Temp: 36.9C
+  SpO2: 96% (obtained for the first time at this visit)
+
+GROWTH CHART REVIEW:
+  Birth: 50th → 2 wk: 35th → 1 mo: 30th → 2 mo: 15th → 3 mo: <5th percentile
+  Weight gain from 2 months to 3 months: 100g in 30 days = 3.3g/day
+  ** Severely inadequate weight gain **
+  ** Head circumference relatively preserved (40th percentile) — disproportionate growth pattern consistent with caloric deprivation rather than genetic/syndromic etiology **
+
+PHYSICAL EXAMINATION:
+  General: Thin, small-for-age infant. Appears fatigued. Decreased spontaneous movement compared to age. Alert but subdued.
+  HEENT: AF soft, flat. Eyes clear, tracking. Mucous membranes moist but pale.
+  CV: Rate 160, tachycardic. Rhythm regular. ** Possible soft systolic murmur heard at left sternal border — very faint, may be transmitted breath sounds. Unable to confidently characterize. No definite murmur documented. ** S2 possibly accentuated but difficult to assess given tachycardia.
+  Lungs: Tachypnea at rest, RR 58. Mild subcostal retractions noted. No wheezes. Possible fine crackles at bases — difficult to distinguish from transmitted upper airway sounds.
+  Abdomen: Soft. Liver palpable at 1.5-2 cm below right costal margin. Slightly firm. No splenomegaly.
+  Skin: Pale. No cyanosis at rest. Mild diaphoresis noted on forehead. Capillary refill 2-3 seconds.
+  Extremities: Cool peripherally. No edema.
+  Neuro: Social smile present but less frequent. Tracks, but overall interaction seems diminished compared to expectations for 3 months. Head lag on pull-to-sit.
+
+DIAGNOSTIC IMAGING:
+  CXR ordered due to persistent tachypnea.
+  Result (read by Dr. K. Morrison, Radiologist):
+  "AP view of the chest. Heart appears mildly enlarged. Cardiothoracic ratio borderline at approximately 0.55. Pulmonary vascularity may be mildly increased, though difficult to assess on AP film in this age group. No focal infiltrate. No pleural effusion. No pneumothorax. IMPRESSION: Mild cardiomegaly, possibly normal variant for age. Recommend clinical correlation."
+
+ASSESSMENT:
+1. Failure to thrive — severe, progressive. Weight dropped from 50th percentile at birth to below 5th percentile at 3 months.
+2. Feeding difficulty with diaphoresis and fatigue — not improved with lactation intervention
+3. Persistent tachypnea — RR consistently 52-58 across visits, now with mild subcostal retractions
+4. CXR: mild cardiomegaly, read as "possibly normal variant"
+5. Lactation consultant recommends cardiopulmonary evaluation — noted
+
+PLAN:
+- Increase caloric density of expressed breast milk (add human milk fortifier, target 24 kcal/oz)
+- Formula supplementation with high-calorie formula (Similac Expert Care, 24 kcal/oz)
+- Feeding: small frequent feeds every 2-2.5 hours, limit feed duration to 20-30 minutes to reduce metabolic expenditure
+- Nutrition follow-up in 2 weeks — if no weight improvement, will pursue FTT workup (CBC, CMP, thyroid, celiac screen, urine studies, sweat chloride)
+- CXR result discussed — "mild cardiomegaly likely a normal variant given AP film projection and infant body habitus"
+- Lactation consultant recommendation for cardiopulmonary evaluation: noted, will reassess at follow-up based on response to feeding interventions
+- Return in 2 weeks for weight check or sooner if worsening
+
+** CRITICAL RETROSPECTIVE NOTE: This was a significant missed opportunity. The CXR showing cardiomegaly (CTR ~0.55) in an infant with tachypnea, tachycardia, diaphoresis during feeds, subcostal retractions, failure to thrive, hepatomegaly (liver 1.5-2cm below RCM), and a lactation consultant's explicit recommendation for cardiopulmonary evaluation should have prompted an IMMEDIATE echocardiogram. Instead, I attributed the CXR finding to a "normal variant" and continued to pursue feeding-related interventions. The radiology read was equivocal, but in the clinical context, the finding was not equivocal at all. Additionally, the SpO2 of 96% — while technically within normal limits — is at the lower end for a healthy infant and in the context of all other findings should have raised concern. I should have ordered an echocardiogram at this visit. **
+
+========================================
+VISIT 5: 2026-01-28 (Age: 4 months)
+========================================
+CHIEF COMPLAINT: Weight check, worsening feeding difficulty. Mother reports infant "turns blue around the mouth" during feeds.
+
+HPI: Mother reports the infant has worsened significantly over the past 4 weeks. Feeding is now severely impaired — infant takes only 300-400 mL per day despite high-calorie formula and supplemented breast milk. Mother witnessed the infant's lips and area around the mouth turn blue-purple during a feed yesterday. This resolved when the infant stopped feeding and rested. Father noticed the same event two days prior. The infant is sleeping more than ever (20+ hours/day), has decreased activity, and mother describes her as "floppy." No fever. No cough. No vomiting but frequent spit-ups.
+
+** Also of note: Parents report that the infant was seen in the ER 2 weeks ago (at 3.5 months) for breathing difficulty. Discharge diagnosis was "viral URI." Parents state no further testing was done. ER records requested. **
+
+VITALS:
+  Weight: 4.1 kg (< 3rd percentile) ** HAS LOST 100g SINCE 3-MONTH VISIT **
+  Length: 57.5 cm (10th percentile)
+  Head Circumference: 40.2 cm (35th percentile)
+  HR: 165 bpm ** Tachycardic **
+  RR: 64 breaths/min ** Markedly tachypneic **
+  SpO2: 94% on room air ** LOW **
+  Temp: 36.7C
+  BP (right arm): 78/52 mmHg (normal for age)
+
+GROWTH CHART REVIEW:
+  Birth: 50th → 2 wk: 35th → 1 mo: 30th → 2 mo: 15th → 3 mo: <5th → 4 mo: <3rd percentile
+  ** WEIGHT LOSS between 3 and 4 months **
+  ** Weight-for-age Z-score: approximately -2.8 **
+  ** Weight-for-length: markedly wasted **
+
+PHYSICAL EXAMINATION:
+  General: Small, thin, wasted-appearing infant. Appears fatigued and subdued. Decreased spontaneous activity. Weak cry. Mild diaphoresis at rest.
+  HEENT: AF soft, slightly sunken. Eyes clear but appear sunken. Mucous membranes moist but pale. No oral lesions.
+  CV: ** HYPERACTIVE PRECORDIUM — visible and palpable heave at left sternal border. Grade II/VI holosystolic murmur heard best at left lower sternal border, radiating toward right sternal border. S2 notably LOUD (accentuated P2 component), suggesting elevated pulmonary artery pressure. No S3 gallop appreciated. No thrill palpated. **
+  Lungs: Tachypnea with RR 64. Subcostal and mild intercostal retractions. ** Fine crackles heard at bilateral lung bases posteriorly. ** No wheezes. No stridor. Nasal flaring present intermittently.
+  Abdomen: Soft but mildly distended. ** Liver palpated 3 cm below right costal margin — firm edge, consistent with hepatomegaly. ** No splenomegaly. Bowel sounds present.
+  Extremities: Cool to touch. Mild mottling of lower extremities. No pedal edema. Capillary refill 3 seconds.
+  Skin: Pallor. Mild perioral cyanosis observed at rest, which worsened during feeding attempt in office. Mild diaphoresis.
+  Neuro: Social smile present but diminished. Head lag present. Hypotonic on pull-to-sit. Visual tracking present but delayed.
+
+FEEDING OBSERVATION IN OFFICE:
+  Mother attempted to breastfeed during visit. Infant latched, began sucking weakly. Within 1-2 minutes: RR increased to >70, visible diaphoresis on forehead and scalp, nasal flaring. At 2-3 minutes: infant pulled off breast, appeared exhausted. Perioral cyanosis developed. SpO2 dropped to 92% during active feeding, recovered to 94% with rest. Infant appeared to fall asleep from exhaustion, not satiety.
+
+STAT LABS ORDERED:
+  BNP: 485 pg/mL [normal < 100 pg/mL in infants] ** MARKEDLY ELEVATED — consistent with significant congestive heart failure **
+  CBC: WBC 9.2 K/uL (normal), Hgb 10.8 g/dL (mildly low — dilutional anemia of CHF), Plt 298 K/uL (normal)
+  BMP: Na 136, K 4.8, Cl 100, CO2 20 (mildly low — mild metabolic acidosis from poor perfusion), BUN 12, Creatinine 0.3, Glucose 72, Ca 9.8
+
+STAT ECHOCARDIOGRAM ORDERED — performed same day at Community Children's Hospital (see separate Echo Report).
+
+ECHO RESULTS (preliminary, per phone report from sonographer/reading cardiologist):
+  Large perimembranous ventricular septal defect, approximately 8mm, with left-to-right shunting. Dilated left atrium and left ventricle. LA:Ao ratio 2.1. Estimated RVSP 45 mmHg (moderate pulmonary hypertension). Moderate mitral regurgitation secondary to annular dilation. LV systolic function at lower end of normal (EF 58%). Normal aortic arch. Normal pulmonary and systemic venous return.
+
+ASSESSMENT:
+1. ** LARGE PERIMEMBRANOUS VENTRICULAR SEPTAL DEFECT (8mm) — newly diagnosed **
+2. Congestive heart failure secondary to large left-to-right shunt — explaining the entire clinical picture
+3. Moderate pulmonary hypertension (RVSP 45 mmHg)
+4. Severe failure to thrive — secondary to CHF and increased metabolic demand
+5. Moderate mitral regurgitation — secondary to LV dilation and annular dilation
+6. Feeding intolerance — secondary to CHF, NOT a primary feeding/latch problem
+
+PLAN:
+1. URGENT referral to Pediatric Cardiology — Dr. R. Okonkwo at Children's Heart Center, called and spoke directly, appointment in 2 days
+2. URGENT referral to Pediatric Cardiothoracic Surgery for evaluation of surgical VSD closure
+3. Medical management of CHF initiated:
+   - Furosemide 1 mg/kg/dose PO BID (started today)
+   - Captopril 0.1 mg/kg/dose PO TID (to be started after cardiology confirms)
+4. Feeding plan: small, frequent, high-calorie feeds (24-27 kcal/oz). Consider NG tube supplementation if oral intake remains inadequate. Minimize metabolic expenditure during feeds (limit to 20 min, supplement remainder via NG if placed).
+5. Close follow-up: 48-hour weight check and clinical reassessment
+6. If any worsening — ER immediately. Precautions discussed in detail with parents.
+
+DOCUMENTATION NOTE — RETROSPECTIVE ADDENDUM:
+Added by: Dr. P. Nakamura, MD, FAAP
+Date: 2026-02-10
+
+Upon reviewing this case from its entirety — from the 2-week visit through the diagnosis at 4 months — I am documenting the following self-critical analysis of missed diagnostic opportunities:
+
+1. TACHYPNEA FROM 2 WEEKS OF AGE: Parental reports of fast breathing began at the first visit. While periodic breathing is normal in neonates, the PERSISTENT tachypnea reported by parents at every subsequent visit should have been taken more seriously. RR of 48 at 2 weeks, 55 at 1 month, 52 at 2 months, and 58 at 3 months represents a progressive trend that was inappropriately normalized at each visit.
+
+2. PROGRESSIVE FAILURE TO THRIVE WITH FEEDING DIFFICULTY: The pattern of a baby who sucks vigorously for 2-3 minutes, then becomes diaphoretic, tachypneic, and exhausted, is a hallmark of congestive heart failure in infancy. I attributed this to "poor latch" at the 2-month visit — before any lactation evaluation had been performed — based on a presumptive and incorrect diagnosis.
+
+3. LACTATION CONSULTANT RECOMMENDATION IGNORED: Sarah Mitchell, IBCLC, correctly identified at 2.5 months that this was NOT a feeding problem and explicitly recommended cardiopulmonary evaluation. Her fax was received on 12/18 and I reviewed it on 12/22, but I did not arrange urgent cardiac evaluation. Instead, I waited until the already-scheduled 3-month visit. A non-physician provider correctly identified the problem while I, as the medical provider, continued to pursue a feeding-related diagnosis. Her insight deserves full acknowledgment.
+
+4. CXR SHOWING CARDIOMEGALY DISMISSED: At the 3-month visit, the CXR showed cardiomegaly (CTR ~0.55). While the radiologist read it equivocally as "possibly normal variant," I should have correlated this finding with the clinical picture — an infant with progressive failure to thrive, tachypnea, tachycardia, diaphoresis, feeding difficulty, and hepatomegaly. In this context, cardiomegaly on CXR should have prompted an IMMEDIATE echocardiogram. This was a failure of clinical correlation.
+
+5. MURMUR POTENTIALLY PRESENT EARLIER: The murmur was clearly heard at 4 months but described as "possible soft murmur vs. transmitted breath sounds" at 3 months. The rapid heart rates at each visit (148-165 bpm) may have made it more difficult to detect a murmur, but I should have auscultated more carefully and for longer, ideally with the infant in a calm or sleeping state. In infants with VSDs, the murmur may become more apparent as PVR drops and shunt flow increases — but a large VSD may paradoxically have a softer murmur than a small one. Regardless, the absence of a clearly heard murmur at early visits does not excuse the failure to investigate the constellation of other cardiac signs.
+
+6. HEPATOMEGALY NOT RECOGNIZED: Liver was documented at 1.5-2cm below RCM at 3 months and 3cm below RCM at 4 months. While 1-2cm can be normal in young infants, in the clinical context, this finding should have raised concern for right-sided heart failure.
+
+7. PATTERN RECOGNITION FAILURE: Looking at the entire case, every visit contained clues pointing to congenital heart disease: tachypnea, tachycardia, poor weight gain, diaphoresis during feeds, feeding fatigue, and eventually hepatomegaly, crackles, and cyanosis. I evaluated each visit's findings in isolation rather than recognizing the progressive pattern. This is a failure to thrive case that was, from the beginning, a congenital heart disease case presenting with its most common symptom — inability to feed.
+
+This case will be presented at our department's M&M conference and incorporated into our clinical practice guidelines for evaluation of failure to thrive in infants. I will advocate for routine pulse oximetry at ALL well-child visits and a lower threshold for echocardiography in any infant with unexplained tachypnea and feeding difficulty.
+
+Electronically signed: Dr. P. Nakamura, MD, FAAP
+Records compiled: 2026-02-10
