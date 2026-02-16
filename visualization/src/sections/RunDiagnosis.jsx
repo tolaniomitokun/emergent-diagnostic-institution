@@ -1,6 +1,6 @@
 import { useState, useRef, useCallback, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useSearchParams } from 'react-router-dom';
 import * as pdfjsLib from 'pdfjs-dist';
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = new URL(
@@ -926,8 +926,24 @@ function InputCard({ caseText, setCaseText, images, setImages, onStart, onDemoCl
 
 // ── Main Component ──────────────────────────────────────────────────────────
 
+// ── Demo fallback messages for each stage ───────────────────────────────────
+
+const DEMO_MESSAGES = [
+  { agent: 'System', icon: '\u{1F4C2}', text: 'Loading 77,000 words of patient records spanning 12 years...' },
+  { agent: 'Neurologist', icon: '\u{1F9E0}', text: 'This developmental trajectory is incompatible with static ASD. Regression of motor skills between ages 4-8 suggests a progressive neurodegenerative process...' },
+  { agent: 'Dev. Pediatrician', icon: '\u{1F476}', text: 'VB-MAPP scores declined 68% over 14 months of intensive ABA therapy. This paradoxical treatment response is strong evidence against the ASD diagnosis...' },
+  { agent: 'Geneticist', icon: '\u{1F9EC}', text: 'Cerebellar-predominant MRI atrophy pattern with elevated lactate is discriminating for neuronal ceroid lipofuscinosis over mitochondrial disease...' },
+  { agent: 'Observer', icon: '\u{1F441}', text: 'BIAS DETECTED: All 8 prior providers anchored on the ASD diagnosis from age 3.5. Regression was reinterpreted through the autism lens rather than triggering re-evaluation...' },
+  { agent: 'Specialists', icon: '\u{1F4AC}', text: 'Round 2 convergence on CLN2 after Observer feedback. Independence score improved from 0.55 to 0.82. Mitochondrial hypothesis appropriately deprioritized...' },
+  { agent: 'Synthesis', icon: '\u{1F52C}', text: 'Institutional diagnosis: CLN2 Disease (TPP1 deficiency). Confidence 0.91. Treatable with cerliponase alfa enzyme replacement therapy...' },
+  { agent: 'Translator', icon: '\u{1F4AC}', text: 'Writing explanation letter to the family in accessible language. Structuring next steps by urgency...' },
+  { agent: 'Amender', icon: '\u{1F4DC}', text: 'Proposing 11 constitutional amendments including Regression Override Protocol and Diagnostic Overshadowing Detection...' },
+];
+
 export default function RunDiagnosis() {
   const navigate = useNavigate();
+  const [searchParams] = useSearchParams();
+  const isDemo = searchParams.get('demo') === 'true';
   const [caseText, setCaseText] = useState('');
   const [images, setImages] = useState([]);
   const [showModal, setShowModal] = useState(false);
@@ -1107,6 +1123,56 @@ export default function RunDiagnosis() {
     setStages(PIPELINE_STAGES.map(msg => ({ message: msg, status: 'pending' })));
   }, []);
 
+  // ── Demo mode: simulate pipeline without API call ──────────────────────
+  const startDemoRun = useCallback(() => {
+    setStages(PIPELINE_STAGES.map(msg => ({ message: msg, status: 'pending' })));
+    setRunState('running');
+    setErrorMessage(null);
+    setCompletionData(null);
+    setReasoningMessages([]);
+    setCurrentStageIndex(0);
+    startTimeRef.current = Date.now();
+
+    let step = 0;
+    const interval = setInterval(() => {
+      if (step < PIPELINE_STAGES.length - 1) {
+        // Add a reasoning message for this stage
+        if (DEMO_MESSAGES[step]) {
+          const dm = DEMO_MESSAGES[step];
+          setReasoningMessages(prev => [...prev, {
+            id: `demo-${step}-${Date.now()}`,
+            agent: dm.agent,
+            icon: dm.icon,
+            text: dm.text,
+            round: step >= 5 ? 2 : 1,
+            isFallback: false,
+          }]);
+        }
+        setCurrentStageIndex(step);
+        setStages(prev => prev.map((s, i) => {
+          if (i < step) return { ...s, status: 'done' };
+          if (i === step) return { ...s, status: 'active' };
+          return { ...s, status: 'pending' };
+        }));
+        step++;
+      } else {
+        // Complete
+        clearInterval(interval);
+        setStages(prev => prev.map(s => ({ ...s, status: 'done' })));
+        setElapsedTime(Date.now() - (startTimeRef.current || Date.now()));
+        setRunState('complete');
+        setCompletionData({
+          diagnosis: 'CLN2 Disease (Batten Disease)',
+          confidence: '91%',
+          biasesCount: 4,
+          amendmentsCount: 11,
+        });
+      }
+    }, 2500);
+
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <section className="py-20 md:py-28 px-6">
       <div className="max-w-3xl mx-auto">
@@ -1142,7 +1208,7 @@ export default function RunDiagnosis() {
               setCaseText={setCaseText}
               images={images}
               setImages={setImages}
-              onStart={() => setShowModal(true)}
+              onStart={() => isDemo ? startDemoRun() : setShowModal(true)}
               onDemoClick={() => scrollTo('the-process')}
             />
           ) : runState === 'error' ? (
@@ -1186,7 +1252,11 @@ export default function RunDiagnosis() {
                     completionData={completionData}
                     elapsedMs={elapsedTime}
                     onViewResults={() => {
-                      navigate(`/case/user_case_${caseId}`);
+                      if (isDemo) {
+                        scrollTo('the-process');
+                      } else {
+                        navigate(`/case/user_case_${caseId}`);
+                      }
                     }}
                     onRunAnother={resetToIdle}
                   />
