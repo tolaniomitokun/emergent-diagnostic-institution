@@ -7,6 +7,7 @@ thinking:
   effort: max
 output_path: /shared/observer/analysis_round_{N}.json
 can_interrupt: true
+can_orchestrate: true
 ---
 
 # Metacognitive Observer Agent

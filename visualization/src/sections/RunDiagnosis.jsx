@@ -21,7 +21,7 @@ function shortDiagnosis(full) {
   return beforeDash.slice(0, 80).replace(/\s\S*$/, '') + '\u2026';
 }
 
-// ── Pipeline stages ─────────────────────────────────────────────────────────
+// ── Pipeline stages (legacy mode — fixed 10-step pipeline) ──────────────────
 
 const PIPELINE_STAGES = [
   'Loading case and constitution',
@@ -304,37 +304,41 @@ function AccessModal({ onClose, onSuccess }) {
 
 // ── Progress Tracker ────────────────────────────────────────────────────────
 
-function ProgressTracker({ stages, runState, onCancel }) {
+function ProgressTracker({ stages, runState, isDynamic, onCancel }) {
   const allDone = runState === 'complete';
   return (
     <div className="bg-slate-900/40 border border-slate-800/50 rounded-xl p-6 md:p-8">
       <div className="space-y-4">
-        {stages.map((stage, i) => (
-          <motion.div
-            key={i}
-            initial={{ opacity: 0, x: -10 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ delay: i * 0.05 }}
-            className="flex items-center gap-3"
-          >
-            <StageIcon status={stage.status} isFinal={allDone && i === stages.length - 1} />
-            <span className={`text-sm ${
-              stage.status === 'done'
-                ? 'text-slate-300'
-                : stage.status === 'active'
-                  ? 'text-cyan-400 font-medium'
-                  : 'text-slate-600'
-            }`}>
-              {stage.message}
-            </span>
-          </motion.div>
-        ))}
+        <AnimatePresence initial={false}>
+          {stages.map((stage, i) => (
+            <motion.div
+              key={isDynamic ? stage.name || `stage-${i}` : i}
+              initial={isDynamic ? { opacity: 0, x: -20, height: 0 } : { opacity: 0, x: -10 }}
+              animate={{ opacity: 1, x: 0, height: 'auto' }}
+              transition={{ duration: 0.3, delay: isDynamic ? 0 : i * 0.05 }}
+              className="flex items-center gap-3"
+            >
+              <StageIcon status={stage.status} isFinal={allDone && i === stages.length - 1} />
+              <span className={`text-sm ${
+                stage.status === 'done'
+                  ? 'text-slate-300'
+                  : stage.status === 'active'
+                    ? 'text-cyan-400 font-medium'
+                    : 'text-slate-600'
+              }`}>
+                {stage.message}
+              </span>
+            </motion.div>
+          ))}
+        </AnimatePresence>
       </div>
 
       {runState === 'running' && (
         <div className="mt-6 flex flex-col items-center gap-3">
           <p className="text-slate-600 text-xs">
-            Full analysis takes approximately 6–10 minutes
+            {isDynamic
+              ? 'The Observer is orchestrating the diagnostic pipeline dynamically'
+              : 'Full analysis takes approximately 6–10 minutes'}
           </p>
           <button
             onClick={onCancel}
@@ -953,6 +957,7 @@ export default function RunDiagnosis() {
   const [stages, setStages] = useState(() =>
     PIPELINE_STAGES.map(msg => ({ message: msg, status: 'pending' }))
   );
+  const [isDynamic, setIsDynamic] = useState(false);
   const [completionData, setCompletionData] = useState(null);
   const [elapsedTime, setElapsedTime] = useState(0);
   const [reasoningMessages, setReasoningMessages] = useState([]);
@@ -988,6 +993,7 @@ export default function RunDiagnosis() {
       setCaseId(runId);
 
       setStages(PIPELINE_STAGES.map(msg => ({ message: msg, status: 'pending' })));
+      setIsDynamic(false);
       setRunState('running');
       setErrorMessage(null);
       setCompletionData(null);
@@ -1010,7 +1016,17 @@ export default function RunDiagnosis() {
         }
 
         if (data.stage === 'complete') {
-          setStages(prev => prev.map(s => ({ ...s, status: 'done' })));
+          // Handle dynamic completion — use the final stages array from server
+          if (data.dynamic && data.stages) {
+            setIsDynamic(true);
+            setStages(data.stages.map(s => ({
+              name: s.name,
+              message: s.message,
+              status: 'done',
+            })));
+          } else {
+            setStages(prev => prev.map(s => ({ ...s, status: 'done' })));
+          }
           setElapsedTime(Date.now() - (startTimeRef.current || Date.now()));
           setRunState('complete');
           es.close();
@@ -1082,7 +1098,19 @@ export default function RunDiagnosis() {
           return;
         }
 
-        // Running state — update stages based on index
+        // ── Dynamic stages (agentic mode) ──────────────────────────────
+        if (data.dynamic && data.stages) {
+          setIsDynamic(true);
+          setCurrentStageIndex(data.index ?? 0);
+          setStages(data.stages.map(s => ({
+            name: s.name,
+            message: s.message,
+            status: s.status || 'pending',
+          })));
+          return;
+        }
+
+        // ── Legacy stages (fixed pipeline) ───────────────────────────────
         if (data.index != null) {
           setCurrentStageIndex(data.index);
           setStages(prev => prev.map((s, i) => {
@@ -1112,6 +1140,7 @@ export default function RunDiagnosis() {
     setErrorMessage(null);
     setReasoningMessages([]);
     setCurrentStageIndex(0);
+    setIsDynamic(false);
     setStages(PIPELINE_STAGES.map(msg => ({ message: msg, status: 'pending' })));
   }, []);
 
@@ -1120,6 +1149,7 @@ export default function RunDiagnosis() {
     setErrorMessage(null);
     setReasoningMessages([]);
     setCurrentStageIndex(0);
+    setIsDynamic(false);
     setStages(PIPELINE_STAGES.map(msg => ({ message: msg, status: 'pending' })));
   }, []);
 
@@ -1237,6 +1267,7 @@ export default function RunDiagnosis() {
               <ProgressTracker
                 stages={stages}
                 runState={runState}
+                isDynamic={isDynamic}
                 onCancel={cancelRun}
               />
               {runState === 'running' && (

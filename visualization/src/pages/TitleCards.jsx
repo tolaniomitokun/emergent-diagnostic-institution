@@ -1,7 +1,69 @@
 import { useState, useEffect, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
+/* ── Cinematic intro card — each line staggers in ── */
+function IntroCard() {
+  const lines = [
+    { text: '14 years.', delay: 0.4 },
+    { text: '8 doctors.', delay: 1.6 },
+    { text: '3 states.', delay: 2.8 },
+    { text: 'And one answer that nobody found.', delay: 4.2, accent: true },
+  ];
+
+  return (
+    <div className="flex flex-col items-center gap-6 md:gap-8">
+      {lines.map(({ text, delay, accent }) => (
+        <motion.p
+          key={text}
+          initial={{ opacity: 0, y: 12 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay, duration: 0.9, ease: 'easeOut' }}
+          className={
+            accent
+              ? 'text-2xl md:text-4xl lg:text-5xl font-light text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-400 to-violet-400 max-w-3xl leading-relaxed'
+              : 'text-3xl md:text-5xl lg:text-6xl font-extralight text-slate-300 tracking-wide'
+          }
+        >
+          {text}
+        </motion.p>
+      ))}
+    </div>
+  );
+}
+
+/* ── Stats card — two lines stagger in ── */
+function StatsCard() {
+  const stats = [
+    { text: '30 million Americans live with rare diseases.', delay: 0.4 },
+    { text: '795,000 are killed or permanently disabled by diagnostic errors every year.', delay: 2.0 },
+  ];
+
+  return (
+    <div className="flex flex-col items-center gap-8 md:gap-10 max-w-3xl">
+      {stats.map(({ text, delay }) => (
+        <motion.p
+          key={text}
+          initial={{ opacity: 0, y: 12 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay, duration: 0.9, ease: 'easeOut' }}
+          className="text-xl md:text-3xl lg:text-4xl font-extralight text-slate-400 leading-relaxed text-center"
+        >
+          {text}
+        </motion.p>
+      ))}
+    </div>
+  );
+}
+
 const CARDS = [
+  {
+    id: 'intro',
+    content: <IntroCard />,
+  },
+  {
+    id: 'stats',
+    content: <StatsCard />,
+  },
   {
     id: 'quote',
     content: (

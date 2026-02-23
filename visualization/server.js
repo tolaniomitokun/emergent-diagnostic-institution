@@ -3,7 +3,7 @@ import express from 'express';
 import cors from 'cors';
 import { spawn } from 'child_process';
 import {
-  mkdirSync, writeFileSync, readFileSync, existsSync, cpSync, rmSync,
+  mkdirSync, writeFileSync, readFileSync, existsSync, cpSync, rmSync, readdirSync,
 } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join, resolve } from 'path';
@@ -47,8 +47,11 @@ let statePoller = null;
 let reasoningPoller = null;
 let seenFiles = new Set();
 let stderrBuffer = '';
+let pipelineMode = 'legacy'; // 'legacy' or 'agentic'
+let dynamicStages = [];       // Agentic mode: stages grow as Observer calls tools
 
 const PYTHON_BIN = process.env.PYTHON_BIN || 'python3';
+const PIPELINE_MODE = process.env.PIPELINE_MODE || 'legacy';
 const TIMEOUT_MS = 25 * 60 * 1000; // 25 minutes
 
 // ── Phase-to-stage mapping ─────────────────────────────────────────────────────
@@ -89,6 +92,49 @@ function mapPhaseToStage(phase, round) {
   return { stage: 'running', ...entry, total: STAGE_MESSAGES.length };
 }
 
+// ── Dynamic stage helpers (agentic mode) ───────────────────────────────────
+
+function parseStructuredStage(jsonStr) {
+  try {
+    return JSON.parse(jsonStr);
+  } catch {
+    return null;
+  }
+}
+
+function handleDynamicStage(stageEvent) {
+  const { name, message, agent, round, index } = stageEvent;
+
+  // Add to dynamic stages if not already present
+  const existing = dynamicStages.findIndex(s => s.name === name);
+  if (existing === -1) {
+    dynamicStages.push({
+      name,
+      message: message || name.replace(/_/g, ' '),
+      agent: agent || null,
+      round: round || null,
+      status: 'active',
+    });
+  }
+
+  // Mark all earlier stages as done, current as active
+  const currentIdx = dynamicStages.findIndex(s => s.name === name);
+  dynamicStages = dynamicStages.map((s, i) => ({
+    ...s,
+    status: i < currentIdx ? 'done' : i === currentIdx ? 'active' : 'pending',
+  }));
+
+  // Broadcast to SSE clients
+  broadcastSSE({
+    stage: name === 'complete' ? 'complete' : 'running',
+    index: currentIdx,
+    message: message || name,
+    total: dynamicStages.length,
+    dynamic: true,
+    stages: dynamicStages,
+  });
+}
+
 // ── SSE helpers ────────────────────────────────────────────────────────────────
 
 function broadcastSSE(event) {
@@ -127,100 +173,113 @@ function tryReadJSON(filePath) {
 }
 
 function extractReasoning() {
-  // ── Round 1 specialist files ──────────────────────────────────────────
-  for (const [fileKey, display] of Object.entries(AGENT_DISPLAY)) {
-    const filePath = resolve(DEBATE_DIR, 'round_1', `${fileKey}.json`);
-    const key = `r1:${fileKey}`;
-    if (seenFiles.has(key)) continue;
+  // ── Dynamically scan all debate rounds for specialist files ──────────
+  if (existsSync(DEBATE_DIR)) {
+    let roundDirs;
+    try { roundDirs = readdirSync(DEBATE_DIR).filter(d => d.startsWith('round_')).sort(); } catch { roundDirs = []; }
 
-    const data = tryReadJSON(filePath);
-    if (!data) continue;
-    seenFiles.add(key);
+    for (const roundDir of roundDirs) {
+      const roundNum = parseInt(roundDir.replace('round_', ''), 10) || 1;
+      const roundPath = resolve(DEBATE_DIR, roundDir);
 
-    // Extract diagnosis hypothesis and first key evidence item
-    const hypothesis = data.diagnosis_hypothesis || data.analysis?.primary_hypothesis || '';
-    const evidence = Array.isArray(data.key_evidence) ? data.key_evidence[0] : '';
-    const text = hypothesis
-      ? truncate(hypothesis, 180)
-      : truncate(evidence, 180) || `Analysis complete (confidence: ${data.confidence || '?'})`;
+      let files;
+      try { files = readdirSync(roundPath).filter(f => f.endsWith('.json')); } catch { continue; }
 
-    broadcastSSE({
-      type: 'reasoning',
-      agent: fileKey,
-      agentName: display.name,
-      icon: display.icon,
-      round: 1,
-      text,
-    });
+      for (const file of files) {
+        const fileKey = file.replace('.json', '');
+        const key = `r${roundNum}:${fileKey}`;
+        if (seenFiles.has(key)) continue;
+
+        const filePath = resolve(roundPath, file);
+        const data = tryReadJSON(filePath);
+        if (!data) continue;
+        seenFiles.add(key);
+
+        // Display name and icon — use known agents or derive from filename
+        const display = AGENT_DISPLAY[fileKey] || {
+          name: fileKey.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+          icon: 'brain',
+        };
+
+        let text = '';
+        if (roundNum > 1) {
+          // For later rounds, look for bias acknowledgment or confidence change
+          const r1Path = resolve(DEBATE_DIR, 'round_1', file);
+          const r1Data = tryReadJSON(r1Path);
+
+          if (data.bias_acknowledgment) {
+            text = truncate(data.bias_acknowledgment, 180);
+          } else if (r1Data && data.confidence && r1Data.confidence) {
+            const oldConf = (r1Data.confidence * 100).toFixed(0);
+            const newConf = (data.confidence * 100).toFixed(0);
+            text = oldConf !== newConf
+              ? `Revised confidence from ${oldConf}% to ${newConf}% after Observer feedback. ${truncate(data.diagnosis_hypothesis || '', 100)}`
+              : `Maintained position at ${newConf}% confidence after peer review. ${truncate(data.diagnosis_hypothesis || '', 100)}`;
+          } else {
+            text = truncate(data.diagnosis_hypothesis || '', 180) || `Round ${roundNum} analysis complete`;
+          }
+        } else {
+          // Round 1: independent analysis
+          const hypothesis = data.diagnosis_hypothesis || data.analysis?.primary_hypothesis || '';
+          const evidence = Array.isArray(data.key_evidence) ? data.key_evidence[0] : '';
+          text = hypothesis
+            ? truncate(hypothesis, 180)
+            : truncate(evidence, 180) || `Analysis complete (confidence: ${data.confidence || '?'})`;
+        }
+
+        broadcastSSE({
+          type: 'reasoning',
+          agent: fileKey,
+          agentName: display.name,
+          icon: display.icon,
+          round: roundNum,
+          text,
+        });
+      }
+    }
   }
 
-  // ── Observer Round 1 ──────────────────────────────────────────────────
-  const obs1Path = resolve(OBSERVER_DIR, 'analysis_round_1.json');
-  if (!seenFiles.has('obs1')) {
-    const data = tryReadJSON(obs1Path);
-    if (data) {
-      seenFiles.add('obs1');
+  // ── Dynamically scan all observer analysis files ────────────────────
+  if (existsSync(OBSERVER_DIR)) {
+    let obsFiles;
+    try { obsFiles = readdirSync(OBSERVER_DIR).filter(f => f.startsWith('analysis_round_') && f.endsWith('.json')).sort(); } catch { obsFiles = []; }
+
+    for (const obsFile of obsFiles) {
+      const roundMatch = obsFile.match(/analysis_round_(\d+)\.json/);
+      if (!roundMatch) continue;
+      const roundNum = parseInt(roundMatch[1], 10);
+      const key = `obs${roundNum}`;
+      if (seenFiles.has(key)) continue;
+
+      const obsPath = resolve(OBSERVER_DIR, obsFile);
+      const data = tryReadJSON(obsPath);
+      if (!data) continue;
+      seenFiles.add(key);
+
+      // Bias detection message
       const biases = data.biases_detected || [];
       if (biases.length > 0) {
         const b = biases[0];
         const text = `BIAS DETECTED: ${b.bias_type?.replace(/_/g, ' ')} in ${b.agent || 'specialist'} — ${truncate(b.evidence || b.recommendation || '', 140)}`;
-        broadcastSSE({ type: 'reasoning', agent: 'observer', agentName: 'Observer', icon: 'eye', round: 1, text });
+        broadcastSSE({ type: 'reasoning', agent: 'observer', agentName: 'Observer', icon: 'eye', round: roundNum, text });
       }
-      // Send a second message if there are multiple biases
       if (biases.length > 1) {
         const count = biases.length;
         const severities = biases.filter(b => b.severity === 'high' || b.severity === 'critical').length;
         const text = severities > 0
           ? `Found ${count} total biases across specialists — ${severities} rated high/critical severity`
-          : `Found ${count} cognitive biases across the team. Recommending corrections for Round 2`;
-        broadcastSSE({ type: 'reasoning', agent: 'observer_summary', agentName: 'Observer', icon: 'eye', round: 1, text });
+          : `Found ${count} cognitive biases across the team. Recommending corrections for Round ${roundNum + 1}`;
+        broadcastSSE({ type: 'reasoning', agent: `observer_summary_r${roundNum}`, agentName: 'Observer', icon: 'eye', round: roundNum, text });
       }
-    }
-  }
 
-  // ── Round 2 specialist files ──────────────────────────────────────────
-  for (const [fileKey, display] of Object.entries(AGENT_DISPLAY)) {
-    const filePath = resolve(DEBATE_DIR, 'round_2', `${fileKey}.json`);
-    const key = `r2:${fileKey}`;
-    if (seenFiles.has(key)) continue;
-
-    const data = tryReadJSON(filePath);
-    if (!data) continue;
-    seenFiles.add(key);
-
-    // Look for confidence change and bias acknowledgment
-    const r1Path = resolve(DEBATE_DIR, 'round_1', `${fileKey}.json`);
-    const r1Data = tryReadJSON(r1Path);
-    let text = '';
-
-    if (data.bias_acknowledgment) {
-      text = truncate(data.bias_acknowledgment, 180);
-    } else if (r1Data && data.confidence && r1Data.confidence) {
-      const oldConf = (r1Data.confidence * 100).toFixed(0);
-      const newConf = (data.confidence * 100).toFixed(0);
-      text = oldConf !== newConf
-        ? `Revised confidence from ${oldConf}% to ${newConf}% after Observer feedback. ${truncate(data.diagnosis_hypothesis || '', 100)}`
-        : `Maintained position at ${newConf}% confidence after peer review. ${truncate(data.diagnosis_hypothesis || '', 100)}`;
-    } else {
-      text = truncate(data.diagnosis_hypothesis || '', 180) || 'Round 2 analysis complete';
-    }
-
-    broadcastSSE({ type: 'reasoning', agent: fileKey, agentName: display.name, icon: display.icon, round: 2, text });
-  }
-
-  // ── Observer Round 2 ──────────────────────────────────────────────────
-  const obs2Path = resolve(OBSERVER_DIR, 'analysis_round_2.json');
-  if (!seenFiles.has('obs2')) {
-    const data = tryReadJSON(obs2Path);
-    if (data) {
-      seenFiles.add('obs2');
+      // Quality score message (for rounds > 1)
       const quality = data.reasoning_quality;
-      if (quality) {
+      if (quality && roundNum > 1) {
         const overall = quality.overall_score ? (quality.overall_score * 100).toFixed(0) : null;
-        const text = overall
-          ? `Round 2 reasoning quality: ${overall}% overall. Independence: ${((quality.independence_score || 0) * 100).toFixed(0)}%, Evidence utilization: ${((quality.evidence_utilization || 0) * 100).toFixed(0)}%`
-          : 'Round 2 quality assessment complete';
-        broadcastSSE({ type: 'reasoning', agent: 'observer', agentName: 'Observer', icon: 'eye', round: 2, text });
+        if (overall) {
+          const text = `Round ${roundNum} reasoning quality: ${overall}% overall. Independence: ${((quality.independence_score || 0) * 100).toFixed(0)}%, Evidence utilization: ${((quality.evidence_utilization || 0) * 100).toFixed(0)}%`;
+          broadcastSSE({ type: 'reasoning', agent: `observer_quality_r${roundNum}`, agentName: 'Observer', icon: 'eye', round: roundNum, text });
+        }
       }
     }
   }
@@ -246,7 +305,6 @@ function extractReasoning() {
         const content = readFileSync(letterPath, 'utf-8');
         if (content.trim()) {
           seenFiles.add('letter');
-          // Extract opening line after any title
           const lines = content.split('\n').filter(l => l.trim() && !l.startsWith('#'));
           const opening = lines[0] || '';
           broadcastSSE({ type: 'reasoning', agent: 'translator', agentName: 'Translator', icon: 'letter', round: 0, text: truncate(opening, 180) });
@@ -261,7 +319,6 @@ function extractReasoning() {
     const data = tryReadJSON(amendPath);
     if (data) {
       const amendments = Array.isArray(data) ? data : data.amendments || [];
-      // Only consider amendments from the current run (most recent ones)
       if (amendments.length > 0) {
         seenFiles.add('amendments');
         const latest = amendments[amendments.length - 1];
@@ -278,31 +335,54 @@ function extractReasoning() {
 
 function copyResultsToUserDir() {
   const dest = USER_RESULTS_DIR;
-  for (const dir of ['round1', 'round2', 'observer']) {
-    mkdirSync(resolve(dest, dir), { recursive: true });
-  }
-  const copies = [
+  mkdirSync(resolve(dest, 'observer'), { recursive: true });
+
+  // Always copy these fixed files
+  const fixedCopies = [
     [resolve(SHARED_DIR, 'cases', 'current_case.json'), 'case.json'],
-    [resolve(SHARED_DIR, 'debate', 'round_1', 'neurologist.json'), 'round1/neurologist.json'],
-    [resolve(SHARED_DIR, 'debate', 'round_1', 'developmental_pediatrician.json'), 'round1/developmental_pediatrician.json'],
-    [resolve(SHARED_DIR, 'debate', 'round_1', 'geneticist.json'), 'round1/geneticist.json'],
-    [resolve(SHARED_DIR, 'debate', 'round_2', 'neurologist.json'), 'round2/neurologist.json'],
-    [resolve(SHARED_DIR, 'debate', 'round_2', 'developmental_pediatrician.json'), 'round2/developmental_pediatrician.json'],
-    [resolve(SHARED_DIR, 'debate', 'round_2', 'geneticist.json'), 'round2/geneticist.json'],
-    [resolve(SHARED_DIR, 'observer', 'analysis_round_1.json'), 'observer/round1.json'],
-    [resolve(SHARED_DIR, 'observer', 'analysis_round_2.json'), 'observer/round2.json'],
     [resolve(SHARED_DIR, 'output', 'final_diagnosis.json'), 'diagnosis.json'],
     [resolve(SHARED_DIR, 'output', 'patient_explanation.md'), 'patient_explanation.md'],
     [resolve(SHARED_DIR, 'constitution', 'amendments_log.json'), 'amendments.json'],
+    [resolve(SHARED_DIR, 'output', 'pipeline_completion.json'), 'pipeline_completion.json'],
   ];
+
   let copied = 0;
-  for (const [src, dst] of copies) {
+  for (const [src, dst] of fixedCopies) {
     if (existsSync(src)) {
       cpSync(src, resolve(dest, dst));
       copied++;
     }
   }
-  console.log(`[server] Copied ${copied}/${copies.length} result files to user-results/`);
+
+  // Dynamically copy all round directories (round_1, round_2, round_3, etc.)
+  if (existsSync(DEBATE_DIR)) {
+    const roundDirs = readdirSync(DEBATE_DIR).filter(d => d.startsWith('round_'));
+    for (const roundDir of roundDirs) {
+      const roundNum = roundDir.replace('round_', '');
+      const destRound = resolve(dest, `round${roundNum}`);
+      mkdirSync(destRound, { recursive: true });
+      const srcRound = resolve(DEBATE_DIR, roundDir);
+      const files = readdirSync(srcRound).filter(f => f.endsWith('.json'));
+      for (const file of files) {
+        cpSync(resolve(srcRound, file), resolve(destRound, file));
+        copied++;
+      }
+    }
+  }
+
+  // Copy all observer analysis files
+  if (existsSync(OBSERVER_DIR)) {
+    const obsFiles = readdirSync(OBSERVER_DIR).filter(f => f.endsWith('.json'));
+    for (const file of obsFiles) {
+      // Map analysis_round_1.json -> observer/round1.json for backward compat
+      const roundMatch = file.match(/analysis_round_(\d+)\.json/);
+      const destName = roundMatch ? `round${roundMatch[1]}.json` : file;
+      cpSync(resolve(OBSERVER_DIR, file), resolve(dest, 'observer', destName));
+      copied++;
+    }
+  }
+
+  console.log(`[server] Copied ${copied} result files to user-results/`);
 }
 
 // ── Cleanup ────────────────────────────────────────────────────────────────────
@@ -316,6 +396,8 @@ function cleanup() {
   lastKnownPhase = null;
   seenFiles = new Set();
   stderrBuffer = '';
+  pipelineMode = 'legacy';
+  dynamicStages = [];
   // Close all SSE connections
   sseClients.forEach(res => { try { res.end(); } catch {} });
   sseClients = [];
@@ -337,7 +419,7 @@ app.post('/api/validate-code', (req, res) => {
 });
 
 app.post('/api/run-diagnosis', (req, res) => {
-  const { accessCode, caseText, images } = req.body || {};
+  const { accessCode, caseText, images, mode } = req.body || {};
 
   if (!isValidCode(accessCode)) {
     return res.status(401).json({ error: 'Invalid access code' });
@@ -396,20 +478,38 @@ app.post('/api/run-diagnosis', (req, res) => {
   const casePath = resolve(tempDir, 'case.json');
   writeFileSync(casePath, JSON.stringify(caseData, null, 2));
 
+  // ── Determine pipeline mode ──────────────────────────────────────────────
+  // Client can request a mode; falls back to server env var, then 'legacy'
+  pipelineMode = (mode === 'agentic' || mode === 'legacy') ? mode : PIPELINE_MODE;
+  dynamicStages = [];
+
   // ── Send initial SSE event ─────────────────────────────────────────────────
-  broadcastSSE({
-    stage: 'running',
-    index: 0,
-    message: 'Loading case and constitution',
-    total: STAGE_MESSAGES.length,
-  });
+  if (pipelineMode === 'agentic') {
+    dynamicStages = [{ name: 'loading', message: 'Loading case and constitution', status: 'active' }];
+    broadcastSSE({
+      stage: 'running',
+      index: 0,
+      message: 'Loading case and constitution',
+      total: 1,
+      dynamic: true,
+      stages: dynamicStages,
+    });
+  } else {
+    broadcastSSE({
+      stage: 'running',
+      index: 0,
+      message: 'Loading case and constitution',
+      total: STAGE_MESSAGES.length,
+    });
+  }
 
   // ── Spawn orchestrator ─────────────────────────────────────────────────────
-  console.log(`[server] Spawning pipeline: ${PYTHON_BIN} orchestrator.py ${casePath}`);
+  const modeFlag = `--mode=${pipelineMode}`;
+  console.log(`[server] Spawning pipeline (${pipelineMode}): ${PYTHON_BIN} orchestrator.py ${modeFlag} ${casePath}`);
 
   orchestratorProcess = spawn(
     PYTHON_BIN,
-    [resolve(PROJECT_ROOT, 'orchestrator.py'), casePath],
+    [resolve(PROJECT_ROOT, 'orchestrator.py'), modeFlag, casePath],
     {
       cwd: PROJECT_ROOT,
       env: { ...process.env },
@@ -430,13 +530,25 @@ app.post('/api/run-diagnosis', (req, res) => {
     for (const line of lines) {
       if (line.trim()) console.log('[orchestrator]', line);
 
-      // Detect individual specialist completions for fine-grained R1 progress
-      if (line.includes('✅') && line.includes('Neurologist') && !line.includes('Round 2')) {
-        broadcastSSE({ stage: 'running', index: 1, message: 'Round 1: Neurologist complete', total: STAGE_MESSAGES.length });
-      } else if (line.includes('✅') && (line.includes('Developmental Pediatrician') || line.includes('Dev.')) && !line.includes('Round 2')) {
-        broadcastSSE({ stage: 'running', index: 2, message: 'Round 1: Dev. Pediatrician complete', total: STAGE_MESSAGES.length });
-      } else if (line.includes('✅') && line.includes('Geneticist') && !line.includes('Round 2')) {
-        broadcastSSE({ stage: 'running', index: 3, message: 'Round 1: Geneticist complete', total: STAGE_MESSAGES.length });
+      // ── Agentic mode: parse structured [STAGE] JSON events ──────────
+      const stageJsonMatch = line.match(/\[STAGE\]\s*(\{.+\})/);
+      if (stageJsonMatch && pipelineMode === 'agentic') {
+        const stageEvent = parseStructuredStage(stageJsonMatch[1]);
+        if (stageEvent) {
+          handleDynamicStage(stageEvent);
+          continue;
+        }
+      }
+
+      // ── Legacy mode: detect individual specialist completions ────────
+      if (pipelineMode === 'legacy') {
+        if (line.includes('✅') && line.includes('Neurologist') && !line.includes('Round 2')) {
+          broadcastSSE({ stage: 'running', index: 1, message: 'Round 1: Neurologist complete', total: STAGE_MESSAGES.length });
+        } else if (line.includes('✅') && (line.includes('Developmental Pediatrician') || line.includes('Dev.')) && !line.includes('Round 2')) {
+          broadcastSSE({ stage: 'running', index: 2, message: 'Round 1: Dev. Pediatrician complete', total: STAGE_MESSAGES.length });
+        } else if (line.includes('✅') && line.includes('Geneticist') && !line.includes('Round 2')) {
+          broadcastSSE({ stage: 'running', index: 3, message: 'Round 1: Geneticist complete', total: STAGE_MESSAGES.length });
+        }
       }
     }
   });
@@ -477,14 +589,28 @@ app.post('/api/run-diagnosis', (req, res) => {
     if (code === 0) {
       try {
         copyResultsToUserDir();
-        broadcastSSE({
+
+        // Build completion event
+        const completionEvent = {
           stage: 'complete',
           message: 'Diagnosis complete',
-          index: 9,
-          total: STAGE_MESSAGES.length,
           resultsPath: '/data/user-results/',
           caseId: `user_case_${currentRunId}`,
-        });
+        };
+
+        if (pipelineMode === 'agentic') {
+          // Mark all dynamic stages as done
+          dynamicStages = dynamicStages.map(s => ({ ...s, status: 'done' }));
+          completionEvent.index = dynamicStages.length - 1;
+          completionEvent.total = dynamicStages.length;
+          completionEvent.dynamic = true;
+          completionEvent.stages = dynamicStages;
+        } else {
+          completionEvent.index = 9;
+          completionEvent.total = STAGE_MESSAGES.length;
+        }
+
+        broadcastSSE(completionEvent);
       } catch (err) {
         console.error('[server] Error copying results:', err);
         broadcastSSE({
@@ -548,8 +674,19 @@ app.get('/api/run-status', (req, res) => {
   // Send current state
   if (!runInProgress) {
     res.write(`data: ${JSON.stringify({ stage: 'idle', message: 'No diagnosis in progress' })}\n\n`);
+  } else if (pipelineMode === 'agentic' && dynamicStages.length > 0) {
+    // Send current dynamic stage state
+    const currentIdx = dynamicStages.findIndex(s => s.status === 'active');
+    res.write(`data: ${JSON.stringify({
+      stage: 'running',
+      index: currentIdx >= 0 ? currentIdx : 0,
+      message: dynamicStages[currentIdx >= 0 ? currentIdx : 0]?.message || 'Processing...',
+      total: dynamicStages.length,
+      dynamic: true,
+      stages: dynamicStages,
+    })}\n\n`);
   } else if (lastKnownPhase) {
-    // Send the latest known state to catch up
+    // Send the latest known state to catch up (legacy mode)
     try {
       const state = JSON.parse(readFileSync(STATE_FILE, 'utf-8'));
       const event = mapPhaseToStage(state.phase, state.current_round);

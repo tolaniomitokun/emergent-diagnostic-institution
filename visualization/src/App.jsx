@@ -13,6 +13,7 @@ import About from './sections/About';
 import CaseResults from './pages/CaseResults';
 import EvalSummary from './pages/EvalSummary';
 import TitleCards from './pages/TitleCards';
+import BuildRecap from './pages/BuildRecap';
 
 function MainPage({ data, loading, error }) {
   if (loading) {
@@ -98,6 +99,7 @@ export default function App() {
       <Route path="/case/:caseId" element={<CaseResults />} />
       <Route path="/eval" element={<EvalSummary />} />
       <Route path="/titles" element={<TitleCards />} />
+      <Route path="/recap" element={<BuildRecap />} />
     </Routes>
   );
 }
