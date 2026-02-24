@@ -1,0 +1,205 @@
+{
+  "case_id": "CASE-003",
+  "title": "The Silent Fractures",
+  "description": "A 38-year-old woman accumulates diagnoses — metabolic syndrome, PCOS, depression, type 2 diabetes, hypertension — over 3 years. Each is treated individually. When she fractures two vertebrae from a minor fall, the osteoporosis workup in a premenopausal woman finally forces clinicians to ask: what single disease could explain ALL of this?",
+
+  "patient": {
+    "age": 38,
+    "sex": "female",
+    "ethnicity": "Hispanic/Latina",
+    "chief_complaint": "Back pain after minor fall, found to have vertebral compression fractures. Referred for osteoporosis evaluation in a premenopausal woman.",
+    "history_of_present_illness": "Maria Santos is a 38-year-old elementary school teacher who presents for evaluation of unexplained osteoporosis after X-rays revealed compression fractures at T11 and L1 following a minor fall (slipping on a wet floor at school, landing on her back — no significant trauma). She reports 3 months of persistent mid-to-lower back pain since the fall, rated 5-6/10, worse with bending and prolonged standing.\n\nOver the past 3 years, Mrs. Santos has experienced progressive weight gain of approximately 35 pounds despite reported dietary compliance and regular walking. The weight has accumulated primarily in her trunk and face, while she notes her arms and legs have actually become thinner — her wedding ring is loose but her pants don't fit. She has developed round facial fullness that she attributes to the weight gain. She has noticed a 'hump' developing at the base of her neck that her mother pointed out 6 months ago.\n\nShe reports easy bruising for approximately 6 months — bruises appear on her arms and legs with minimal or no recalled trauma, often large and taking weeks to resolve. She attributes this to being 'clumsy' and to the low-dose aspirin she was started on 8 months ago for cardiovascular risk.\n\nHer menstrual periods became irregular 2 years ago — previously regular 28-day cycles became unpredictable (35-60 day cycles), lighter, and she has had only 4 periods in the past year. She was diagnosed with PCOS and started on oral contraceptives.\n\nShe has experienced progressive fatigue, depressed mood, insomnia (particularly early morning awakening at 3-4 AM), irritability, difficulty concentrating, and emotional lability for 18 months. She reports crying easily and feeling unlike herself. She was diagnosed with major depression and started on sertraline 100mg. She reports mild improvement in mood but persistent insomnia and fatigue.\n\nShe developed hypertension 1 year ago (initially 148/94), now on lisinopril 20mg with blood pressure still suboptimally controlled. She was diagnosed with type 2 diabetes 8 months ago (fasting glucose 156, HbA1c 7.0%) and started on metformin, which was recently increased to 1000mg twice daily as her HbA1c rose to 7.2%. She reports polydipsia and nocturia (up 2-3 times per night).\n\nShe has noticed increased facial hair on her upper lip and chin, and dark hair appearing on her forearms, which she finds distressing. She also reports that cuts and scratches heal very slowly compared to before.\n\nShe denies exogenous glucocorticoid use (no oral, inhaled, topical, or injected steroids). No headaches, visual changes, or galactorrhea. No history of kidney stones.",
+    "past_medical_history": [
+      "Metabolic syndrome (diagnosed 2.5 years ago)",
+      "Polycystic ovary syndrome (diagnosed 2 years ago)",
+      "Major depressive disorder (diagnosed 18 months ago)",
+      "Essential hypertension (diagnosed 1 year ago)",
+      "Type 2 diabetes mellitus (diagnosed 8 months ago)",
+      "Vertebral compression fractures T11 and L1 (3 months ago)",
+      "Childhood asthma (resolved by age 12, never on systemic steroids)"
+    ],
+    "medications": [
+      "Metformin 1000mg twice daily",
+      "Sertraline 100mg daily",
+      "Lisinopril 20mg daily",
+      "Combined oral contraceptive (ethinyl estradiol/norgestimate) daily",
+      "Aspirin 81mg daily",
+      "Calcium 600mg + Vitamin D3 1000 IU twice daily (started after fractures)",
+      "Acetaminophen 500mg PRN for back pain"
+    ],
+    "allergies": ["Sulfa drugs (rash)"],
+    "social_history": "Elementary school teacher for 15 years — teaches 3rd grade. Married with two children (ages 8 and 11, both healthy, both vaginal deliveries without complications). Never smoker. Rare alcohol (1-2 glasses of wine per month). No recreational drugs. Lives in suburban area. No occupational exposures. Diet: reports following ADA dietary guidelines since diabetes diagnosis. Exercise: used to walk 30 minutes daily but has reduced due to back pain and fatigue. Reports significant psychosocial stress from feeling 'out of control' of her body — she has always been health-conscious and athletic (played college soccer) and does not understand why everything is falling apart at once.",
+    "family_history": "Mother (age 62): type 2 diabetes diagnosed at age 55, hypertension. Father (age 65): healthy. Maternal grandmother: osteoporosis, hip fracture at age 78. Paternal grandfather: died of myocardial infarction at age 71. No family history of endocrine tumors, MEN syndromes, early-onset osteoporosis, or autoimmune disease. Both children healthy."
+  },
+
+  "vitals": {
+    "heart_rate": 82,
+    "blood_pressure": "152/96",
+    "respiratory_rate": 16,
+    "temperature": 37.0,
+    "oxygen_saturation": 98,
+    "weight_kg": 88.5,
+    "height_cm": 163,
+    "BMI": 33.3
+  },
+
+  "clinical_exam_findings": {
+    "General": "Obese woman appearing older than stated age of 38. Central/truncal obesity with notably thin extremities — centripetal fat distribution pattern. Mild facial plethora. Round, full facies (moon facies). Appears fatigued and mildly anxious. Moves slowly and guards her lower back.",
+    "HEENT": "Moon facies — round facial fullness with temporal wasting. Mild facial plethora (ruddy complexion). **Dorsocervical fat pad palpable at C7-T1 ('buffalo hump')** — patient states this developed over the past year. Fine facial hirsutism on upper lip and chin. No proptosis, no periorbital edema. Fundoscopic exam: mild hypertensive retinopathy (arteriolar narrowing, AV nicking). Oral mucosa moist, no thrush.",
+    "Cardiovascular": "Regular rate and rhythm. No murmurs, rubs, or gallops. Blood pressure 152/96 right arm, 148/92 left arm. No peripheral edema. Dorsalis pedis and posterior tibial pulses 2+ bilaterally.",
+    "Respiratory": "Clear to auscultation bilaterally. No wheezes, rales, or rhonchi. Respiratory effort normal.",
+    "Abdomen": "Central adiposity prominent. **Wide (1-1.5 cm) violaceous/purple striae on bilateral flanks and lower abdomen** — distinctly different from the silvery-white stretch marks from her two pregnancies, which are also visible. Soft, non-distended. Mild diffuse tenderness without guarding or rebound. Liver edge palpable 2cm below right costal margin. No splenomegaly. Normal bowel sounds.",
+    "Extremities": "**Thin extremities relative to trunk — visible wasting of deltoids and quadriceps.** Multiple ecchymoses in various stages of healing on forearms and shins — at least 8 visible bruises, several >3cm diameter, with no recalled trauma for most. Skin appears thin and fragile — 'tissue paper' quality on dorsal forearms. Slow-healing scratch on left forearm (patient reports it has been present for 3 weeks). No peripheral edema.",
+    "Musculoskeletal": "Tenderness to palpation over T11-L1 spinous processes. Paravertebral muscle spasm bilateral. Reduced lumbar range of motion (flexion limited to ~40 degrees by pain). **Proximal muscle weakness: difficulty rising from chair without using arms (Gower's-like maneuver), 4/5 hip flexor and shoulder abduction strength bilaterally.** Distal strength 5/5 throughout. Grip strength preserved.",
+    "Skin": "**Thin, fragile skin — easily tented on dorsal forearms.** Multiple ecchymoses as noted. Wide violaceous striae on abdomen/flanks. Fine facial hirsutism. Mild acne on chin and jawline. No acanthosis nigricans (despite diabetes — notable absence). No fungal infections. No hyperpigmentation.",
+    "Neurological": "Alert and oriented x3. Cranial nerves II-XII intact. Proximal weakness as noted in musculoskeletal exam (4/5 hip flexors, 4/5 shoulder abduction). Distal strength 5/5. Sensation intact to light touch and pinprick throughout. Reflexes 2+ and symmetric. No Babinski. Gait slow and cautious (guarding back) but no ataxia. Romberg negative."
+  },
+
+  "labs": {
+    "CBC": {
+      "WBC": "11.2 K/uL [4.5-11.0] **MILDLY ELEVATED**",
+      "Neutrophils": "78% [40-70] **HIGH — neutrophilia**",
+      "Lymphocytes": "14% [20-40] **LOW — relative lymphopenia**",
+      "Eosinophils": "0.5% [1-4] **LOW — eosinopenia**",
+      "Hemoglobin": "14.8 g/dL [12.0-16.0]",
+      "Hematocrit": "44.2% [36-46]",
+      "Platelets": "312 K/uL [150-400]",
+      "note": "The combination of leukocytosis with neutrophilia, lymphopenia, and eosinopenia is the classic cortisol-effect CBC pattern — a well-known but frequently overlooked laboratory signature of hypercortisolism. This pattern was present in labs drawn 8 months ago as well but was not flagged."
+    },
+    "CMP": {
+      "Sodium": "143 mEq/L [136-145]",
+      "Potassium": "3.2 mEq/L [3.5-5.0] **LOW — hypokalemia**",
+      "Chloride": "98 mEq/L [98-106]",
+      "Bicarbonate": "31 mEq/L [22-28] **HIGH — metabolic alkalosis**",
+      "BUN": "18 mg/dL [7-20]",
+      "Creatinine": "0.9 mg/dL [0.6-1.2]",
+      "Glucose_fasting": "142 mg/dL [70-100] **HIGH — diabetic range**",
+      "Calcium": "9.8 mg/dL [8.5-10.5]",
+      "Albumin": "3.8 g/dL [3.5-5.5]",
+      "AST": "28 U/L [10-40]",
+      "ALT": "35 U/L [7-56]",
+      "Alkaline_phosphatase": "142 U/L [44-147] **HIGH-NORMAL — elevated for a premenopausal woman, suggests increased bone turnover**",
+      "note": "Hypokalemia with metabolic alkalosis in a patient on lisinopril (which should RAISE potassium) is a significant red flag. This combination suggests mineralocorticoid excess — cortisol at high levels activates the mineralocorticoid receptor. Previous providers attributed the low potassium to 'dietary factors' and recommended bananas."
+    },
+    "Lipid_panel": {
+      "Total_cholesterol": "268 mg/dL [<200] **HIGH**",
+      "LDL": "162 mg/dL [<100] **HIGH**",
+      "HDL": "34 mg/dL [>50 for women] **LOW**",
+      "Triglycerides": "358 mg/dL [<150] **HIGH**",
+      "note": "Severely dyslipidemic profile attributed to 'metabolic syndrome.' Cortisol excess directly drives hepatic VLDL production and lipolysis, producing this exact pattern."
+    },
+    "HbA1c": "7.2% [<5.7 normal, 5.7-6.4 prediabetes] **DIABETIC — worsening despite metformin 2g/day**",
+    "Endocrine": {
+      "TSH": "2.1 mIU/L [0.4-4.0] — normal",
+      "FSH": "4.2 mIU/L — suppressed by OCP (unable to evaluate ovarian function while on OCP)",
+      "LH": "3.1 mIU/L — suppressed by OCP",
+      "Prolactin": "Not ordered",
+      "DHEA-S": "Not ordered",
+      "Testosterone_total": "Not ordered (was ordered during PCOS workup 2 years ago: 68 ng/dL [15-70] — noted as 'upper normal' but not further investigated)",
+      "note": "The PCOS diagnosis was made clinically (irregular periods + hirsutism + weight gain) without Rotterdam criteria being properly applied. Testosterone was borderline, ultrasound was never performed. The OCP was started empirically, masking further evaluation of the hypothalamic-pituitary axis."
+    },
+    "Bone_metabolism": {
+      "Vitamin_D_25OH": "22 ng/mL [30-100] **LOW — insufficiency**",
+      "PTH": "48 pg/mL [15-65] — normal (appropriately not elevated despite low vitamin D — this is actually abnormal, as PTH should be elevated in response to vitamin D insufficiency; cortisol suppresses PTH)",
+      "Calcium": "9.8 mg/dL [8.5-10.5]",
+      "Phosphorus": "3.1 mg/dL [2.5-4.5]",
+      "DEXA_scan": "Lumbar spine T-score: -2.8 **OSTEOPOROTIC** | Femoral neck T-score: -2.1 **OSTEOPOROTIC** | Total hip T-score: -1.8 (osteopenic)",
+      "note": "Osteoporosis in a 38-year-old premenopausal woman is ALWAYS pathological and demands investigation beyond 'calcium and vitamin D.' The referring physician correctly recognized this was abnormal and ordered the DEXA, but the workup stopped at calcium/vitamin D/PTH. A 24-hour urine free cortisol, late-night salivary cortisol, or 1mg overnight dexamethasone suppression test was never ordered."
+    },
+    "Urinalysis": {
+      "Glucose": "2+ **PRESENT — glycosuria reflecting hyperglycemia**",
+      "Protein": "Trace",
+      "Specific_gravity": "1.018",
+      "pH": "6.5",
+      "note": "Glycosuria despite metformin 2g/day reflects persistently elevated blood glucose. The trace proteinuria may reflect early diabetic or hypertensive nephropathy — but could also reflect cortisol-mediated renal effects."
+    },
+    "Tests_never_ordered": {
+      "note": "CRITICAL DIAGNOSTIC GAPS: The following tests were never ordered by any of the 4 providers who saw Mrs. Santos over 3 years: (1) 24-hour urine free cortisol, (2) Late-night salivary cortisol (x2), (3) 1mg overnight dexamethasone suppression test, (4) Morning serum cortisol, (5) Plasma ACTH level, (6) DHEA-S (would help differentiate PCOS from adrenal source), (7) Pituitary MRI. Each provider treated their individual finding (weight → diet, periods → PCOS/OCP, mood → depression/SSRI, BP → antihypertensive, glucose → metformin, fractures → calcium/vitamin D) without stepping back to ask: could one disease explain all of these?"
+    }
+  },
+
+  "imaging": {
+    "Thoracolumbar_spine_Xray": "FINDINGS: Mild anterior wedging of T11 vertebral body with approximately 25% height loss. L1 superior endplate compression fracture with approximately 30% anterior height loss. No retropulsion of bone fragments into the spinal canal. Mild degenerative changes at L4-L5. Alignment otherwise preserved. No lytic or blastic lesions identified.\n\nIMPRESSION: Compression fractures at T11 and L1, age indeterminate but likely subacute given clinical history. The degree of compression from a low-energy mechanism (ground-level fall) in a 38-year-old is concerning for underlying metabolic bone disease. Recommend DEXA scan and metabolic bone workup.",
+    "DEXA_scan": "FINDINGS: Lumbar spine (L1-L4) BMD 0.782 g/cm2, T-score -2.8, Z-score -3.1. Left femoral neck BMD 0.691 g/cm2, T-score -2.1, Z-score -2.4. Left total hip BMD 0.748 g/cm2, T-score -1.8, Z-score -2.1.\n\nIMPRESSION: Osteoporosis at lumbar spine and femoral neck. **Z-scores below -2.0 at all sites in a 38-year-old premenopausal woman indicate bone density significantly below expected for age and STRONGLY suggest a secondary cause of osteoporosis.** Recommend comprehensive secondary osteoporosis workup including thyroid function, celiac screening, vitamin D, PTH, serum and urine calcium, and evaluation for hypercortisolism.",
+    "Abdominal_ultrasound": "FINDINGS: Hepatomegaly with liver measuring 17.2 cm in craniocaudal dimension. Diffusely increased echogenicity consistent with hepatic steatosis (fatty liver). No focal hepatic lesions. Gallbladder normal, no stones. Kidneys normal in size and echogenicity bilaterally. No hydronephrosis. No adrenal masses identified (limited evaluation). Spleen normal.\n\nIMPRESSION: Hepatomegaly with steatosis. Note: Adrenal glands not well visualized on ultrasound — if clinical suspicion for adrenal pathology, recommend dedicated CT or MRI.",
+    "note": "NO pituitary MRI has been performed. NO dedicated adrenal CT has been performed. The DEXA report radiologist appropriately recommended evaluation for hypercortisolism, but this recommendation was not acted upon by the ordering physician."
+  },
+
+  "timeline": [
+    {
+      "date": "2023-02",
+      "age": "35",
+      "event": "Initial weight gain noted — attributed to lifestyle",
+      "provider": "Dr. Linda Park, Primary Care",
+      "details": "Maria reports gaining 12 pounds over 6 months despite no change in diet or activity. Attributes to stress from school budget cuts and her mother's diabetes diagnosis. Provider counsels on diet and exercise, orders basic labs (glucose 108, lipids borderline). Advised to increase physical activity. No further workup."
+    },
+    {
+      "date": "2023-08",
+      "age": "36",
+      "event": "Diagnosed with metabolic syndrome",
+      "provider": "Dr. Linda Park, Primary Care",
+      "details": "Now gained 22 pounds total. Waist circumference 38 inches. Fasting glucose 118, triglycerides 245, HDL 38, BP 138/88. Meets 4 of 5 criteria for metabolic syndrome. Started on metformin 500mg twice daily. Referred to nutritionist. Provider notes 'weight gain despite reported compliance with dietary recommendations — consider thyroid.' TSH ordered: 2.4 (normal). No further endocrine workup."
+    },
+    {
+      "date": "2024-01",
+      "age": "36",
+      "event": "Irregular periods — diagnosed with PCOS",
+      "provider": "Dr. Sarah Kim, OB/GYN",
+      "details": "Referred for irregular menstrual cycles (oligomenorrhea, 35-60 day cycles). Provider notes hirsutism on upper lip, acne, and weight gain. Clinical diagnosis of PCOS made based on 2 of 3 Rotterdam criteria (oligomenorrhea + clinical hyperandrogenism). Testosterone drawn: 68 ng/dL (upper normal). No pelvic ultrasound performed. No DHEA-S ordered. Started on combined OCP for cycle regulation. Provider notes: 'Classic PCOS presentation with metabolic syndrome features.' The OCP will now mask any further menstrual irregularity and suppress gonadotropins, preventing accurate HPG axis evaluation."
+    },
+    {
+      "date": "2024-07",
+      "age": "37",
+      "event": "Depression diagnosed — started sertraline",
+      "provider": "Dr. Linda Park, Primary Care",
+      "details": "Maria reports 4 months of worsening depressed mood, insomnia (early morning awakening at 3-4 AM), difficulty concentrating at work, irritability with students and family, emotional lability (crying over minor things), and decreased libido. PHQ-9 score: 16 (moderately severe depression). Provider diagnoses major depressive disorder and starts sertraline 50mg, titrated to 100mg. Referral to therapy offered but patient declines due to cost. Provider notes: 'Weight gain likely contributing to mood symptoms. Encourage continued diet and exercise.' The possibility that mood symptoms are caused by hypercortisolism — not the other way around — is not considered."
+    },
+    {
+      "date": "2025-01",
+      "age": "37",
+      "event": "Hypertension diagnosed — started lisinopril",
+      "provider": "Dr. Linda Park, Primary Care",
+      "details": "Blood pressure elevated at 3 consecutive visits: 148/94, 144/92, 150/96. Diagnosed with essential hypertension. Started on lisinopril 10mg, increased to 20mg after 6 weeks when BP remained 142/90. Provider notes: 'Hypertension in setting of metabolic syndrome and obesity — consistent with insulin resistance pathophysiology.' Potassium noted at 3.4 on CMP — attributed to dietary factors, advised to eat more potassium-rich foods. The fact that a patient on an ACE inhibitor (which raises potassium) has LOW potassium is not recognized as paradoxical."
+    },
+    {
+      "date": "2025-05",
+      "age": "38",
+      "event": "Type 2 diabetes diagnosed — metformin increased",
+      "provider": "Dr. Linda Park, Primary Care",
+      "details": "Fasting glucose: 156 mg/dL. HbA1c: 7.0%. Diagnosed with type 2 diabetes mellitus. Metformin increased to 1000mg twice daily. Low-dose aspirin 81mg added for cardiovascular risk reduction. Patient distressed: 'I don't understand. I'm doing everything right. I eat better than my mother ever did and she wasn't diabetic until 55.' Provider notes: 'Strong family history (mother). Counseled on disease progression despite lifestyle efforts. Consider GLP-1 agonist if not controlled in 3 months.' Total weight gain now 35 pounds in 2.5 years. Bruising on arms noted in exam — attributed to aspirin."
+    },
+    {
+      "date": "2025-11",
+      "age": "38",
+      "event": "Vertebral compression fractures discovered after minor fall",
+      "provider": "Dr. James Rivera, Urgent Care → Dr. Linda Park, Primary Care",
+      "details": "Maria slips on wet floor at school, falls backward onto her back. Immediate severe mid-back and low-back pain. X-ray at urgent care reveals T11 and L1 compression fractures. Urgent care physician notes: 'Compression fractures from ground-level fall in a 38-year-old is very unusual. Recommend DEXA scan and metabolic bone disease workup.' Referred back to PCP. Dr. Park orders DEXA scan (T-score -2.8 lumbar, -2.1 femoral neck — osteoporotic with Z-scores <-2.0) and basic bone labs (vitamin D low at 22, PTH normal at 48, calcium normal). Starts calcium + vitamin D supplementation. Notes 'unexplained osteoporosis in premenopausal woman — will monitor.' Does NOT order cortisol evaluation despite DEXA radiologist recommendation. Does NOT refer to endocrinology."
+    },
+    {
+      "date": "2026-02",
+      "age": "38",
+      "event": "Current presentation — referred for second opinion on premenopausal osteoporosis",
+      "provider": "New provider evaluation",
+      "details": "Maria's husband researched 'osteoporosis in young women' and insisted on a second opinion. She presents with her complete medical records from the past 3 years. She brings a handwritten list of everything that has gone wrong: 35-pound weight gain, round face, hump on neck, purple stretch marks, easy bruising, irregular periods, depression, high blood pressure, diabetes, and now broken bones. She says: 'I keep getting new diagnoses every few months. Nobody has explained why a healthy 35-year-old turned into this in 3 years. I feel like I'm falling apart and no one can tell me why.' On examination, the constellation of findings — centripetal obesity, moon facies, dorsocervical fat pad, wide violaceous striae, easy bruising, thin skin, proximal myopathy, hypertension, diabetes, and osteoporotic fractures in a premenopausal woman — is immediately suspicious for Cushing's syndrome."
+    }
+  ],
+
+  "metadata": {
+    "source": "Composite case based on published Cushing's syndrome diagnostic delay literature. Average diagnostic delay for Cushing's is 2-6 years. The pattern of accumulating individual diagnoses (metabolic syndrome, PCOS, depression, hypertension, diabetes) without unifying them is the most common failure mode.",
+    "difficulty": "hard",
+    "known_diagnosis": "Cushing's syndrome — ACTH-dependent, most likely pituitary microadenoma (Cushing's disease). Confirmatory testing would show: elevated 24-hour urine free cortisol (expected >3x upper limit), elevated late-night salivary cortisol, failure to suppress on 1mg overnight dexamethasone suppression test, ACTH in mid-to-high normal or elevated range (confirming ACTH-dependent etiology), and pituitary MRI showing a 6mm microadenoma.",
+    "teaching_points": [
+      "Cushing's syndrome is the great masquerader of metabolic disease — every feature of metabolic syndrome can be caused by cortisol excess",
+      "Premenopausal osteoporosis (Z-score < -2.0) ALWAYS requires secondary cause investigation — cortisol is a major culprit",
+      "Hypokalemia with metabolic alkalosis in a patient on an ACE inhibitor (which should raise potassium) is paradoxical and should trigger evaluation for mineralocorticoid excess",
+      "The CBC pattern of leukocytosis + neutrophilia + lymphopenia + eosinopenia is the cortisol-effect signature — present but overlooked",
+      "Wide (>1cm) VIOLACEOUS striae are pathological — distinct from normal weight-gain striae which are narrow, pink/white",
+      "Proximal myopathy (difficulty rising from a chair) in a middle-aged woman should not be attributed to deconditioning without investigation",
+      "PCOS diagnosis requires exclusion of other causes of hyperandrogenism including Cushing's syndrome (2003 Rotterdam criteria)",
+      "When a patient accumulates 5+ new diagnoses in 3 years, the clinician should step back and ask: is there one unifying diagnosis?",
+      "The DEXA radiologist's recommendation to evaluate for hypercortisolism was not acted upon — critical communication failure",
+      "Diagnostic overshadowing: each new symptom was absorbed into existing diagnoses rather than prompting reconsideration of the whole picture"
+    ],
+    "why_missed": "Classic fragmentation of care. Each provider treated their domain-specific finding in isolation: PCP managed metabolic syndrome/diabetes/hypertension as expected comorbidities, OB/GYN diagnosed PCOS clinically without ruling out other causes, PCP attributed mood changes to psychosocial stress. The weight gain was the first symptom but was normalized as lifestyle-related. The physical exam findings (violaceous striae, proximal weakness, buffalo hump) were either not recognized as pathological or not documented. The paradoxical hypokalemia on ACE inhibitor was missed. The DEXA radiologist's flag for hypercortisolism workup was not followed. No provider asked the unifying question until the fractures forced the issue."
+  }
+}
